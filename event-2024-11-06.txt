@@ -1,0 +1,59 @@
+Wednesday, November 6, 2024
+6:00 PM to 9:00 PM EST
+
+Add to calendar
+
+Super.com
+260 Queen St W, Toronto, ON M5V 1Z4, Canada · Toronto, ON
+
+
+Design Talk: Driving Adoption of an Enterprise Design System
+Design Talk: Driving Adoption of an Enterprise Design System
+
+
+Details
+
+You are invited to learn from Guy Segal, a seasoned UX Design Director and Design Systems Specialist with 20+ years of experience! He's the Director of Design + Design Systems at Thomson Reuters.
+
+From his roots as a software developer, Guy evolved into UX design and rose to leadership roles, sharing insights as a manager, mentor, and speaker on human-centred communication.
+
+📢 Join us for this FREE event featuring learning 💻, pizza 🍕, and networking 🤝!
+
+❓Bring your questions for a special Q&A session!
+
+***
+About Design Talk Series
+
+Would you like to advance your career and improve your UI/UX Design and Frontend skills?
+Are you a graphic designer who wants to improve your UI design skills?
+Are you a front-end developer who wants to improve your design and Figma skills?
+Would you like to be part of a tech meetup community where developers listen to and value designers?
+Are you curious to learn about something new?
+Well, then this is the series for you!
+
+***
+About TorontoJS: ℹ️
+Did you know that our members and volunteers are not just in Toronto and that we're not just JavaScript? We welcome people from any field in tech and with any level of skills—from students and those considering a career change to seasoned professionals with decades of experience.
+TorontoJS is dedicated to providing a welcoming, safe, inclusive and supportive environment for all regardless of their gender, sexual orientation, disability, physical appearance, body size, race, or religion.
+Please read the code of conduct before attending this meeting. https://torontojs.com/code_of_conduct
+We welcome and encourage people who are disabled, neurodivergent, deaf/Deaf, LGBTQ2S+, and BIPOC, to attend events, get involved as members and volunteer!
+***
+Connect With TorontoJS 🔗
+
+Website: https://torontojs.com
+Join us on Slack!
+Follow us on LinkedIn: https://www.linkedin.com/company/torontojs/
+You can also find TorontoJS events on Guild.host: https://guild.host/torontojs/events
+***
+
+
+Alt text for cover image:
+The image is a promotional graphic for a design talk. To the left, there is a red square logo with the letters "JS" and an illustration of the CN Tower. Next to the logo, the text "DESIGN TALK" appears, with "DESIGN" in black and "TALK" in red. Below, a bold headline reads, "SCALING ADOPTION AND ADVOCACY FOR AN ENTERPRISE-WIDE DESIGN SYSTEM:" in black capital letters. Underneath, there is a description in smaller text about building a platform-agnostic design system. Further below, event details are listed with a calendar icon and date-time information on the left, and a location pin icon with the venue address on the right. On the right side of the graphic is a circular photo of a man with glasses, smiling, against a white background. Below the photo, the text introduces the speaker, "Guy Seagal," with his title and affiliation.
+Alt-text: Promotional image for a design talk featuring event details and speaker Guy Seagal.
+Transcribed Text: DESIGN TALK
+SCALING ADOPTION AND ADVOCACY FOR AN ENTERPRISE-WIDE DESIGN SYSTEM: How we built a platform agnostic design system that everyone could benefit from, and promoted adoption across a fragmented organization.
+November 6, 2024 6:00pm - 9:00pm
+Sentry, 129 Spadina Ave., Toronto, ON
+Speaker Guy Seagal Director, Design + Design System @Thomson Reuters
+***
+Art by our volunteer Lean De Leon
