@@ -1,0 +1,35 @@
+Saturday, October 26, 2024
+4:00 PM to 6:00 PM EDT
+
+Add to calendar
+
+Online event
+
+Code Club Online: Nightmare Before React
+
+Hosted By
+Marco C.
+
+
+Details
+About Code Club
+
+TorontoJS Code Club is a friendly coding environment where we can bounce ideas & ask questions freely while working on software challenges together.
+Please bring your projects/ideas to the event, or just show up and contribute to the discussion!
+
+-We can tackle an open-source issue together. Some issues don't require much context to solve and are suitable for beginners too. This group programming event can be a great opportunity to start your open-source journey.
+-We can hack on personal projects together. Is there a bug in your software that you want to fix with the group? Is there a feature you want to add? How about some refactoring to clean up your codebase? It's fun to see how everyone has different approaches to solve these technical challenges.
+-Are you job searching? We can take a look at Leetcode-style interview questions together.
+-Countless new libraries appear in the JS ecosystem every year. We can try out a new piece of tech together and share our first impressions.
+
+This event is not about competition or achievements. Come for the pure joy of building. Everyone is welcome!
+
+Platform
+The event will be hosted on the TorontoJS discord server, on the #js-code-club channel.
+
+Accessibility Accommodations
+This is an online event on Discord, please feel free to contact us at [events@torontojs.com](mailto:events@torontojs.com) if you need any accommodations for the event.
+Our Code of Conduct is enforced at all TorontoJS events.
+
+Image description
+A pumpkin patch from The Nightmare Before Christmas with a full moon on the center of the image, in front of the full moon there is the CN Tower showing. Overlaid on the image it reads: Toronto JS - Code Club - October 2024
