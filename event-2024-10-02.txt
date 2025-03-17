@@ -1,0 +1,75 @@
+Wednesday, October 2, 2024
+6:00 PM to 8:45 PM EDT
+Add to calendar
+
+UXUI Design Online Talk: Design Systems - A Survival Guide
+UXUI Design Online Talk: Design Systems - A Survival Guide
+Details
+This is our first UIUX Design event run by the new TorontoJS design team!
+
+Would you like to advance your career and improve your UIUX Design and Frontend skills?
+Are you a graphic designer who wants to improve your UI design skills?
+Are you a frontend developer that wants to improve your design and Figma skills?
+Would you like to be part of a tech meetup community where developers listen to and value designers?
+Well then this is the series for you!
+The UIUX Design Series is designed for designers and frontend developers and run by the TorontoJS Design Team.
+Location: Online
+Topic: Design Systems
+Agenda
+1 - What is NOT a Design System?
+“False Tracks: Misleading Signs in the Wild”
+Focus on common misconceptions and what design systems are not.
+2 - What is a Design System?
+“Defining the Species: Identifying a True Design System”
+Explore the fundamental characteristics of a design system.
+3-Design Systems as Product
+“The Ecosystem: Living and Breathing as a Product”
+Discuss viewing the design system as a product with its own lifecycle.
+4 - Challenges: Survival in the Wilderness
+
+Concept: Planting the Seeds
+⁠Raise: Nurturing Growth
+⁠Adopt: Finding Allies and Surviving
+Scale: Thriving or Failing to Adapt
+5-Wrap Up
+“Survival Lessons: What We’ve Learned from the Wild”
+Recap the key takeaways that help design systems endure.
+6-Q&A
+“Campfire Stories: Sharing
+Speaker: Victor Montalvão
+Victor Montalvao is a seasoned design leader with over 15 years of experience shaping digital products and user experiences. As Senior Group Design Manager at SmartRecruiters, Victor led the design discipline across the Platform groups, as well as the Design System and Accessibility Program. With experience at companies such as Philips, Globo, Oi and Xello, he combines strategic vision with practical experience. Victor is passionate about transforming complex challenges into intuitive solutions and driving innovation through design.
+
+Accessibility of UIUX Design Talk & Workshop Series:
+(Because accessibility isn't just about users!)
+
+All in-person events will be wheelchair accessible and have easy access to an accessible subway station or streetcar route.
+Online events will have auto captioning enabled and presenters/hosts will do our best to provide described audio of visuals.
+Talks uploaded to YouTube will have both captions and transcripts (Please note: It may take a while for the first few YouTube videos to have captions and transcripts as we are setting up the new accessibility team. We're looking for volunteers!)
+***
+About TorontoJS: ℹ️
+Did you know that our members and volunteers are not just in Toronto, and that we're not just JavaScript! We welcome people from any field in tech and with any level of skills - from students and those considering a career change up to seasoned professionals with decades of experience.
+TorontoJS is dedicated to providing a welcoming, safe, inclusive and supportive environment for all regardless of their gender, sexual orientation, disability, physical appearance, body size, race, or religion.
+Please read the code of conduct prior to attending this meeting. We welcome and encourage people who are disabled, neurodivergent, deaf/Deaf, LGBTQ2S+, and BIPOC, to attend events, get involved as members and to volunteer!
+***
+Connect With TorontoJS 🔗
+
+Website: https://torontojs.com
+Join us on Slack!
+Follow us on LinkedIn: https://www.linkedin.com/company/torontojs/
+You can also find TorontoJS events on Guild.host: https://guild.host/torontojs/events
+***
+Alt text for cover image:
+Toronto JS Logo, Design Talk Online
+Header that reads: "Design Systems: A Survival Guide"
+Text below header: "Victor Montalvao is a seasoned design leader with over 15 years of experience shaping digital products and user experiences. As Senior Group Design Manager at SmartRecruiters, Victor led the design discipline across the Platform groups, as well as the Design System and Accessibility Program. With experience at companies such as Philips, Globo, Oi and Xello, he combines strategic vision with practical experience. Victor is passionate about transforming complex challenges into intuitive solutions and driving innovation through design."
+
+Below it reeds: Date and Time: October 2, 2024 6:00 PM
+
+On the right side there is a rounded portrait with a picture of Victor and under it, that reads: Speaker - Victor Montalvao - Senior Group Design Manager at SmartRecruiters
+
+Events in
+Graphic Design
+UI Design
+UI/UX Design
+Web Design
+Front-end Development
