@@ -1,0 +1,49 @@
+{
+	"$schema": "https://json-schema.org/draft-07/schema",
+	"type": "object",
+	"required": [ "title", "startDate", "endDate", "status", "locationType", "details" ],
+	"properties": {
+		"title": {
+			"type": "string",
+			"description": "The event's title."
+		},
+		"hosts": {
+			"type": "array",
+			"items": { "type": "string" },
+			"description": "A list of people who are hosting the event."
+		},
+		"startDate": {
+			"type": "string",
+			"format": "date-time",
+			"description": "The event's start date, in ISO format."
+		},
+		"endDate": {
+			"type": "string",
+			"format": "date-time",
+			"description": "The event's end date, in ISO format."
+		},
+		"status": {
+			"enum": [ "canceled", "active" ],
+			"description": "If the event was canceled or not."
+		},
+		"locationType": {
+			"enum": [ "in-person", "virtual", "hybrid" ],
+			"description": "Where the event takes place, if it is an in person, virtual, or hybrid event."
+		},
+		"image": {
+			"type": "string",
+			"format": "uri",
+			"description": "An URL pointing to the event's cover image."
+		},
+		"details": {
+			"type": "string",
+			"format": "markdown",
+			"description": "The event details, in markdown format."
+		},
+		"tags": {
+			"type": "array",
+			"items": { "type": "string" },
+			"description": "A list of tags related to the event."
+		}
+	}
+}
