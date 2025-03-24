@@ -1,0 +1,24 @@
+{
+	"$schema": "http://json-schema.org/draft-07/schema",
+	"type": "array",
+	"items": {
+		"type": "object",
+		"required": [ "title", "url", "startDate" ],
+		"properties": {
+			"title": {
+				"type": "string",
+				"description": "The event's title."
+			},
+			"url": {
+				"type": "string",
+				"format": "uri",
+				"description": "An URL pointing to the event full information."
+			},
+			"startDate": {
+				"type": "string",
+				"format": "date-time",
+				"description": "The event's start date, in ISO format."
+			}
+		}
+	}
+}
