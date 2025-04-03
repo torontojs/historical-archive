@@ -225,13 +225,35 @@ async function scrapeMeetupEvents() {
     }
 
     // Save results as JSON file
-    await fs.writeFile(
-      "src/data/torontojs_events.json",
-      JSON.stringify(allEventData, null, 2),
-      "utf8"
-    );
+    // await fs.writeFile(
+    //   "src/data/torontojs_events.json",
+    //   JSON.stringify(allEventData, null, 2),
+    //   "utf8"
+    // );
+    // console.log(
+    //   `Scraping completed. Saved information for ${allEventData.length} events.`
+    // );
+
+    // return allEventData;
+
+    for (const eventData of allEventData) {
+      // Extract date from startDate (assumes ISO format)
+      const eventDate = new Date(eventData.startDate);
+      const formattedDate = eventDate.toISOString().split("T")[0]; // Gets YYYY-MM-DD
+
+      // Create filename
+      const filename = `src/data/events/event-${formattedDate}.json`;
+
+      // Ensure the directory exists
+      await fs.mkdir("src/data/events", { recursive: true });
+
+      // Save individual event file
+      await fs.writeFile(filename, JSON.stringify(eventData, null, 2), "utf8");
+      console.log(`Saved event file: ${filename}`);
+    }
+
     console.log(
-      `Scraping completed. Saved information for ${allEventData.length} events.`
+      `Scraping completed. Saved ${allEventData.length} individual event files.`
     );
 
     return allEventData;
