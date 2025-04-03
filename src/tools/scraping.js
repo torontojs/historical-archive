@@ -23,7 +23,7 @@ async function scrapeMeetupEvents() {
       for (let i = 0; i < args.length; i++) {
         vals.push(await args[i].jsonValue());
       }
-      console.log(vals.join("\t"));
+      console.log(vals.map((v) => JSON.stringify(v)).join("\t"));
     });
 
     const cookies = [
@@ -74,12 +74,14 @@ async function scrapeMeetupEvents() {
         const scroller = document.documentElement;
         let lastPosition = -1;
         let noChangeCount = 0;
+        let totalScrolls = 0;
+        const maxScrollAttempts = 500;
 
-        while (!window.atBottom) {
+        while (!window.atBottom && totalScrolls < maxScrollAttempts) {
           // Scroll down in increments rather than all at once
           scroller.scrollTop += 800;
 
-          await wait(500);
+          await wait(3000);
 
           const currentPosition = scroller.scrollTop;
           console.log("Current scroll position:", currentPosition);
@@ -106,7 +108,7 @@ async function scrapeMeetupEvents() {
     // Wait for the scrolling to complete
     console.log("Waiting for infinite scroll to complete...");
     await page.waitForFunction("window.atBottom == true", {
-      timeout: 300000, // 5 minutes timeout
+      timeout: 3600000, // 60 minutes timeout
       polling: 1000, // Poll every second
     });
     console.log("Infinite scroll completed, retrieving event links...");
@@ -132,6 +134,108 @@ async function scrapeMeetupEvents() {
     console.log(`Found ${eventLinks.length} event links`);
     console.log({ eventLinks });
 
+    async function processEventWithRetry(page, url, maxRetries = 3) {
+      for (let attempt = 1; attempt <= maxRetries; attempt++) {
+        try {
+          await page.goto(url, {
+            waitUntil: "networkidle2",
+            timeout: 90000,
+          });
+
+          // Extract event information
+          const eventData = await page.evaluate(() => {
+            // title
+            const title =
+              document.querySelector("h1")?.textContent.trim() || "No title";
+
+            // hosts
+            const hostText =
+              document
+                .querySelector('a[data-event-label="hosted-by"] .font-medium')
+                ?.textContent.trim() || "";
+            const hosts = hostText
+              ? hostText.split(" and ").map((name) => name.trim())
+              : [];
+
+            // startDate and endDate (assuming end date is same as start date if not specified)
+            const dateTimeElement = document.querySelector("time[datetime]");
+            const startDate = dateTimeElement
+              ? dateTimeElement.getAttribute("datetime") // Already in ISO format
+              : new Date().toISOString();
+            const endDate = startDate; // Set end date same as start date if not available
+
+            // status
+            const canceledElement = document.querySelector(
+              '[data-testid="event-canceled-banner"]'
+            );
+            const status = canceledElement ? "canceled" : "active";
+
+            // locationType
+            const venueNameElement = document.querySelector(
+              '[data-testid="venue-name-value"]'
+            );
+            const locationType =
+              venueNameElement?.textContent.trim() === "Online event"
+                ? "virtual"
+                : "in-person";
+
+            // image
+            const imageElement = document.querySelector(
+              '[data-testid="event-description-image"] img'
+            );
+            const image = imageElement
+              ? imageElement.getAttribute("src")
+              : null;
+
+            // details
+            const detailsElement = document.querySelector("#event-details");
+            const details = detailsElement ? detailsElement.innerHTML : "";
+
+            // tags
+            const tags = Array.from(document.querySelectorAll("a.tag--topic"))
+              .map((tag) => tag.textContent.trim())
+              .filter((tag) => tag);
+
+            return {
+              title,
+              hosts,
+              startDate,
+              endDate,
+              status,
+              locationType,
+              image,
+              details,
+              tags,
+            };
+          });
+
+          console.log(`Retrieved information for event "${eventData.title}"`);
+          return eventData;
+        } catch (error) {
+          const errorType = error.name || "Unknown";
+          const errorMessage = error.message || "No error message";
+          console.log(`Attempt ${attempt}/${maxRetries} failed for ${url}`);
+          console.log(`Error type: ${errorType}`);
+          console.log(`Error message: ${errorMessage}`);
+
+          if (attempt === maxRetries) {
+            console.error(
+              `Failed to process event after ${maxRetries} attempts:`,
+              {
+                url,
+                errorType,
+                errorMessage,
+                stack: error.stack,
+              }
+            );
+            return null;
+          }
+          // Wait before retrying
+          await new Promise((resolve) => setTimeout(resolve, 2000));
+        }
+      }
+    }
+
     // Access each event page and retrieve detailed information
     for (let i = 0; i < eventLinks.length; i++) {
       const eventUrl = eventLinks[i];
@@ -139,88 +243,13 @@ async function scrapeMeetupEvents() {
         `Processing event ${i + 1}/${eventLinks.length}: ${eventUrl}`
       );
 
-      try {
-        await page.goto(eventUrl, { waitUntil: "networkidle2" });
-
-        // Extract event information
-        const eventData = await page.evaluate(() => {
-          // title
-          const title =
-            document.querySelector("h1")?.textContent.trim() || "No title";
-
-          // hosts
-          const hostText =
-            document
-              .querySelector('a[data-event-label="hosted-by"] .font-medium')
-              ?.textContent.trim() || "";
-          const hosts = hostText
-            ? hostText.split(" and ").map((name) => name.trim())
-            : [];
-
-          // startDate and endDate (assuming end date is same as start date if not specified)
-          const dateTimeElement = document.querySelector("time[datetime]");
-          const startDate = dateTimeElement
-            ? dateTimeElement.getAttribute("datetime") // Already in ISO format
-            : new Date().toISOString();
-          const endDate = startDate; // Set end date same as start date if not available
-
-          // status
-          const canceledElement = document.querySelector(
-            '[data-testid="event-canceled-banner"]'
-          );
-          const status = canceledElement ? "canceled" : "active";
-
-          // locationType
-          const venueNameElement = document.querySelector(
-            '[data-testid="venue-name-value"]'
-          );
-          const locationType =
-            venueNameElement?.textContent.trim() === "Online event"
-              ? "virtual"
-              : "in-person";
-
-          // image
-          const imageElement = document.querySelector(
-            '[data-testid="event-description-image"] img'
-          );
-          const image = imageElement ? imageElement.getAttribute("src") : null;
-
-          // details
-          const detailsElement = document.querySelector("#event-details");
-          const details = detailsElement ? detailsElement.innerHTML : "";
-
-          // tags
-          const tags = Array.from(document.querySelectorAll("a.tag--topic"))
-            .map((tag) => tag.textContent.trim())
-            .filter((tag) => tag);
-
-          return {
-            title,
-            hosts,
-            startDate,
-            endDate,
-            status,
-            locationType,
-            image,
-            details,
-            tags,
-          };
-        });
-
-        console.log(`Retrieved information for event "${eventData.title}"`);
+      const eventData = await processEventWithRetry(page, eventUrl);
+      if (eventData) {
         allEventData.push(eventData);
-
         // Set random wait time (to avoid scraping detection)
         await new Promise((resolve) =>
           setTimeout(resolve, 1000 + Math.random() * 2000)
         );
-      } catch (error) {
-        console.error(
-          `Error occurred while processing event page: ${eventUrl}`,
-          error.message
-        );
-        // Continue despite error
-        continue;
       }
     }
 
