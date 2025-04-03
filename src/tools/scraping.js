@@ -253,18 +253,6 @@ async function scrapeMeetupEvents() {
       }
     }
 
-    // Save results as JSON file
-    // await fs.writeFile(
-    //   "src/data/torontojs_events.json",
-    //   JSON.stringify(allEventData, null, 2),
-    //   "utf8"
-    // );
-    // console.log(
-    //   `Scraping completed. Saved information for ${allEventData.length} events.`
-    // );
-
-    // return allEventData;
-
     for (const eventData of allEventData) {
       // Extract date from startDate (assumes ISO format)
       const eventDate = new Date(eventData.startDate);
