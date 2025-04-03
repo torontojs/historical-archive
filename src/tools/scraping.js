@@ -1,5 +1,6 @@
 const puppeteer = require("puppeteer");
 const fs = require("fs/promises");
+require("dotenv").config();
 
 async function scrapeMeetupEvents() {
   // Launch the browser
@@ -9,27 +10,36 @@ async function scrapeMeetupEvents() {
   });
 
   const allEventData = [];
-  let hasMoreEvents = true;
   let pageIndex = 1;
 
   try {
     // Open a new page
     const page = await browser.newPage();
 
+    // Set up console log forwarding from browser to Node
+    page.on("console", async (msg) => {
+      const args = msg.args();
+      const vals = [];
+      for (let i = 0; i < args.length; i++) {
+        vals.push(await args[i].jsonValue());
+      }
+      console.log(vals.join("\t"));
+    });
+
     const cookies = [
       {
         name: "__meetup_auth_access_token",
-        value: "YOUR TOKEN",
+        value: process.env.MEETUP_AUTH_TOKEN,
         domain: ".meetup.com",
       },
       {
         name: "MEETUP_SESSION",
-        value: "YOUR SESSION",
+        value: process.env.MEETUP_SESSION,
         domain: ".meetup.com",
       },
       {
         name: "memberId",
-        value: "YOUR ID",
+        value: process.env.MEETUP_MEMBER_ID,
         domain: ".meetup.com",
       },
     ];
@@ -51,144 +61,173 @@ async function scrapeMeetupEvents() {
       waitUntil: "networkidle2",
     });
 
-    // Due to infinite scrolling, scroll multiple pages to collect events
-    while (hasMoreEvents && pageIndex <= 5) {
-      // Scroll up to 5 pages (adjust as needed)
-      console.log(`Processing page ${pageIndex}...`);
+    // Setup and execute the infinite scroll logic
+    await page.evaluate(() => {
+      window.atBottom = false;
 
-      // Get all event card links
-      const eventLinks = await page.evaluate(() => {
-        const links = [];
-        const eventCards = document.querySelectorAll('a[href*="/events/"]');
+      const wait = (duration) => {
+        console.log("Waiting", duration, "ms");
+        return new Promise((resolve) => setTimeout(resolve, duration));
+      };
 
-        eventCards.forEach((card) => {
-          const href = card.getAttribute("href");
-          // Check if the URL matches the specific pattern
-          const urlPattern =
-            /^https:\/\/www\.meetup\.com\/torontojs\/events\/\d+\/\?eventOrigin=group_events_list$/;
-          if (href && urlPattern.test(href)) {
-            links.push(href);
+      (async () => {
+        const scroller = document.documentElement;
+        let lastPosition = -1;
+        let noChangeCount = 0;
+
+        while (!window.atBottom) {
+          // Scroll down in increments rather than all at once
+          scroller.scrollTop += 800;
+
+          await wait(500);
+
+          const currentPosition = scroller.scrollTop;
+          console.log("Current scroll position:", currentPosition);
+
+          if (currentPosition > lastPosition) {
+            // Still scrolling, reset counter
+            lastPosition = currentPosition;
+            noChangeCount = 0;
+          } else {
+            // Position didn't change, increment counter
+            noChangeCount++;
+            console.log("No change count:", noChangeCount);
+
+            // If position hasn't changed for multiple checks, we're at the bottom
+            if (noChangeCount >= 3) {
+              window.atBottom = true;
+              console.log("Reached bottom of page!");
+            }
           }
-        });
+        }
+      })();
+    });
 
-        return links;
+    // Wait for the scrolling to complete
+    console.log("Waiting for infinite scroll to complete...");
+    await page.waitForFunction("window.atBottom == true", {
+      timeout: 300000, // 5 minutes timeout
+      polling: 1000, // Poll every second
+    });
+    console.log("Infinite scroll completed, retrieving event links...");
+
+    // Now get all event links after the scrolling is complete
+    const eventLinks = await page.evaluate(() => {
+      const links = [];
+      const eventCards = document.querySelectorAll('a[href*="/events/"]');
+
+      eventCards.forEach((card) => {
+        const href = card.getAttribute("href");
+        // Check if the URL matches the specific pattern
+        const urlPattern =
+          /^https:\/\/www\.meetup\.com\/torontojs\/events\/\d+\/\?eventOrigin=group_events_list$/;
+        if (href && urlPattern.test(href) && !links.includes(href)) {
+          links.push(href);
+        }
       });
 
-      console.log(`Found ${eventLinks.length} event links`);
-      console.log({ eventLinks });
+      return links;
+    });
 
-      // Access each event page and retrieve detailed information
-      for (let i = 0; i < eventLinks.length; i++) {
-        const eventUrl = eventLinks[i];
-        console.log(
-          `Processing event ${i + 1}/${eventLinks.length}: ${eventUrl}`
+    console.log(`Found ${eventLinks.length} event links`);
+    console.log({ eventLinks });
+
+    // Access each event page and retrieve detailed information
+    for (let i = 0; i < eventLinks.length; i++) {
+      const eventUrl = eventLinks[i];
+      console.log(
+        `Processing event ${i + 1}/${eventLinks.length}: ${eventUrl}`
+      );
+
+      try {
+        await page.goto(eventUrl, { waitUntil: "networkidle2" });
+
+        // Extract event information
+        const eventData = await page.evaluate(() => {
+          // title
+          const title =
+            document.querySelector("h1")?.textContent.trim() || "No title";
+
+          // hosts
+          const organizer =
+            document
+              .querySelector('a[data-event-label="hosted-by"] .font-medium')
+              ?.textContent.trim() || "No host";
+
+          // startDate
+          const dateTimeElement = document.querySelector("time[datetime]");
+          const dateTime = dateTimeElement
+            ? {
+                rawDateTime: dateTimeElement.getAttribute("datetime"),
+                displayText: dateTimeElement.textContent.trim(),
+              }
+            : { rawDateTime: "No date", displayText: "No date" };
+
+          // status
+          const canceledElement = document.querySelector(
+            '[data-testid="event-canceled-banner"]'
+          );
+          const status = canceledElement ? "Canceled" : "Active";
+
+          // locationType
+          const venueNameElement = document.querySelector(
+            '[data-testid="venue-name-value"]'
+          );
+          const isVirtualEvent =
+            venueNameElement?.textContent.trim() === "Online event";
+
+          const location = isVirtualEvent ? "Virtual" : "In-person";
+
+          // image
+          const imageElement = document.querySelector(
+            '[data-testid="event-description-image"] img'
+          );
+          const imageUrl = imageElement
+            ? imageElement.getAttribute("src")
+            : null;
+
+          // details
+          const detailsElement = document.querySelector("#event-details");
+          const detailsHtml = detailsElement
+            ? detailsElement.innerHTML
+            : "No description";
+          const detailsText = detailsElement
+            ? detailsElement.textContent.trim()
+            : "No description";
+
+          return {
+            title,
+            dateTime,
+            location,
+            organizer,
+            detailsHtml,
+            detailsText,
+            imageUrl,
+            status,
+            url: window.location.href,
+          };
+        });
+
+        console.log(`Retrieved information for event "${eventData.title}"`);
+        allEventData.push(eventData);
+
+        // Set random wait time (to avoid scraping detection)
+        await new Promise((resolve) =>
+          setTimeout(resolve, 1000 + Math.random() * 2000)
         );
-
-        try {
-          await page.goto(eventUrl, { waitUntil: "networkidle2" });
-
-          // Extract event information
-          const eventData = await page.evaluate(() => {
-            // title
-            const title =
-              document.querySelector("h1")?.textContent.trim() || "No title";
-
-            // hosts
-            const hostText =
-              document
-                .querySelector('a[data-event-label="hosted-by"] .font-medium')
-                ?.textContent.trim() || "";
-            const hosts = hostText
-              ? hostText.split(" and ").map((name) => name.trim())
-              : ["No host"];
-
-            // startDate
-            const dateTimeElement = document.querySelector("time[datetime]");
-            const startDate = dateTimeElement
-              ? {
-                  rawDateTime: dateTimeElement.getAttribute("datetime"),
-                  displayText: dateTimeElement.textContent.trim(),
-                }
-              : { rawDateTime: "No date", displayText: "No date" };
-
-            // status
-            const canceledElement = document.querySelector(
-              '[data-testid="event-canceled-banner"]'
-            );
-            const status = canceledElement ? "canceled" : "active";
-
-            // locationType
-            const venueNameElement = document.querySelector(
-              '[data-testid="venue-name-value"]'
-            );
-            const isVirtualEvent =
-              venueNameElement?.textContent.trim() === "Online event";
-
-            const locationType = isVirtualEvent ? "virtual" : "in-person";
-
-            // image
-            const imageElement = document.querySelector(
-              '[data-testid="event-description-image"] img'
-            );
-            const image = imageElement
-              ? imageElement.getAttribute("src")
-              : null;
-
-            // details
-            const detailsElement = document.querySelector("#event-details");
-            const details = detailsElement
-              ? detailsElement.innerHTML
-              : "No description";
-
-            // tags
-
-            return {
-              title,
-              hosts,
-              startDate,
-              status,
-              locationType,
-              image,
-              details,
-              url: window.location.href,
-            };
-          });
-
-          console.log(`Retrieved information for event "${eventData.title}"`);
-          allEventData.push(eventData);
-
-          // Set random wait time (to avoid scraping detection)
-          await new Promise((resolve) =>
-            setTimeout(resolve, 1000 + Math.random() * 2000)
-          );
-        } catch (error) {
-          console.error(
-            `Error occurred while processing event page: ${eventUrl}`,
-            error.message
-          );
-          // Continue despite error
-          continue;
-        }
+      } catch (error) {
+        console.error(
+          `Error occurred while processing event page: ${eventUrl}`,
+          error.message
+        );
+        // Continue despite error
+        continue;
       }
-
-      // Check if there are more pages and load by scrolling
-      const previousHeight = await page.evaluate("document.body.scrollHeight");
-      await page.evaluate("window.scrollTo(0, document.body.scrollHeight)");
-      await new Promise((resolve) => setTimeout(resolve, 3000)); // Wait for content to load after scrolling
-
-      const newHeight = await page.evaluate("document.body.scrollHeight");
-      if (newHeight === previousHeight) {
-        // If height doesn't change after scrolling, no more content is available
-        hasMoreEvents = false;
-        console.log("No more events available");
-      }
-
-      pageIndex++;
     }
 
     // Save results as JSON file
     await fs.writeFile(
-      "torontojs_events.json",
+      "src/data/torontojs_events.json",
       JSON.stringify(allEventData, null, 2),
       "utf8"
     );
