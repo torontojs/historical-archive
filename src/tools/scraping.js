@@ -149,62 +149,61 @@ async function scrapeMeetupEvents() {
             document.querySelector("h1")?.textContent.trim() || "No title";
 
           // hosts
-          const organizer =
+          const hostText =
             document
               .querySelector('a[data-event-label="hosted-by"] .font-medium')
-              ?.textContent.trim() || "No host";
+              ?.textContent.trim() || "";
+          const hosts = hostText
+            ? hostText.split(" and ").map((name) => name.trim())
+            : [];
 
-          // startDate
+          // startDate and endDate (assuming end date is same as start date if not specified)
           const dateTimeElement = document.querySelector("time[datetime]");
-          const dateTime = dateTimeElement
-            ? {
-                rawDateTime: dateTimeElement.getAttribute("datetime"),
-                displayText: dateTimeElement.textContent.trim(),
-              }
-            : { rawDateTime: "No date", displayText: "No date" };
+          const startDate = dateTimeElement
+            ? dateTimeElement.getAttribute("datetime") // Already in ISO format
+            : new Date().toISOString();
+          const endDate = startDate; // Set end date same as start date if not available
 
           // status
           const canceledElement = document.querySelector(
             '[data-testid="event-canceled-banner"]'
           );
-          const status = canceledElement ? "Canceled" : "Active";
+          const status = canceledElement ? "canceled" : "active";
 
           // locationType
           const venueNameElement = document.querySelector(
             '[data-testid="venue-name-value"]'
           );
-          const isVirtualEvent =
-            venueNameElement?.textContent.trim() === "Online event";
-
-          const location = isVirtualEvent ? "Virtual" : "In-person";
+          const locationType =
+            venueNameElement?.textContent.trim() === "Online event"
+              ? "virtual"
+              : "in-person";
 
           // image
           const imageElement = document.querySelector(
             '[data-testid="event-description-image"] img'
           );
-          const imageUrl = imageElement
-            ? imageElement.getAttribute("src")
-            : null;
+          const image = imageElement ? imageElement.getAttribute("src") : null;
 
           // details
           const detailsElement = document.querySelector("#event-details");
-          const detailsHtml = detailsElement
-            ? detailsElement.innerHTML
-            : "No description";
-          const detailsText = detailsElement
-            ? detailsElement.textContent.trim()
-            : "No description";
+          const details = detailsElement ? detailsElement.innerHTML : "";
+
+          // tags
+          const tags = Array.from(document.querySelectorAll("a.tag--topic"))
+            .map((tag) => tag.textContent.trim())
+            .filter((tag) => tag);
 
           return {
             title,
-            dateTime,
-            location,
-            organizer,
-            detailsHtml,
-            detailsText,
-            imageUrl,
+            hosts,
+            startDate,
+            endDate,
             status,
-            url: window.location.href,
+            locationType,
+            image,
+            details,
+            tags,
           };
         });
 
