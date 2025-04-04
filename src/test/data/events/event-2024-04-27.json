@@ -1,0 +1,21 @@
+{
+  "title": "Code Club: Code Eclipse",
+  "hosts": [
+    "Ken B.",
+    "Dale K."
+  ],
+  "startDate": "2024-04-27T16:00:00-04:00",
+  "endDate": "2024-04-27T16:00:00-04:00",
+  "status": "active",
+  "locationType": "virtual",
+  "image": "https://secure.meetupstatic.com/photos/event/a/0/3/e/600_519101022.webp?w=750",
+  "tags": [
+    "Events in",
+    "JavaScript",
+    "JavaScript Applications",
+    "JavaScript Frameworks",
+    "JavaScript Libraries",
+    "Web Technology"
+  ],
+  "details": "Details\n-------\n\nDon't stare directly into the solar eclipse! Instead, stare at your monitor while you attend April's Code Club event! TorontoJS Code Club is a friendly coding environment where we can bounce ideas & ask questions freely while working on software challenges together. Please bring your projects/ideas to the event, or just show up and contribute to the discussion!\n\n*   We can tackle an open-source issue together. Some issues don't require much context to solve and are suitable for beginners too. This group programming event can be a great opportunity to start your open-source journey. 🚀\n    \n*   We can hack on personal projects together. Is there a bug in your software that you want to fix with the group? Is there a feature you want to add? How about some refactoring to clean up your codebase? It's fun to see how everyone has different approaches to solve these technical challenges. 🖥️\n    \n*   Are you job searching? We can take a look at Leetcode-style interview questions together. 👏\n    \n*   Countless new libraries appear in the JS ecosystem every year. We can try out a new piece of tech together and share our first impressions. 👀\n    \n\nThis event is not about competition or achievements. Come for the pure joy of building.\n\nOur [Code of Conduct](https://torontojs.com/code_of_conduct) is enforced at all TorontoJS events."
+}

@@ -1,6 +1,8 @@
 const puppeteer = require("puppeteer");
 const fs = require("fs/promises");
 require("dotenv").config();
+const TurndownService = require('turndown');
+const turndownService = new TurndownService();
 
 async function scrapeMeetupEvents() {
   // Launch the browser
@@ -188,8 +190,8 @@ async function scrapeMeetupEvents() {
               : null;
 
             // details
-            const detailsElement = document.querySelector("#event-details");
-            const details = detailsElement ? detailsElement.innerHTML : "";
+            const detailsHTML =
+							document.getElementById('event-details')?.innerHTML || '';
 
             // tags
             const tags = Array.from(document.querySelectorAll("a.tag--topic"))
@@ -197,17 +199,21 @@ async function scrapeMeetupEvents() {
               .filter((tag) => tag);
 
             return {
-              title,
-              hosts,
-              startDate,
-              endDate,
-              status,
-              locationType,
-              image,
-              details,
-              tags,
-            };
+							title,
+							hosts,
+							startDate,
+							endDate,
+							status,
+							locationType,
+							image,
+							detailsHTML,
+							tags,
+						};
           });
+
+           // Convert HTML to Markdown (outside browser context)
+            eventData.details = turndownService.turndown(eventData.detailsHTML);
+            delete eventData.detailsHTML;
 
           console.log(`Retrieved information for event "${eventData.title}"`);
           return eventData;
