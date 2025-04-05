@@ -1,0 +1,15 @@
+{
+  "title": "BeerScript",
+  "hosts": [
+    "Matthew M."
+  ],
+  "startDate": "2016-12-20T18:00:00-05:00",
+  "endDate": "2016-12-20T18:00:00-05:00",
+  "status": "active",
+  "locationType": "in-person",
+  "image": null,
+  "tags": [
+    "Events in Toronto, ON"
+  ],
+  "details": "Details\n-------\n\n[https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/e/5/7/600\\_453183671.jpeg](https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/e/5/7/600_453183671.jpeg)\n\nAlcohol + Code = LOVE!\n\nBeerScript is our lightest event where like minds get together, have a pint, and talk javascript/coding. Feel free to bring your laptop, but there is no specific programming/talk portion to the event.\n\nWe'll be at the Rivoli for the second last Tuesday in December! Come talk Javascript, Development, and Alcohol!"
+}

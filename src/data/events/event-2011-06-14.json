@@ -1,0 +1,13 @@
+{
+  "title": "Javascript Hack Night",
+  "hosts": [],
+  "startDate": "2011-06-14T18:30:00-04:00",
+  "endDate": "2011-06-14T18:30:00-04:00",
+  "status": "active",
+  "locationType": "in-person",
+  "image": null,
+  "tags": [
+    "Events in Toronto, ON"
+  ],
+  "details": "Details\n-------\n\nHackfests are a chance for Javascript developers in Toronto to get together. The idea is to patch and release open source libraries, and help each other through tricky bugs. And spend time coding JavaScript. Big Bang Technology will provide dinner, wireless, monitors, and comfortable chairs. We write code so bring a laptop and plan to have fun.\n\n6:30 PM - 7:00 PM - Discuss Ideas & Form Teams\n\n7:00 PM - 9:30 PM - Working\n\n9:30 PM - 10:00 PM - Demo!"
+}

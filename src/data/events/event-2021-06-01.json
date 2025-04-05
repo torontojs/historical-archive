@@ -1,0 +1,16 @@
+{
+  "title": "JS Code Club: AMA Edition",
+  "hosts": [
+    "Matthew M.",
+    "Jen C."
+  ],
+  "startDate": "2021-06-01T18:00:00-04:00",
+  "endDate": "2021-06-01T18:00:00-04:00",
+  "status": "active",
+  "locationType": "virtual",
+  "image": null,
+  "tags": [
+    "Events in"
+  ],
+  "details": "Details\n-------\n\nJS Code Club is open to all. Whether you're a seasoned developer or just starting out–if you're interest in JavaScript, join the club!\n\nThis time we're doing something different. Inspired by Reddit's AMA (Ask Me Anything) sessions, we're going to run three Q&As in parallel with our more experienced TorontoJS members on Rally! Come to ask of their sage advice and preferences!\n\nTable 1:  \nKieran Higgins AMA hosted by Matthew Mihok(@mihok) and Niall Byrne (@nbyrne)\n\nTable 2:  \nHarry Mills (@haegin) AMA hosted by Sherry Yang (@5hel2l2y)\n\nTable 3:  \nRobert Jackiewicz (@Robert Jackiewicz) AMA hosted by Chang Wang (@cheapsteak) and Jen Chan (@jenc)\n\nBios:\n\nKieran has been writing web software since the 90's in languages from Bash to CoffeeScript. Some of his civic tech projects include [votewell.ca](http://votewell.ca) and [myttc.ca.](http://myttc.ca.) He is Director of R&D at Universe (acq. Live Nation). Find him online at [kieran.ca](http://kieran.ca)\n\nNiall Byrne is happy to talk about new music, DevOps, learning and growing. He can speak from experience about taking strange career trajectories.\n\nSherry Yang is a senior software engineer with Adaptavist and an ambassador for Women Techmakers. Sherry will help answer topics related to the startup ecosystem, agile work environment, intersectionality in tech, and hiking or roller skating.\n\nHarry has built and scaled payroll, tax filing, and accounting systems for thousands of SMBs in the UK with FreeAgent. He's currently Head of Technology and Infrastructure on Relay Platform. Talk to him about early stage startups, DevOps, security, woodwork or making yogurt.\n\nJen Chan has worked in UX, support and front end roles across 3 startups and 2 agencies. She has an alternate life as a DIY organizer and new media artist.\n\nMatthew Mihok is the managing director of TorontoJS and cofounder of OrderUp and runs his own software agency. At one point he directed the engineering team for a company that was acquired by Yelp.\n\nRobert Jackiewicz is a staff software engineer at Carta and previously principle staff engineer at Cover, and instructor at Lighthouse Labs. Specialties: beer-drinking analytics, Agile, Microservices, Golang, Clean Architecture, Ruby/Rails, NodeJS, React, Typescript, Kubernetes, Docker.\n\nChang Wang is engineering manager at Apollo GraphQL. He's well versed in architecting systems, leading and supporting teams, and contributes to freeCodeCamp and Hackernoon.\n\nSchedule\n\n6pm General chit chat  \n6:10 Short intro chat to get to know your neighbourhood JS dev  \n6:15 Open floor Q&A. Ask them anything!  \n7:15- End: Socialize\n\nAll participants are expected to follow our Code Of Conduct [https://github.com/torontojs/torontojs.com/blob/page/code\\_of\\_conduct/public/pages/code\\_of\\_conduct.md](https://github.com/torontojs/torontojs.com/blob/page/code_of_conduct/public/pages/code_of_conduct.md)"
+}

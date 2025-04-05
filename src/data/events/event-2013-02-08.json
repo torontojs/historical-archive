@@ -1,0 +1,15 @@
+{
+  "title": "BeerScript",
+  "hosts": [
+    "Taz S."
+  ],
+  "startDate": "2013-02-07T19:00:00-05:00",
+  "endDate": "2013-02-07T19:00:00-05:00",
+  "status": "active",
+  "locationType": "in-person",
+  "image": null,
+  "tags": [
+    "Events in Toronto, ON"
+  ],
+  "details": "Details\n-------\n\nWe're getting together at the Elephant & Castle for the first BeerScript of the year.\n\nCome enjoy a drink and chat with fellow Toronto JavaScripters.\n\nSee you there!"
+}

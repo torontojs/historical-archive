@@ -1,0 +1,21 @@
+{
+  "title": "JS Tech Talk: Introduction to Hypermedia & Ketting",
+  "hosts": [
+    "Matthew M.",
+    "Jen C."
+  ],
+  "startDate": "2022-01-19T18:30:00-05:00",
+  "endDate": "2022-01-19T18:30:00-05:00",
+  "status": "canceled",
+  "locationType": "virtual",
+  "image": null,
+  "tags": [
+    "Events in",
+    "JavaScript",
+    "JavaScript Applications",
+    "JavaScript Frameworks",
+    "JavaScript Libraries",
+    "Web Technology"
+  ],
+  "details": "Details\n-------\n\nWe're BACK! JS Tech Talk is for sharing knowledge about all things Javascript or dev-related to improve our craft and careers. This talk is open to all who are interested, but would be geared more towards developers who are back end oriented.\n\nIn this talk, Evert Pot explains how to upgrade your REST service to a true Hypermedia service, and how to consume this in your Javascript (+React) application.  \n[https://github.com/badgateway/ketting/](https://github.com/badgateway/ketting/)\n\nSpeaker Bio  \nEvert has been a developer for 18 years, and is the founder of a Toronto Software development agency called Bad Gateway. We'd love to help you build your next MVP!\n\n[https://evertpot.com/](https://evertpot.com/)\n\nSchedule\n\n6:30 event start\n\n6:45 Talk begins\n\n7:00 Q&A\n\n7:30 - End: Social hours. Breakout tables for chatting with other Toronto-based Javascript lovers!\n\nCode of conduct is enforced at all TorontoJS events [https://torontojs.com/p/code\\_of\\_conduct](https://torontojs.com/p/code_of_conduct)\n\nAre you interested in giving a talk or workshop? Let us know at [https://tinyurl.com/torontoJS](https://tinyurl.com/torontoJS)\n\nIf you're interested in volunteering, check this out: [https://www.notion.so/torontojs/Volunteering-At-Toronto-JS-5bad9ed9ddc84321acd237eb3c38b6d3](https://www.notion.so/torontojs/Volunteering-At-Toronto-JS-5bad9ed9ddc84321acd237eb3c38b6d3)"
+}

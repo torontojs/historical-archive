@@ -1,0 +1,15 @@
+{
+  "title": "Hack Night",
+  "hosts": [
+    "James H."
+  ],
+  "startDate": "2010-10-26T18:30:00-04:00",
+  "endDate": "2010-10-26T18:30:00-04:00",
+  "status": "active",
+  "locationType": "in-person",
+  "image": "https://secure.meetupstatic.com/photos/event/4/5/b/e/600_17537854.webp?w=750",
+  "tags": [
+    "Events in Toronto, ON"
+  ],
+  "details": "Details\n-------\n\n[Node.js](http://Node.js) and server-side JavaScript has taken off as of late, but perhaps not your own life. If you're like me, work, and life have got in the way and have left me a little out of the loop. Join me at The Rhino for pints and server-side JavaScript hacking."
+}

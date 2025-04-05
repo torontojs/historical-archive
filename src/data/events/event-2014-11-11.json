@@ -1,0 +1,15 @@
+{
+  "title": "JS Hack Night",
+  "hosts": [
+    "dann"
+  ],
+  "startDate": "2014-11-11T18:30:00-05:00",
+  "endDate": "2014-11-11T18:30:00-05:00",
+  "status": "active",
+  "locationType": "in-person",
+  "image": null,
+  "tags": [
+    "Events in Toronto, ON"
+  ],
+  "details": "Details\n-------\n\nThis month we've got Leo Horie giving a workshop on Functional Programming in JavaScript! The workshop title starts with 'FUN', so you know this is going to be a blast!\n\nAs usual the workshop runs in parallel with our regular hacking session. See you there!\n\nDid you know the Toronto JavaScript ([https://www.meetup.com/torontojs/](https://www.meetup.com/torontojs/)) and JS Hack Night ([https://www.meetup.com/torontojshackers](https://www.meetup.com/torontojshackers)) meetups are merging? It's true! You can sign up for this meetup either place, because it's THE SAME THING.\n\nHack nights are a time to slough off your workaday shackles and stretch the limits of what you can do in javascript. It's a chance to experiment with new tools and techniques, learn new paradigms and practices, commiserate and collaborate with fellow devs and make interesting things.\n\nWe work in small, self-assembled groups and we'll share our results at the end of the night.\n\nIt's important to have project ideas ahead of time, so please do the following:\n\n1.  subscribe to js weekly ([http://javascriptweekly.com/](http://javascriptweekly.com/))\n    \n2.  pick something interesting\n    \n3.  post a comment about it here\n    \n\nExamples of interesting projects:\n\n*   try a framework: noflo, meteor, ~todomvc, etc\n    \n*   try a library: q, [allong.es](http://allong.es), bilby, lemonad, etc\n    \n*   try a language: fay, elm, roy, clojurescript, flapjax, etc\n    \n*   try some web apis: audio, webgl, svg, webrtc, etc\n    \n*   go parallel: workers, river trail, webcl, etc\n    \n\nWe are beginner friendly. Here's some resources for getting up to speed with javascript:\n\nEloquent JS ([http://eloquentjavascript.net/](http://eloquentjavascript.net/))\n\nEffective JS ([http://effectivejs.com/](http://effectivejs.com/))\n\nJS Allonge ([https://leanpub.com/javascript-allonge](https://leanpub.com/javascript-allonge))\n\nFun JS ([http://shop.oreilly.com/product/0636920028857.do](http://shop.oreilly.com/product/0636920028857.do))\n\nAnother great way to learn JS is by reading the source of good libraries -- [underscore.js](http://underscore.js) ([http://underscorejs.org/](http://underscorejs.org/)) is a solid starting point."
+}

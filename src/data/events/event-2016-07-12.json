@@ -1,0 +1,15 @@
+{
+  "title": "JS Workshop",
+  "hosts": [
+    "dann"
+  ],
+  "startDate": "2016-07-12T18:30:00-04:00",
+  "endDate": "2016-07-12T18:30:00-04:00",
+  "status": "active",
+  "locationType": "in-person",
+  "image": null,
+  "tags": [
+    "Events in Toronto, ON"
+  ],
+  "details": "Details\n-------\n\nThis month Aaron McLeod will teach us how to WebGL!\n\nWelcome to the JS Workshop, a place for intermediate and advanced JavaScript developers to learn new skills, experiment with interesting technologies and have tons of fun. Event description:\n\n\\----\n\nLearn the low level graphics API of WebGL to add an interactive visual portion to your website. We will be building an interactive gallery running on the GPU. Using concepts such as batching, shaders, matrices, array & element buffers, and image atlasing.​\n\nAaron McLeod is a Software Engineer at The Working Group. Has worked on a number of small games in his spare time, and is a core contributor to the MelonJS 2d game engine.\n\n\\-----\n\nPrerequisites:\n\n*   A laptop with a node and npm installed\n    \n*   Some proficiency in JavaScript\n    \n*   A cheerful and inquisitive attitude\n    \n*   An appetite (for knowledge and for pizza -- thanks to New Relic for sponsoring us!)\n    \n\nTimetable:\n\n6:30 - doors open, eat pizza\n\n7:00 - guided tutorial\n\n8:00 - building neat things\n\n9:00 - demo round\n\n9:15 - everyone goes home"
+}

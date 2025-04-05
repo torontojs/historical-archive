@@ -1,0 +1,16 @@
+{
+  "title": "JS Workshop - Building Portals to AR Dimensions in React Native",
+  "hosts": [
+    "Matthew M.",
+    "Simon S."
+  ],
+  "startDate": "2020-02-10T18:30:00-05:00",
+  "endDate": "2020-02-10T18:30:00-05:00",
+  "status": "active",
+  "locationType": "in-person",
+  "image": null,
+  "tags": [
+    "Events in Toronto, ON"
+  ],
+  "details": "Details\n-------\n\nWelcome to the JS Workshop! This is a place for intermediate and advanced JavaScript developers to learn new skills, experiment with interesting technologies and have tons of fun.\n\nTonight's workshop is sponsored by Taplytics and Tim Horton's (RBI) !! Thank you!! <3\n\nIn this workshop, Simon Stern will be returning with his ViroReact Augmented Reality workshop, with a twist! In this session, participants will be given a very short intro to ViroReact, and challenged with creating a complex scene involving portals and object recognition. Mentors will be on hand to help facilitate if you get stuck :)\n\nPlease find the starter repo here: [https://github.com/simistern/AR-workshop-torontojs-feb2020](https://github.com/simistern/AR-workshop-torontojs-feb2020)\n\nWe're going to focus on more coding and less [lecturing...so](http://lecturing...so) buckle in!\n\nPrerequisites:\n\n*   A laptop with a web dev environment, including an editor and a local server\n    \n*   Some proficiency in JavaScript\n    \n*   A cheerful and inquisitive attitude\n    \n*   An appetite (for knowledge and for pizza -- thanks to New Relic for sponsoring us!)\n    \n\nThe speakers codes on the projector, and everyone in the room copies that code into their own laptops. You'll go home with an exciting new program, and if there's time left over at the end you'll do something cool with it and show a demo to everyone. Fun!\n\nTimetable:\n\n6:30 - doors open, eat pizza\n\n7:00 - workshop begins with ViroReact Introduction & Challenge\n\n8:30 - Finish up, followed by brief Show & Tell\n\n9:00 - everyone goes home"
+}

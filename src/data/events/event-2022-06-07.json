@@ -1,0 +1,15 @@
+{
+  "title": "JS Code Club",
+  "hosts": [
+    "Matthew M."
+  ],
+  "startDate": "2022-06-07T18:00:00-04:00",
+  "endDate": "2022-06-07T18:00:00-04:00",
+  "status": "canceled",
+  "locationType": "virtual",
+  "image": null,
+  "tags": [
+    "Events in"
+  ],
+  "details": "Details\n-------\n\nJS Code Club is BACK!! Bring your ideas, pair with other developers, and start building!\n\nJS Code Club is open to all. If you are a seasoned developer or just starting out, and have an interest in JavaScript, join the club!\n\nThis event is for coding and hacking on fun projects in a social setting, there are no talks. Bring your computer and be ready to write code!\n\nIf you have a project to work on leave a message in the comments here, or just show up ready to hack! If you're a beginner there are usually people working through tutorials for either the JS language or the various frameworks, so you'll usually be able to find help and people to work with.\n\nThis event is open to all skill levels.\n\nCode of conduct is enforced at all TorontoJS events [https://torontojs.com/p/code\\_of\\_conduct](https://torontojs.com/p/code_of_conduct)"
+}

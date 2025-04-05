@@ -1,0 +1,15 @@
+{
+  "title": "BeerScript",
+  "hosts": [
+    "Matthew M."
+  ],
+  "startDate": "2015-08-25T18:00:00-04:00",
+  "endDate": "2015-08-25T18:00:00-04:00",
+  "status": "active",
+  "locationType": "in-person",
+  "image": null,
+  "tags": [
+    "Events in Toronto, ON"
+  ],
+  "details": "Details\n-------\n\nBeer + Code = LOVE!\n\nWe will be having it at The Rivoli upstairs again for Pool, Beer, and JavaScript.\n\nCome hang out and chat Javascript over a pint or two!!  \nSee you soon!"
+}
