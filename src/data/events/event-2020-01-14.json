@@ -1,0 +1,16 @@
+{
+  "title": "JS Workshop - Unlocking Advanced Hooks Skills in React",
+  "hosts": [
+    "Matthew M.",
+    "Simon S."
+  ],
+  "startDate": "2020-01-14T18:30:00-05:00",
+  "endDate": "2020-01-14T18:30:00-05:00",
+  "status": "active",
+  "locationType": "in-person",
+  "image": null,
+  "tags": [
+    "Events in Toronto, ON"
+  ],
+  "details": "Details\n-------\n\nWelcome to the JS Workshop! This is a place for intermediate and advanced JavaScript developers to learn new skills, experiment with interesting technologies and have tons of fun.\n\nThis workshop will be lead by Erick Mendez Cardenas and aimed at people who are already comfortable with React.\n\nWe’ll take a look at two class components that have both been wrapped with a Higher Order Component (HOC) that takes care of retrieving the data from an API. We’ll then see how we can replace that HOC with a new custom hook, and update both our components to use that custom hook. We’ll make any necessary test updates.\n\nWe’ll point out that the custom hook that we created could very well be made into its own package and published on NPM. We’ll transform another class component by using one of these hooks. We’ll make any necessary test updates.\n\nWe’ll decide that one component wants access to a state value from a completely separate component, so we’ll want to move that value part of the “global state”. We’ll make use of a context Provider and the useContext hook. We’ll then explain we want to elevate another value to global state, and so we’ll update our context to store an object of values. Then we’ll explain the downside of this approach.\n\nPrerequisites:\n\n*   A laptop with a web dev environment, including an editor and a local server\n    \n*   Some proficiency in JavaScript\n    \n*   A cheerful and inquisitive attitude\n    \n*   An appetite (for knowledge and for pizza -- thanks to New Relic for sponsoring us!)\n    \n\nThe speakers codes on the projector, and everyone in the room copies that code into their own laptops. You'll go home with an exciting new program, and if there's time left over at the end you'll do something cool with it and show a demo to everyone. Fun!\n\nTimetable:\n\n6:30 - doors open, eat pizza\n\n7:00 - workshop code-along\n\n8:30 - extend the codebase\n\n9:00 - everyone goes home"
+}

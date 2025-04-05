@@ -1,0 +1,16 @@
+{
+  "title": "JS Tech Talk: CI/CD 101",
+  "hosts": [
+    "Matthew M.",
+    "Niall B."
+  ],
+  "startDate": "2021-08-10T18:30:00-04:00",
+  "endDate": "2021-08-10T18:30:00-04:00",
+  "status": "active",
+  "locationType": "virtual",
+  "image": null,
+  "tags": [
+    "Events in"
+  ],
+  "details": "Details\n-------\n\nWelcome to JS Tech Talk: \"CI/CD 101\" with Niall Byrne.\n\nDo you find Devops or CI/CD intimidating? Whether new, novice or intermediate–this talk is for you!\n\nLet's clarify the foundations that CI/CD is built on and look a little deeper than the tools available to automate deployments. We'll explore the actual habits, strategies and best practices that have become ubiquitous on software development teams.\n\nUnderstanding the problems that gave rise to CI/CD can make you a better developer, and ultimately, a more effective team member if you land at a company that employs these practices.\n\nSchedule:\n\n6:30 - \"doors\" open, Intros\n\n6:45 - Talk begins.\n\n8:30 - Q&A moderated by your organizers.\n\n9:00-End - Chit chat and breakout conversation with other members. You know, the usual breakout rooms and \"networking\".\n\nSpeaker Bio:\n\nNiall Byrne is a Toronto-based software developer, who has been helping solve software, network and infrastructure challenges for about 10 years. He also enjoys new music, and studying Korean.\n\nCode of conduct is enforced at all TorontoJS events [https://torontojs.com/p/code\\_of\\_conduct](https://torontojs.com/p/code_of_conduct)\n\nInterested in speaking?\n\nPlease email us at [team@torontojs.com](http://team@torontojs.com) for more information. All skill levels are welcome for talks and workshops!\n\nJoin us on Slack: [http://slack.torontojs.com/](http://slack.torontojs.com/)\n\nFollow us on Twitter: [https://twitter.com/torontojs/](https://twitter.com/torontojs/)\n\n// See you there!"
+}

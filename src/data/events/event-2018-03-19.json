@@ -1,0 +1,16 @@
+{
+  "title": "Styled components, resilient microservices & robustness-first computing",
+  "hosts": [
+    "dann",
+    "Matthew M."
+  ],
+  "startDate": "2018-03-19T18:00:00-04:00",
+  "endDate": "2018-03-19T18:00:00-04:00",
+  "status": "active",
+  "locationType": "in-person",
+  "image": null,
+  "tags": [
+    "Events in Toronto, ON"
+  ],
+  "details": "Details\n-------\n\nThis month we have something for both front-end developers and server-side people! Mackenzie Browne will bring us up to date on styled components, Yawar Amin will teach us about creating microservices using the actor model with [Node.js](http://Node.js), and Leo Zovic will give a talk about \"robustness-first computing\".\n\n6:00pm - Doors open. Grab something to eat and network with attendees.\n\n6:30pm - Opening announcements. News and information about the Toronto JavaScript community and upcoming events.\n\n6:40pm - Styled Components: What do they do? Do they do stuff? Let's find out! by Mackenzie Browne\n\n6:50pm - Exploring resilient microservices with Reason-Nact by Yawar Amin  \nMicroservices nowadays are all about decoupling and deploying separately–but what if we deployed everything from one codebase, one set of common shared schemas, and one NodeJS instance, with the same resilience and fault-tolerance that we get from multiple decoupled services? We can if the Node instance is logically split up into actors (super-powered objects) which can crash and restart at any time without negatively affecting each other. In this talk we'll explore Reason-Nact, an actor framework targeting NodeJS and using ReasonML for safety, and how it helps keep your services simple, safe, and powerful.\n\n7:45pm - Robust Computation through Cellular Automata by Leo Zovic  \nLeo Zovic will be talking about scaling computations and making them robust to local hardware outages through the use of distributed cellular automata in Lisp (with a web-front end for visualization).\n\n8:30pm - Goodbyes, give us a hand cleaning up the space, and post-event drinks at a local pub!\n\nNote that the schedule is subject to change and accommodates 10-15 minute breaks between sessions.\n\nInterested in speaking or sponsoring?\n\nPlease email us at [team@torontojs.com](http://team@torontojs.com) for more information. All skill levels are welcome for talks!\n\nJoin us on Slack: [http://slack.torontojs.com/](http://slack.torontojs.com/)\n\nFollow us on Twitter: [http://slack.torontojs.com/](http://slack.torontojs.com/)\n\nSee you there!"
+}

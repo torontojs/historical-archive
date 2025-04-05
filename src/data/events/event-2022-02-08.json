@@ -1,0 +1,21 @@
+{
+  "title": "JS Workshop: Cross Browser Extensions with the web extensions API",
+  "hosts": [
+    "Nicole C.",
+    "3 others"
+  ],
+  "startDate": "2022-02-08T18:30:00-05:00",
+  "endDate": "2022-02-08T18:30:00-05:00",
+  "status": "active",
+  "locationType": "virtual",
+  "image": null,
+  "tags": [
+    "Events in",
+    "JavaScript",
+    "JavaScript Applications",
+    "JavaScript Frameworks",
+    "JavaScript Libraries",
+    "Web Technology"
+  ],
+  "details": "Details\n-------\n\nAre you curious about how to build browser extensions, but not sure where to start? We will begin by building two vanilla examples with some CSS and Javascript. After this, we'll build a popup with React.\n\nTopics covered\n\n1.  Why build an extension?\n2.  Anatomy of an extension\n3.  Basics of using the web extensions API versus the Chrome API for extensions\n4.  Message sending\n5.  Installing an extension in developer mode\n6.  Debugging tips\n7.  Security considerations\n8.  Build tool considerations\n\nBio  \nNicole Chung is a UX engineer at Crowdstrike.  \n[https://redconservatory.com/](https://redconservatory.com/)\n------------------------------------------------------------------------------------------------------------------\n\nWelcome to the JS Workshop! This is a place for intermediate and advanced JavaScript developers to learn new skills, experiment with interesting technologies and have tons of fun.\n\nThe speakers codes on the projector-er-shared screen, and everyone in the room copies that code into their own laptops. You'll go home with an exciting new program, and if there's time left over at the end you'll do something cool with it and show a demo to everyone. Fun!\n\nPrerequisites:\n\n*   A laptop with a web dev environment, including an editor and a local server\n    \n*   Some proficiency in JavaScript\n    \n*   A cheerful and inquisitive attitude\n    \n*   An appetite for knowledge\n    \n\nTimetable:\n\n6:30 - doors open\n\n7:00 - workshop code-along\n\n8:30 - extend the codebase\n\n9:00 - everyone goes\\[stays\\] home\n\nCode of conduct is enforced at all TorontoJS events [https://torontojs.com/p/code\\_of\\_conduct](https://torontojs.com/p/code_of_conduct)"
+}

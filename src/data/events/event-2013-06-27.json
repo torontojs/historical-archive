@@ -1,0 +1,15 @@
+{
+  "title": "June Tech Talk Night - Daimio and Dart",
+  "hosts": [
+    "Taz S."
+  ],
+  "startDate": "2013-06-27T18:00:00-04:00",
+  "endDate": "2013-06-27T18:00:00-04:00",
+  "status": "active",
+  "locationType": "in-person",
+  "image": null,
+  "tags": [
+    "Events in Toronto, ON"
+  ],
+  "details": "Details\n-------\n\nWe're pleased to announce another JavaScript Tech Talk Night. This month we have two awesome talks lined up focusing on languages that can run on top of JavaScript.\n\nWe'd like to thank our Sponsors for covering the A/V, pizza, and drink costs:\n\nNulogy ([http://nulogy.com/](http://nulogy.com/))\n\nEver eat Kraft Dinner? Brush your teeth with Crest toothpaste? Buy the latest PS3 bundle? If so, Nulogy has already been a part of your life.\n\nNulogy is a growing company with software that powers the world's largest supply chains. We've been building complex enterprise SaaS products on Rails and Javascript for over 6 years and we haven't looked back. We love domain modelling, test driving, and pair programming and we're looking for full stack developers to join our engineering team. Check out our blog at [http://engineering.nulogy.com](http://engineering.nulogy.com) ([http://engineering.nulogy.com/](http://engineering.nulogy.com/)) and contact us at [grow@nulogy.com](http://grow@nulogy.com) .\n\nSneaking a peek at Daimio - Dann Toliver ([https://twitter.com/dann](https://twitter.com/dann))\n\nWe'll be looking at the underpinnings of Daimio, a new language debuting later this year, and considering several use cases from an architectural vantage. We'll be joined by several of our friendly neighborhood Web APIs, including a reappearance of the Audio API from an earlier tech talk. There will be interactive elements, so bring your laptop or you'll feel left out.\n\nIntroduction to Dart - Victor Savkin ([https://twitter.com/victorsavkin](https://twitter.com/victorsavkin))\n\nIn this talk, Victor Savkin will give a quick tour of the Dart platform. He will show how tree-shaking, optional typing, and libraries can help you build large-scale web applications. You will also learn how the Dart VM can make your application much faster.\n\nSee you there!"
+}

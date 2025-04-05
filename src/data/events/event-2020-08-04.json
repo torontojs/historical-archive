@@ -1,0 +1,16 @@
+{
+  "title": "JS Workshop: Building a Promise from scratch with Evert Pot",
+  "hosts": [
+    "Matthew M.",
+    "Simon S."
+  ],
+  "startDate": "2020-08-04T19:00:00-04:00",
+  "endDate": "2020-08-04T19:00:00-04:00",
+  "status": "active",
+  "locationType": "virtual",
+  "image": null,
+  "tags": [
+    "Events in"
+  ],
+  "details": "Details\n-------\n\nLINK: [https://zoom.us/meeting/register/tJIvcuyrpjorG9dmbJ6cQtisBZeaXv1RJ-js](https://zoom.us/meeting/register/tJIvcuyrpjorG9dmbJ6cQtisBZeaXv1RJ-js)\n\nWelcome to the JS Workshop! This is a place for intermediate and advanced JavaScript developers to learn new skills, experiment with interesting technologies and have tons of fun.\n\nThis months speaker is Evert Pot, who will be walking us through the art of building a [promise...from](http://promise...from) scratch!\n\nThe year is 2012, Promises and async/await are not in browsers yet. Lets invent them from scratch with plain Javascript and generators!\n\nEvert will live-code writing a Promise class. Promises can be tricky to think about, but it's only a handful of lines of code. Get a deeper understanding of Promises by seeing what makes it tick.  \nIf there's time, we'll also try to build async/await coroutines with Generators\n\nLink: [https://zoom.us/meeting/register/tJIvcuyrpjorG9dmbJ6cQtisBZeaXv1RJ-js](https://zoom.us/meeting/register/tJIvcuyrpjorG9dmbJ6cQtisBZeaXv1RJ-js)\n\nPrerequisites:\n\n*   A laptop with a web dev environment, including an editor and a local server\n    \n*   Some proficiency in JavaScript\n    \n*   A cheerful and inquisitive attitude\n    \n\nTimetable:\n\n6:15 - Join the zoom chat, mingle, say hi to old friends and new :)\n\n6:30 - workshop code-along\n\n7:30 - extend the codebase\n\n8:00 - Post-workshop chat, mingling, breakout rooms!"
+}

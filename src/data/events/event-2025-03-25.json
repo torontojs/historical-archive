@@ -1,0 +1,21 @@
+{
+  "title": "Bringing Animations to Life: Interactive dotLottie with JavaScript 🚀",
+  "hosts": [
+    "Aman A.",
+    "Mariana R."
+  ],
+  "startDate": "2025-03-25T18:00:00-04:00",
+  "endDate": "2025-03-25T18:00:00-04:00",
+  "status": "active",
+  "locationType": "in-person",
+  "image": "https://secure.meetupstatic.com/photos/event/8/a/f/1/600_526655569.webp?w=750",
+  "details": "<div class=\"flex items-center justify-between\"><h2 class=\"text-xl font-semibold\">Details</h2></div><div class=\"break-words\"><p class=\"mb-4\"><strong>In this hands-on free workshop, we’ll explore the power of dotLottie, the lightweight, flexible animation format that enhances web performance and interactivity.</strong> You'll learn how to integrate dotLottie animations seamlessly into your JavaScript projects and take them beyond static visuals by adding real-time user interactions using event-driven techniques.</p>\n<p class=\"mb-4\">By the end of this workshop, you’ll be able to:</p>\n<ul class=\"pl-5 list-disc mb-4\">\n<li>Load and control dotLottie animations dynamically in JavaScript</li>\n<li>Trigger animations based on user inputs (scroll, hover, clicks, and more)</li>\n<li>Optimize animations for smooth performance and responsiveness</li>\n<li>Use dotLottie in real-world applications (websites, apps, UI elements)</li>\n</ul>\n<p class=\"mb-4\">Whether you're a developer, designer, or UI/UX enthusiast, this session will equip you with practical skills to elevate your animations and create engaging web experiences with ease.</p>\n<p class=\"mb-4\"><strong>Meet Our Speaker</strong>✨</p>\n<p class=\"mb-4\"><strong>Karin Fam - Tech Lead at LottieFiles</strong><br>\nCurious software engineer looking to change the world, one \"Hello, world!\" at a time. Currently passionate about making pixels move themselves.</p>\n<p class=\"mb-4\"><strong>Our Schedule</strong> ✨</p>\n<ul class=\"pl-5 list-disc mb-4\">\n<li><strong>6:00 pm</strong> - Doors Open: Check-in, welcome, Food &amp; Beverages 🕕🍕</li>\n<li><strong>6:25 pm</strong> - Welcome by TorontoJS and Sponsors 💻</li>\n<li><strong>6:30 pm</strong> - Workshop begins 💻</li>\n<li><strong>7:45 pm</strong> - Interactive Q&amp;A Session ❓</li>\n<li><strong>8:00 pm</strong> - Networking 🤝</li>\n<li><strong>9:00 pm</strong> - Doors Close 🚪</li>\n</ul>\n<p class=\"mb-4\">For more information on events @ TorontoJS please check out:<br>\n<a href=\"https://guild.host/torontojs/events\" target=\"_blank\" class=\"!text-viridian\" rel=\"nofollow ugc\">https://guild.host/torontojs/events</a></p>\n<p class=\"mb-4\"><em>TorontoJS is committed to creating a safe and inclusive environment for all. Our Code of Conduct applies both online and in person at all our events and spaces.</em></p>\n<p class=\"mb-4\">See you there! 🎉</p></div>",
+  "tags": [
+    "Events in Toronto, ON",
+    "Motion Graphics",
+    "Animation",
+    "JavaScript",
+    "JavaScript Applications",
+    "Web Technology"
+  ]
+}

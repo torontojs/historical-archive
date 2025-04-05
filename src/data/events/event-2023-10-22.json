@@ -1,0 +1,20 @@
+{
+  "title": "JS Code Club - October 2023",
+  "hosts": [
+    "Ken B."
+  ],
+  "startDate": "2023-10-22T16:00:00-04:00",
+  "endDate": "2023-10-22T16:00:00-04:00",
+  "status": "active",
+  "locationType": "virtual",
+  "image": "https://secure.meetupstatic.com/photos/event/8/f/1/d/600_516336637.webp?w=750",
+  "tags": [
+    "Events in",
+    "JavaScript",
+    "JavaScript Applications",
+    "JavaScript Frameworks",
+    "JavaScript Libraries",
+    "Web Technology"
+  ],
+  "details": "Details\n-------\n\nTorontoJS Code Club - An online group programming event  \nSummer is over and autumn is here! The leaves are beginning to fall, the air is cool and crisp and winter is on the horizon. It sounds like the perfect time to grab a hot drink and spend a couple of hours with your fellow developers at the TorontoJS October Code Club!  \nCode Club is a virtual event where people can bring projects to showcase, work on, bounce ideas off of each other and ask questions while working on software challenges together. Don't have a project to bring? No problem! Join the discussion on a project someone else brought or we can come up with something interesting to work on.\n\n*   We can tackle an open-source issue together. Some issues don't require much context to solve and are suitable for beginners too. This group programming event can be a great opportunity to start your open-source journey.\n    \n*   We can hack on personal projects together. Is there a bug in your software that you want to fix with the group? Is there a feature you want to add? How about some refactoring to clean up your codebase? It's fun to see how everyone has different approaches to solving these technical challenges.\n    \n*   Are you job searching? We can take a look at Leetcode-style interview questions together.\n    \n*   Countless new libraries appear in the JavaScript ecosystem every year. We can try out a new piece of tech together and share our first impressions.\n    \n\nThis is meant to be a friendly and relaxing event. Come for the pure joy of building!  \nLast month, we took a look at:\n\n*   Preventing explicit front covers from appearing on a comic book store web app.\n*   Using [Hono](https://hono.dev/) to build a reverse proxy.\n*   Solving data persistence issues in a \\[[Next.js](http://Next.js)\\]([https://nextjs.org/](https://nextjs.org/)) app.\n*   Investigating an issue where custom fonts were not loading on a project built with \\[[Chakra.js](http://Chakra.js)\\]([https://chakra-ui.com/](https://chakra-ui.com/)).\n*   Learning how to write integration tests in a code base using test-driven development.\n\nOctober's Code Club event will take place on **Sunday, October 22nd at 4PM EST**. The event will be held on the [TorontoJS Discord server](https://discord.gg/UkwS8hg45K?event=1149041295071911956).  \nThe [TorontoJS Code of Conduct](https://torontojs.com/p/code_of_conduct) is enforced at all TorontoJS events."
+}

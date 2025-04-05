@@ -1,0 +1,18 @@
+{
+  "title": "JS Tech Talk: Scaling a Codebase from a Hacky Project to a Professional Product",
+  "hosts": [
+    "Jen C.",
+    "3 others"
+  ],
+  "startDate": "2021-11-18T18:00:00-05:00",
+  "endDate": "2021-11-18T18:00:00-05:00",
+  "status": "active",
+  "locationType": "virtual",
+  "image": null,
+  "tags": [
+    "Events in",
+    "JavaScript Applications",
+    "JavaScript Frameworks"
+  ],
+  "details": "Details\n-------\n\nWe're BACK with a JS Tech-Talk!\n\nOur next topic: Scaling A Codebase from Hacky Project to Professional product\n\nHow are your personal projects different from larger commercial codebases? What kind of patterns can we use to build a product at scale?\n\nThis talk covers how the Voiceflow codebase (React + NodeJS) has changed from the earliest monolith MVP to 150+ repo project worked on by dozens of people. Tyler Han will provide practical examples of Javascript design patterns and coding practices throughout that have helped clean and improve our code.\n\nSpeaker Bio:  \nTyler is the CTO at Voiceflow. To the dismay of his parents, dropped out from UofT Computer Science to be a startup founder - taking Voiceflow from concept to series A. Loves to burn the midnight oil to solve interesting problems or crush infuriating bugs.\n\nTwitter: @VoiceflowHQ  \nLinkedIn: [https://www.linkedin.com/in/decathect/](https://www.linkedin.com/in/decathect/)  \nGithub: DecathectZero\n\nThis talk is open to all skill levels.\n\nCode of conduct is enforced at all TorontoJS events [https://torontojs.com/p/code\\_of\\_conduct](https://torontojs.com/p/code_of_conduct)\n\nTimetable:\n\n6:00 - doors \"open\"\n\n6:30 - Intro. Talk Starts\n\n7:15 - Q&A with the Speaker\n\n7:30 - End : Socializing and networking."
+}

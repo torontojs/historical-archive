@@ -1,0 +1,15 @@
+{
+  "title": "JS Workshop",
+  "hosts": [
+    "dann"
+  ],
+  "startDate": "2017-03-07T18:30:00-05:00",
+  "endDate": "2017-03-07T18:30:00-05:00",
+  "status": "active",
+  "locationType": "in-person",
+  "image": null,
+  "tags": [
+    "Events in Toronto, ON"
+  ],
+  "details": "Details\n-------\n\nWelcome to the JS Workshop! This is a place for intermediate and advanced JavaScript developers to learn new skills, experiment with interesting technologies and have tons of fun.\n\nThis month we have Rami Sayar presenting on the Canvas API:\n\nHTML5 is the basis for numerous rich and interactive Web pages as well as cross-platform mobile apps. More than just a markup language, HTML5 exposes a set of APIs that can be called from within a browser to draw onto a Web page, store data locally, get the user's current location, and much more. One of the most compelling features of HTML5 is the Canvas API, which allows JavaScript code to draw directly into a browser window. To use the Canvas API, you begin by declaring one or more elements in a page. Then you write code that retrieves a rendering context for a canvas, and call functions on the rendering context to draw pixels, lines, shapes, images, text, drop shadows, gradients, and more. In this workshop, you will create a Web page that combines the HTML5 Canvas API with jQuery to display an interactive puzzle - one in which an image is programmatically divided into squares and the user is invited to scramble the image (and later unscramble it) by clicking individual squares. It is just one example of the kinds of interfaces you can build with the Canvas API. And it's a great place to start if you are new to HTML5!\n\nPrerequisites:\n\n*   A laptop with a web dev environment, including an editor and a local server\n    \n*   Some proficiency in JavaScript\n    \n*   A cheerful and inquisitive attitude\n    \n*   An appetite (for knowledge and for food -- thanks to 500px for sponsoring us!)\n    \n\nThe evening revolves around two main pieces: the code-along and the group work. The first hour has the speaker coding on the projector, while the attendees copy that code into their own laptops. During the second hour we'll break into groups to extend that common code in new and exciting ways.\n\nTimetable:\n\n6:30 - doors open, eat pizza\n\n7:00 - workshop code-along\n\n8:00 - break for ideas and more pizza\n\n8:15 - extend the codebase in groups\n\n9:15 - demo round\n\n9:30 - everyone goes home"
+}

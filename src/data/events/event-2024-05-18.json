@@ -1,0 +1,21 @@
+{
+  "title": "Code Club: May the source be with you!",
+  "hosts": [
+    "Dale K.",
+    "Ken B."
+  ],
+  "startDate": "2024-05-18T16:00:00-04:00",
+  "endDate": "2024-05-18T16:00:00-04:00",
+  "status": "active",
+  "locationType": "virtual",
+  "image": "https://secure.meetupstatic.com/photos/event/8/0/9/600_520742057.webp?w=750",
+  "details": "<div class=\"flex items-center justify-between\"><h2 class=\"text-xl font-semibold\">Details</h2></div><div class=\"break-words\"><p class=\"mb-4\">\"Help me coding-one, you are my only hope!\" - Princess LLaMA</p>\n<p class=\"mb-4\">If you need help or just passing by to sense the force, come and join this group of awesome Jedis!</p>\n<p class=\"mb-4\">TorontoJS Code Club is a friendly coding environment where we can bounce ideas &amp; ask questions freely while working on software challenges together.</p>\n<p class=\"mb-4\">Please bring your projects/ideas to the event, or just show up and contribute to the discussion!</p>\n<ul class=\"pl-5 list-disc mb-4\">\n<li>We can tackle an open-source issue together. Some issues don't require much context to solve and are suitable for beginners too. This group programming event can be a great opportunity to start your open-source journey.</li>\n<li>We can hack on personal projects together. Is there a bug in your software that you want to fix with the group? Is there a feature you want to add? How about some refactoring to clean up your codebase? It's fun to see how everyone has different approaches to solve these technical challenges.</li>\n<li>Are you job searching? We can take a look at Leetcode-style interview questions together.</li>\n<li>Countless new libraries appear in the JS ecosystem every year. We can try out a new piece of tech together and share our first impressions.</li>\n</ul>\n<p class=\"mb-4\">This event is not about competition or achievements. Come for the pure joy of building.</p>\n<p class=\"mb-4\">Our <a href=\"https://torontojs.com/code_of_conduct\" target=\"_blank\" class=\"!text-viridian\" rel=\"nofollow ugc\">Code of Conduct</a> is enforced at all TorontoJS events.</p></div>",
+  "tags": [
+    "Events in",
+    "JavaScript",
+    "JavaScript Applications",
+    "JavaScript Frameworks",
+    "JavaScript Libraries",
+    "Web Technology"
+  ]
+}

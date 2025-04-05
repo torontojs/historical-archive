@@ -1,0 +1,16 @@
+{
+  "title": "June Tech Talks! Virtual DOM components and continuous deployment with Jest",
+  "hosts": [
+    "dann",
+    "Matthew M."
+  ],
+  "startDate": "2017-06-26T18:00:00-04:00",
+  "endDate": "2017-06-26T18:00:00-04:00",
+  "status": "active",
+  "locationType": "in-person",
+  "image": null,
+  "tags": [
+    "Events in Toronto, ON"
+  ],
+  "details": "Details\n-------\n\nIt's tech talk time again!\n\nWe'd like to thank StrongLoop for sponsoring the event.\n\n6:00pm - Doors open. Grab something to eat and network with attendees.\n\n6:30pm - Opening announcements. News and information about the Toronto JavaScript community and upcoming events.\n\n6:45pm - Jason Miller\n\nIntro to Virtual DOM Components\n\nVirtual DOM is powerful idea that is surprisingly simple under the hood. Using Preact’s techniques as a guide, we’ll walk through the whole process of building a virtual DOM renderer from scratch. Then we’ll talk about some optimizations that can be made to our renderer, and see how Preact builds on these ideas.\n\nJason is the author of Preact, a fast 3kb React alternative with the same ES6 API.\n\n7:45pm - Rohan Nair\n\nIntroduction to Continuous Deployment of [Node.js](http://Node.js) using Jest  \nIn the past few years, Javascript testing techniques and tools have become very powerful. In this talk, we will learn how to utilize Jest to test [Node.js](http://Node.js) apps, and create a Continuous Deployment pipeline using CircleCI, Heroku and Github.\n\nRohan is a polyglot software developer, architect and experienced team lead. During his career he has specialized in Javascript, starting with frontend (using jQuery, Knockout, Angular, Ember, React) and moving into the backend with [Node.js.](http://Node.js.)  \nRohan is currently the Head of Engineering at Pungle Payments, a Fintech startup using React, Redux, Elixir and Docker.\n\n8:30pm - Goodbyes, give us a hand cleaning up the space, and post-event drinks at a local pub!\n\nNote that the schedule is subject to change and accommodates 10-15 minute breaks between sessions.\n\nInterested in speaking or sponsoring?\n\nPlease email us at [team@torontojs.com](http://team@torontojs.com) for more information. All skill levels are welcome for talks!\n\nJoin us on Slack ([http://slack.torontojs.com/](http://slack.torontojs.com/))\n\nFollow us on Twitter ([http://twitter.com/torontojs](http://twitter.com/torontojs))\n\nSee you there!"
+}

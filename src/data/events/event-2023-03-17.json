@@ -1,0 +1,21 @@
+{
+  "title": "JS Social: In-Person",
+  "hosts": [
+    "Danny K.",
+    "Marco C."
+  ],
+  "startDate": "2023-03-17T18:30:00-04:00",
+  "endDate": "2023-03-17T18:30:00-04:00",
+  "status": "active",
+  "locationType": "in-person",
+  "image": "https://secure.meetupstatic.com/photos/event/d/b/7/1/600_511136177.webp?w=750",
+  "tags": [
+    "Events in Toronto, ON",
+    "JavaScript",
+    "Software Development",
+    "JavaScript Applications",
+    "Web Development",
+    "Web Technology"
+  ],
+  "details": "Details\n-------\n\nWe're BACK! Your Favourite Event back IN PERSON!\n\nFriends + Code = LOVE!\n\nTorontoJS Social is our lightest event where like minds get together, have a snack or drink, and talk Javascript/coding.\n\nCome meet other developers in the area, talk about development and community, make friends, and let's do something away from the screens!\n\nThis is a BYOD (Bring Your Own Drink - non-alcoholic beverages welcome!) event open to all skill levels, including developers looking for their first entry into the tech field!\n\nThis time it is going to be hosted in a meeting room in a WeWork space, so the spots are limited (30)! So please RSVP only if you are coming, and update it if you can no longer attend.  \nHope to see you all there!\n\nCode of conduct is enforced at all TorontoJS events [https://torontojs.com/p/code\\_of\\_conduct](https://torontojs.com/p/code_of_conduct)"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "TorontoJS Tech Talk [Online] - March 30th, 2024 (Mar 30, 2024)",
+  "hosts": [
+    "Simon C.",
+    "Ken B."
+  ],
+  "startDate": "2024-03-30T15:00:00-04:00",
+  "endDate": "2024-03-30T15:00:00-04:00",
+  "status": "active",
+  "locationType": "virtual",
+  "image": "https://secure.meetupstatic.com/photos/event/7/9/4/e/600_519571054.webp?w=750",
+  "details": "<div class=\"flex items-center justify-between\"><h2 class=\"text-xl font-semibold\">Details</h2></div><div class=\"break-words\"><p class=\"mb-4\"><strong>TorontoJS Tech Talk [Online]</strong> welcomes you to an electrifying virtual gathering where tech enthusiasts unite! Prepare for an immersive experience focused on cutting-edge tech talks, insightful discussions, and vibrant connections. Our highlight? A captivating presentation led by our esteemed guest host. Join us as they lead the way through an evening of curiosity, collaboration, and a deep dive into the world of JavaScript and beyond.</p>\n<p class=\"mb-4\">👋 <strong>Special Guest:</strong> John Page <strong>Topic:</strong> \"The truth behind MongoDB they don't want you to know\"</p>\n<p class=\"mb-4\">A veteran of the database industry, John joined MongoDB over 10 years ago, having spent the previous 18 years working on proprietary NoSQL document databases and search technologies for the Intelligence community. He has been a Software Engineer, Presales Architect, and Professional Services Consultant and now works in Developer Advocacy. John considers himself a full-stack engineer, having written everything from operating systems to training courses and every level in-between. Nowadays, John, a maker at heart, builds hardware and software blending MongoDB with other technologies from tiny microcontrollers to infinitely scalable cloud services to solve problems - MongoDB pays him to write and talk about them. He lives in the Scottish countryside with three Labradors, four squirrels, and various robots.</p>\n<p class=\"mb-4\">🚀 <strong>Agenda:</strong></p>\n<ul class=\"pl-5 list-disc mb-4\">\n<li>3:00 PM - Introduction &amp; welcome notes from TorontoJS</li>\n<li>3:10 PM - John Page's Tech Talk on MongoDB</li>\n<li>3:40 PM - Q&amp;A Session and/or Mob Programming</li>\n<li>4:00 PM - Networking</li>\n<li>4:20 PM - Closing Remarks</li>\n</ul>\n<p class=\"mb-4\">📧 <strong>Contact:</strong> <a href=\"http://organizers@torontojs.com\" target=\"_blank\" class=\"!text-viridian\" rel=\"nofollow ugc\">organizers@torontojs.com</a></p>\n<p class=\"mb-4\">Elevate your tech journey with us! Be part of an engaging experience where passion for code meets the thrill of learning. See you there!</p>\n<p class=\"mb-4\"><em>Code of Conduct is enforced online or in person at all TorontoJS events and spaces</em></p>\n<p class=\"mb-4\">We are always seeking sponsors and speakers for events similar to this one. If you or your company are interested in supporting TorontoJS or reaching our community, please contact <a href=\"http://organizers@torontojs.com.\" target=\"_blank\" class=\"!text-viridian\" rel=\"nofollow ugc\">organizers@torontojs.com.</a></p></div>",
+  "tags": [
+    "Events in",
+    "MongoDB",
+    "NoSQL",
+    "JavaScript",
+    "Web Development",
+    "Web Technology"
+  ]
+}

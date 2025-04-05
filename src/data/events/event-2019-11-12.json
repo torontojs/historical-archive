@@ -1,0 +1,15 @@
+{
+  "title": "JS Workshop",
+  "hosts": [
+    "Matthew M."
+  ],
+  "startDate": "2019-11-12T18:30:00-05:00",
+  "endDate": "2019-11-12T18:30:00-05:00",
+  "status": "active",
+  "locationType": "in-person",
+  "image": null,
+  "tags": [
+    "Events in Toronto, ON"
+  ],
+  "details": "Details\n-------\n\nWelcome to the JS Workshop! This is a place for intermediate and advanced JavaScript developers to learn new skills, experiment with interesting technologies and have tons of fun.\n\nThis month we are excited to have Sherry Yang who is the Lead Instructor and Program lead from Juno College (formerly HackerYou) leading the workshop. \"Our users have various backgrounds and capabilities, we are encouraged to design and create technologies with the mindset of open accessibility. We’re going to put our applications to the test and immerse ourselves to experience with an a11y lens on. Have you ever evaluate your solution for those with disabilities? Whether it is for the visually impaired, limited mobility, and/or network connection issues, our solutions should be able to support them in any situation.\"\n\nPrerequisites:\n\n*   A laptop with a web dev environment, including an editor\n    \n*   Some proficiency in JavaScript\n    \n*   A cheerful and inquisitive attitude\n    \n*   An appetite (for knowledge and for pizza -- thanks to CrowdRiff for sponsoring the pizza)\n    \n\nThe speakers codes on the projector, and everyone in the room copies that code into their own laptops. You'll go home with an exciting new program, and if there's time left over at the end you'll do something cool with it and show a demo to everyone. Fun!\n\nTimetable:\n\n6:30 - doors open, eat pizza\n\n7:00 - workshop code-along\n\n8:30 - extend the codebase\n\n9:00 - everyone goes home"
+}

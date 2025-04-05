@@ -1,0 +1,15 @@
+{
+  "title": "BeerScript",
+  "hosts": [
+    "James H."
+  ],
+  "startDate": "2011-11-14T20:00:00-05:00",
+  "endDate": "2011-11-14T20:00:00-05:00",
+  "status": "active",
+  "locationType": "in-person",
+  "image": null,
+  "tags": [
+    "Events in Toronto, ON"
+  ],
+  "details": "Details\n-------\n\nHey folks! It's been a while, so let's meet up and talk about JavaScript, share a few beers, and maybe hack a bit too."
+}

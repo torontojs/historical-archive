@@ -1,0 +1,16 @@
+{
+  "title": "JS Tech Talk: Domain Driven Design, and more!",
+  "hosts": [
+    "Matthew M.",
+    "3 others"
+  ],
+  "startDate": "2021-09-07T18:00:00-04:00",
+  "endDate": "2021-09-07T18:00:00-04:00",
+  "status": "active",
+  "locationType": "virtual",
+  "image": null,
+  "tags": [
+    "Events in"
+  ],
+  "details": "Details\n-------\n\nBack with a special, first ever hybrid event of JS Tech Talk and Code Club!\n\nA part of an engineer's day-to-day involves gathering requirements from business stakeholders. When we have enough of them, we go off and code our solution and everyone’s happy when we present at the demo. At least, that’s what we hope…\n\nDomain-Driven Design is a design technique that spans the technical and organizational. We will cover the organizational aspects of Domain-Driven Design in this talk. If time permits, we'll show an example of domain driven modelling that connects to CQRS and event sourcing.\n\nSpeaker Bio\n\nBtara Truhandarien is a Backend Engineer at Faire. [https://www.linkedin.com/in/btara-truhandarien/](https://www.linkedin.com/in/btara-truhandarien/)  \n[https://btruhand.github.io/blog/](https://btruhand.github.io/blog/)\n\nSchedule\n\n6 PM \"Doors\" Open.  \n6:15 pm Talk begins  \n7pm Q&A  \n7:30pm - End. Networking"
+}

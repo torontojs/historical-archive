@@ -1,0 +1,16 @@
+{
+  "title": "31 Flavours are Overrated, I’ll Stick to VanillaJS",
+  "hosts": [
+    "dann",
+    "Taz S."
+  ],
+  "startDate": "2014-03-27T19:00:00-04:00",
+  "endDate": "2014-03-27T19:00:00-04:00",
+  "status": "active",
+  "locationType": "in-person",
+  "image": null,
+  "tags": [
+    "Events in Toronto, ON"
+  ],
+  "details": "Details\n-------\n\nWith the multitude of JavaScript based events this month, some of which are focused on libraries ([http://jqueryto.com/](http://jqueryto.com/)), others on server side technologies ([http://fitc.ca/event/meanstack/](http://fitc.ca/event/meanstack/)), let’s continue that idea with what will be an introduction course to JavaScript WITHOUT libraries.\n\nAs part of the initiative to work in collaboration with other communities this year, we’re working with the HTML Toronto ([https://www.meetup.com/HTMLToronto/](https://www.meetup.com/HTMLToronto/)) group for our March event. Check out their meetup page for more details on their events. HTML Toronto also charges a $5.00 fee for their meetups which we will also be doing for this event.\n\nWe’ll be going through some of the most common functions of libraries and how to perform the same things without adding a bunch of additional overhead. I’ve heard it said many times over the last year: “Web applications will never be as fast as native”. Let’s prove them wrong this year by making the switch to a library-less, clean coding binge.\n\n+12 million operations per second  \nvar myElement = document.getElementById('myID');\n\n~350 thousand operations per second  \nvar myElement = $('#myID');\n\nMatthew Potter ([https://twitter.com/AskMP](https://twitter.com/AskMP)) and Tasveer Singh ([https://twitter.com/tazsingh/](https://twitter.com/tazsingh/)) will be heading two separate talks about functionality, prototyping, object rolls, and much more. Look to the Facebook, Twitter and Google+ pages of both our groups for more details leading up along with code snippets sneak previews.\n\nSee more examples of Vanilla tested against other libraries:\n\n[https://encrypted.google.com/search?q=site%3Ajsperf.com+vanilla](https://encrypted.google.com/search?q=site%3Ajsperf.com+vanilla)\n\nWe’ll be covering basics in JavaScript design and patterns. Going to this event will help get you much more ready to start coding for things like [Node.js](http://Node.js) ([http://nodejs.org/](http://nodejs.org/)), [Socket.io](http://Socket.io) ([http://socket.io/](http://socket.io/)) and AngularJS ([http://angularjs.org/](http://angularjs.org/)).\n\nPlease note that we will be posting the event on both of our Meetup pages so please feel free to register on either one.\n\nSchedule:  \n6:30 - 7:00 Check-in, food & Networking  \n7:00 - Presentations Start  \n7:45ish - Break  \n8:00 - Presentations Start  \n9:00 - Out the door"
+}

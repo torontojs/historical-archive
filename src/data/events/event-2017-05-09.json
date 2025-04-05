@@ -1,0 +1,15 @@
+{
+  "title": "JS Workshop",
+  "hosts": [
+    "dann"
+  ],
+  "startDate": "2017-05-09T18:30:00-04:00",
+  "endDate": "2017-05-09T18:30:00-04:00",
+  "status": "active",
+  "locationType": "in-person",
+  "image": null,
+  "tags": [
+    "Events in Toronto, ON"
+  ],
+  "details": "Details\n-------\n\nWelcome to the JS Workshop! This is a place for intermediate and advanced JavaScript developers to learn new skills, experiment with interesting technologies and have tons of fun.\n\nThis month we're super excited to have Natalie Girard presenting on the Web Bluetooth API!!! Here's the description:\n\nThe web is receiving more native mobile functionality with the arrival of the Web Bluetooth API, which allows web applications accessed from a Bluetooth enabled device to interact with Bluetooth IoT and wearable devices. This workshop will give you information about - and the opportunity to use - the new Web Bluetooth API.\n\nPrerequisites:\n\n*   A Bluetooth-enabled laptop\n    \n*   Bluetooth devices -- as many as you can find :)\n    \n*   Bluetooth emulator installed on your phone:\n    \n\niPhone: [https://itunes.apple.com/ca/app/lightblue-explorer-bluetooth-low-energy/id557428110?mt=8](https://itunes.apple.com/ca/app/lightblue-explorer-bluetooth-low-energy/id557428110?mt=8)\n\nAndroid: [https://play.google.com/store/apps/details?id=io.github.webbluetoothcg.bletestperipheral&hl=en](https://play.google.com/store/apps/details?id=io.github.webbluetoothcg.bletestperipheral&hl=en)\n\n*   A web dev environment, including an editor, a local server, and [Node.js](http://Node.js) installed\n    \n*   Some proficiency in JavaScript\n    \n*   A cheerful and inquisitive attitude\n    \n*   An appetite (for knowledge and for pizza -- thanks to New Relic for sponsoring us!)\n    \n\nThe evening revolves around two main pieces: the code-along and the group work. The first hour has the speaker coding on the projector, while the attendees copy that code into their own laptops. During the second hour we'll break into groups to extend that common code in new and exciting ways.\n\nTimetable:\n\n6:30 - doors open, eat pizza\n\n7:00 - workshop code-along\n\n8:00 - break for ideas and more pizza\n\n8:15 - extend the codebase in groups\n\n9:15 - demo round\n\n9:30 - everyone goes home"
+}
