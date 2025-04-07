@@ -1,0 +1,15 @@
+{
+  "title": "January Tech Talk Night: Web Audio API, Angular.js, and HTML5 Windows 8 Apps",
+  "hosts": [
+    "Taz S."
+  ],
+  "startDate": "2013-01-17T18:00:00-05:00",
+  "endDate": "2013-01-17T18:00:00-05:00",
+  "status": "active",
+  "locationType": "in-person",
+  "image": null,
+  "tags": [
+    "Events in Toronto, ON"
+  ],
+  "details": "Details\n-------\n\nWe're pleased to announce the first Tech Talk Night of 2013 at Bento Miso. To kick off the event, we have three exciting speakers lined up:\n\nCoding in Rhythm - Dann Toliver\n\nLike music? Programs too? Now you can use one to make the other! We'll talk about the Web Audio API, processing graphs, audio synthesis and a host of other fun things. This will be a hands-on demonstration so bring your laptops.\n\n[Angular.js](http://Angular.js) from the Trenches - Dan Williams\n\nIgniter has been using Angular for 6 months exclusively. The docs and example applications are great for getting your feet wet with Angular. We look at the approaches and techniques we use to help speed Angular development and make a truly phenomenal platform to prototype with, and build out your product.\n\nThe One About the Native HTML5 App on Windows 8 - Paul Laberge\n\nYou’re a web developer, you say? All about web standards, too? We’ll bet you haven’t (willingly) worked with the Microsoft web platform in years (or ever). Well, we have a really nice surprise for you. It’s called IE10 (yes, we said “IE”). It’s built around the emerging W3C web platform standards and arguably the most standards-compliant browser out there. But that’s just the beginning. What if we told you that you could use those standards-based, web development chops you’ve honed over the years to create amazing and truly native experiences on Windows 8 with HTML/JavaScript Windows Store apps? Okay, you can stop laughing now. Because we’re serious. By the end of this session, you’ll realize that you can build amazing, immersive and truly native apps for Windows 8 using HTML, JavaScript and CSS. You’ll even learn how to start building them today (as in NOW).\n\nSee you there!"
+}

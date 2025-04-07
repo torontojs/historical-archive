@@ -1,0 +1,15 @@
+{
+  "title": "JS Workshop",
+  "hosts": [
+    "dann"
+  ],
+  "startDate": "2017-11-14T18:30:00-05:00",
+  "endDate": "2017-11-14T18:30:00-05:00",
+  "status": "active",
+  "locationType": "in-person",
+  "image": null,
+  "tags": [
+    "Events in Toronto, ON"
+  ],
+  "details": "Details\n-------\n\nWelcome to the JS Workshop! This is a place for intermediate and advanced JavaScript developers to learn new skills, experiment with interesting technologies and have tons of fun.\n\nThis month we'll be building a data viz suite in ClojureScript with Rafal Dittwald! Here's the description:\n\nGet a new perspective on how React can be used, by creating a simple data analysis interface and data-visualization with ClojureScript (a version of the Clojure language that compiles to JS) and Reagent (a ClojureScript library that abstracts React).\n\nPrerequisites:\n\n*   A laptop with a web dev environment, including an editor and a local server\n    \n*   Some proficiency in JavaScript\n    \n*   A cheerful and inquisitive attitude\n    \n*   An appetite (for knowledge and for pizza -- thanks to New Relic for sponsoring us!)\n    \n\nThe evening revolves around two main pieces: the code-along and the group work. The first hour has the speaker coding on the projector, while the attendees copy that code into their own laptops. During the second hour we'll break into groups to extend that common code in new and exciting ways.\n\nTimetable:\n\n6:30 - doors open, eat pizza\n\n7:00 - workshop code-along\n\n8:00 - break for ideas and more pizza\n\n8:15 - extend the codebase in groups\n\n9:15 - demo round\n\n9:30 - everyone goes home"
+}

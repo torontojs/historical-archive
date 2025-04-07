@@ -1,0 +1,15 @@
+{
+  "title": "Let's Ask Stoyan Stefanov, author of JavaScript Patterns",
+  "hosts": [
+    "dann"
+  ],
+  "startDate": "2014-04-24T19:00:00-04:00",
+  "endDate": "2014-04-24T19:00:00-04:00",
+  "status": "active",
+  "locationType": "in-person",
+  "image": null,
+  "tags": [
+    "Events in Toronto, ON"
+  ],
+  "details": "Details\n-------\n\nDid you learn JavaScript sporadically, on a need to know basis, seeing how far its similarities to the languages you already knew could take you? If so, you probably conceive of it in terms of its exceptions and see its idiosyncrasies as perilous, sticking closely to familiar idioms when you use it, for fear of getting in over your head.\n\nThere's a better way. To leverage all of JavaScript's expressive power requires understanding its unique structures on their own terms rather than in terms of the constructs of some other language. Stoyan Stefanov's JavaScript Patterns is a great resource for making that conceptual leap for devs whose primary background is in Classical, OO programming.\n\nThe book begins with a clear account of JavaScript's unique properties. A discussion of how these features can be used to create structures common to OO programming follows (inheritable objects, mixins, modules, a selection of GoF patterns). The strategies not only serve as a useful reference, but help stretch your imagination regarding how JavaScript's unique properties can be manipulated and leveraged, and at times intimate why OO might not always be the most effective paradigm to use in JS.\n\nStoyan will be joining us by Google Hangout to discuss his book, the nature of JavaScript broadly speaking, and React, which he gets plenty of opportunity to use as a dev at Facebook. Read JS Patterns (or one of his other JS related books if you like), and/or try out React, and bring your questions."
+}

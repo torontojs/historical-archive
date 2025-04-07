@@ -1,0 +1,15 @@
+{
+  "title": "Beer and JavaScript",
+  "hosts": [
+    "James H."
+  ],
+  "startDate": "2011-05-30T19:00:00-04:00",
+  "endDate": "2011-05-30T19:00:00-04:00",
+  "status": "active",
+  "locationType": "in-person",
+  "image": null,
+  "tags": [
+    "Events in Toronto, ON"
+  ],
+  "details": "Details\n-------\n\nHey friends! Sorry for the inactivity lately. Let's meet up, have some beers, and chat about all things JavaScript. I'd like to plan some talks for future meets."
+}

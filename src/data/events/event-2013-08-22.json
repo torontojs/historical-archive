@@ -1,0 +1,15 @@
+{
+  "title": "August Tech Talk Night - Marionette and Vert.x",
+  "hosts": [
+    "Taz S."
+  ],
+  "startDate": "2013-08-22T18:00:00-04:00",
+  "endDate": "2013-08-22T18:00:00-04:00",
+  "status": "active",
+  "locationType": "in-person",
+  "image": null,
+  "tags": [
+    "Events in Toronto, ON"
+  ],
+  "details": "Details\n-------\n\nWe're pleased to announce another JavaScript Tech Talk Night. This month we have two talks which cover both front-end and server-side JavaScript.\n\n[Marionette.js](http://Marionette.js) - Matt Briggs\n\nIn a day and age where frameworks like Ember and Angular exist, why would somebody still write a JavaScript application using Backbone?\n\nIn this talk, Matt will show how MarionetteJS eliminates boilerplate, encourages modular design, and makes working with Backbone views an overall more pleasant experience.\n\nVert.x on JavaScript - Tasveer Singh\n\nHave you ever wanted to build a WebSocket powered application? How about one that's built on a solid messaging foundation? Tasveer will show you what he loves about Vert.x including its non-blocking evented architecture, its simple & scalable concurrency model, communicating with a browser, and the ease of testing a Vert.x application.\n\nTalk Proposals and Sponsoring\n\nIf you would like to give a talk or would like to sponsor an event, please contact Tasveer at [taz@torontojs.com.](http://taz@torontojs.com.)\n\nSee you there!"
+}

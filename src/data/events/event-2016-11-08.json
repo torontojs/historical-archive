@@ -1,0 +1,15 @@
+{
+  "title": "JS Workshop",
+  "hosts": [
+    "dann"
+  ],
+  "startDate": "2016-11-08T18:30:00-05:00",
+  "endDate": "2016-11-08T18:30:00-05:00",
+  "status": "active",
+  "locationType": "in-person",
+  "image": null,
+  "tags": [
+    "Events in Toronto, ON"
+  ],
+  "details": "Details\n-------\n\nWelcome to the JS Workshop! This is a place for intermediate and advanced JavaScript developers to learn new skills, experiment with interesting technologies and have tons of fun.\n\nThis month Alex Wilmer will be leading us through a workshop entitled \"Let's build a synth!\":\n\nIn this live interactive tutorial, we'll explore the basics of audio synthesis through the very convenient, very easy to use Web Audio API. You will be given a pre-built user interface with all of the fixins of a typical synthesizer -- knobs, toggles, sliders, oh my! -- and it will be your job to write the code that generates the sound and hooks into the UI to shape your synth's output into something beautiful (or chaotic, if that's your thing).\n\nCome and learn just how easy it is to make sweet, sweet music right from your browser!\n\nPrerequisites:\n\n*   Computer with NodeJS 4.0 (or greater) installed (come early if you need help with that)\n    \n*   Chrome / Firefox\n    \n*   Text editor of your choice\n    \n*   Headphones HIGHLY recommended\n    \n*   Some proficiency in JavaScript\n    \n*   A cheerful and inquisitive attitude\n    \n*   An appetite (for knowledge and for pizza -- thanks to New Relic for sponsoring us!)\n    \n\nThe evening revolves around two main pieces: the code-along and the group work. The first hour has the speaker coding on the projector, while the attendees copy that code into their own laptops. During the second hour we'll break into groups to extend that common code in new and exciting ways.\n\nTimetable:\n\n6:30 - doors open, eat pizza\n\n7:00 - workshop code-along\n\n8:00 - break for ideas and more pizza\n\n8:15 - extend the codebase in groups\n\n9:15 - demo round\n\n9:30 - everyone goes home"
+}

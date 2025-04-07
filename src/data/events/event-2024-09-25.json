@@ -1,0 +1,20 @@
+{
+  "title": "JS Tech Talk [In Person] - September 2024",
+  "hosts": [
+    "Aman A."
+  ],
+  "startDate": "2024-09-25T18:00:00-04:00",
+  "endDate": "2024-09-25T18:00:00-04:00",
+  "status": "active",
+  "locationType": "in-person",
+  "image": "https://secure.meetupstatic.com/photos/event/d/f/3/2/600_521097138.webp?w=750",
+  "tags": [
+    "Events in Toronto, ON",
+    "JavaScript",
+    "JavaScript Applications",
+    "JavaScript Frameworks",
+    "JavaScript Libraries",
+    "Web Technology"
+  ],
+  "details": "Details\n-------\n\nWelcome back folks, to another exciting Tech Talk event at **[Super.com](http://Super.com)** on September 25!\n\nJoin us for some drinks, snacks, and Tech Talks.\n\nMake sure to mark your calendars and come out and join us for this event as we say hello to Fall!\n\n**Agenda**\n\n**\"From RUM to Front-End Observability with OpenTelemetry\"**  \nIn this talk, we’ll dive into how to use tracing with OpenTelemetry to start surfacing unknown-unknowns, whether you’re using React, Angular or {insert-frontend-framework-of-the-month}.  \nby **[Purvi Kanal](https://www.linkedin.com/in/%F0%9F%9A%80-purvi-kanal-4a36089a/)**\n\n**Zalgo and other eldritch unicode horrors**\n\nLet's talk about string encoding, accented characters, and how to deal with Unicode  \nby **[Marco Campos](https://www.linkedin.com/in/madcampos/)**\n\n**Schedule:**  \n**6:00pm** - doors open  \n**6:30pm to 7:00pm** - From RUM to Front-End Observability with OpenTelemetry by Purvi Kanal  \n**7:00pm to 7:30pm** - Zalgo and Other Eldritch Unicode Horrors by Marco Campos  \n**7:30pm to 9:00pm** - Networking  \n**9:00pm** - doors close  \n(Note: All times in the schedule are an approximation.)\n\n**Please RSVP to confirm your attendance.** If you have your friends or teammates joining please ask them to RSVP as well.\n\n**You can also RSVP at Guild if Meetup is full!**  \n[https://guild.host/events/js-tech-talk-in-person-ixwtxw](https://guild.host/events/js-tech-talk-in-person-ixwtxw)\n\nThis event is open to all skill levels.\n\nMany thanks to **\\[[Super.com](http://Super.com)\\]([https://super.com](https://super.com))** [](https://super.com)for hosting us and **[Sanity](https://www.sanity.io/)** for supporting us!\n\nWe're looking for sponsors for events like these. If you or your company would like to support TorontoJS and get a message out to our community, please get in touch with \\[[organizers@torontojs.com](http://organizers@torontojs.com)\\]([mailto:organizers@torontojs.com](http://mailto:organizers@torontojs.com))\n\nThe Code of Conduct is enforced at all TorontoJS events and spaces - online or in-person.\n\nTorontoJS is a volunteer-led not-for-profit organization. Please help us with tidying up. otherwise, the venue staff and volunteers will have to pick up after you."
+}

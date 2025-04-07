@@ -1,0 +1,21 @@
+{
+  "title": "JS Tech Talk: Becoming a Form Wizard: Intuitive Multi-Step Workflows",
+  "hosts": [
+    "Matthew M.",
+    "4 others"
+  ],
+  "startDate": "2022-05-18T18:00:00-04:00",
+  "endDate": "2022-05-18T18:00:00-04:00",
+  "status": "active",
+  "locationType": "virtual",
+  "image": null,
+  "tags": [
+    "Events in",
+    "JavaScript",
+    "JavaScript Applications",
+    "JavaScript Frameworks",
+    "JavaScript Libraries",
+    "Web Technology"
+  ],
+  "details": "Details\n-------\n\nWe're BACK! JS Tech Talk is for sharing knowledge about all things Javascript or dev-related to improve our craft and careers. This talk is open to all skill levels.\n\nAs an opener for this talk, there will be a short lightning talk giving  \n\"An Overview of Vega-Lite\"  \nMike (Boston) will overview Vega-Lite, a flexible and interactive graphing package, the grammar of graphics, and a few tips for testing.\n\nSpeaker Bio  \nMike is transitioning from a long career in tech marketing to a happy place developing museum kiosks with Python and React.\n\nMike Combs on [Slack](https://torontojs.slack.com/team/U02S8UED4M8)  \n\\---\n\n\"Becoming a Form Wizard: Intuitive Multi-Step Workflows\"  \nForms are a core part of many applications and complex actions are often broken up into multiple forms as steps in this workflow. Using React’s Context API and a conventional state machine, Nick Hehr will show us how we can build a reusable system for building these wizards and make the web a bit more magical.\n\nSchedule\n\n6:00 event start\n\n6:15 \"An Overview of Vega-Lite\" by Mike Combs\n\n6:30 \"Becoming a Form Wizard: Intuitive Multi-Step Workflows\" by Nick Hehr\n\n7:00 - 8:00 pm : Q&A and General social chatter.\n\nCode of conduct is enforced at all TorontoJS events [https://torontojs.com/p/code\\_of\\_conduct](https://torontojs.com/p/code_of_conduct)\n\nSpeaker Bio\n\nNick Hehr is an empathetic community member, full-stack developer, avid climber,and cyclist. He is currently leading front end development at Betterment where he focuses on the internal design system, a11y, and React development. Previously, he helped organize ManhattanJS and contributed to Hoodie, node-serialport, Johhny-Five, and Tessel. When he's not tinkering on hardware at home, you can probably find him at the nearest climbing gym. His mustache is a figment of your imagination.\n\n[https://twitter.com/hipsterbrown](https://twitter.com/hipsterbrown)  \n\\---\n\nWanna give a talk or workshop? Tell us about it at  \n[https://tinyurl.com/torontoJS](https://tinyurl.com/torontoJS)\n\n**Guild Trial**  \nWe're also trialling a new platform for Events & Presentations - Guild!  \nPlease register for this event on Guild by following the link below, in order to assist us with the trial. Thank you!  \n[https://beta.guild.host/events/WyJldmVudHMiLCJkYjRjN2IwOC0wOGU1LTQxNDgtYjJmYy1jNGMzZDFkMmEyM2IiXQ==](https://beta.guild.host/events/WyJldmVudHMiLCJkYjRjN2IwOC0wOGU1LTQxNDgtYjJmYy1jNGMzZDFkMmEyM2IiXQ==)"
+}

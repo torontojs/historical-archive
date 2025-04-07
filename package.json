@@ -1,0 +1,17 @@
+{
+  "name": "historical-archive",
+  "version": "1.0.0",
+  "description": "An archive of TorontoJS history!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "puppeteer": "^24.4.0",
+    "turndown": "^7.2.0"
+  }
+}

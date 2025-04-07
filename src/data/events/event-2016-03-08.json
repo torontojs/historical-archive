@@ -1,0 +1,15 @@
+{
+  "title": "JS Workshop",
+  "hosts": [
+    "dann"
+  ],
+  "startDate": "2016-03-08T18:30:00-05:00",
+  "endDate": "2016-03-08T18:30:00-05:00",
+  "status": "active",
+  "locationType": "in-person",
+  "image": null,
+  "tags": [
+    "Events in Toronto, ON"
+  ],
+  "details": "Details\n-------\n\nWelcome to the JS Workshop! This is a place for intermediate and advanced JavaScript developers to learn new skills, experiment with interesting technologies and have tons of fun.\n\nThis month we're going to be exploring AST traversals and code rewriting with Jeff Jewiss using PostCSS! Here's the description:\n\n\"Postcss is something of a build-your-own processor for CSS, with many community built plugins and features. We will be writing a Postcss plugin to learn about the APIs that are provided and what sort of things are possible with Postcss, like adding support for future CSS features, adding your own syntax or optimizing your code.\"\n\nPrerequisites:\n\n*   A laptop with a web dev environment, including an editor and a local server\n    \n*   Node and Git installed (Node V4 LTS is recommended)\n    \n*   Some proficiency in JavaScript\n    \n*   A cheerful and inquisitive attitude\n    \n*   An appetite (for knowledge and for pizza -- thanks to New Relic for sponsoring us!)\n    \n\nPre-workshop instructions:\n\n*   Clone this repository: [https://github.com/jeffjewiss/postcss-workshop](https://github.com/jeffjewiss/postcss-workshop)\n    \n*   Follow the Setup Instructions in the repo's description\n    \n\nTimetable:\n\n6:30 - doors open, eat pizza\n\n7:00 - workshop starts\n\n8:00 - break for ideas and more pizza\n\n8:15 - start building things\n\n9:15 - demo round\n\n9:30 - everyone goes home"
+}

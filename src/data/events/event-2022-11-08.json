@@ -1,0 +1,21 @@
+{
+  "title": "JS Workshop",
+  "hosts": [
+    "Matthew M.",
+    "4 others"
+  ],
+  "startDate": "2022-11-08T18:30:00-05:00",
+  "endDate": "2022-11-08T18:30:00-05:00",
+  "status": "active",
+  "locationType": "virtual",
+  "image": null,
+  "tags": [
+    "Events in",
+    "JavaScript",
+    "JavaScript Applications",
+    "JavaScript Frameworks",
+    "JavaScript Libraries",
+    "Web Technology"
+  ],
+  "details": "Details\n-------\n\nWelcome to the JS Workshop! This is a new pilot program takeover:  \n📣 Technical Interview Program 📣\n\nWe understand that technical interviews are stressful and we have had enough requests from people who would like to get some practice and advice for technical interviews. The team listened and had compiled a workshop to give more space to practice and gain feedback on their technical interview approach.\n\n**Prerequisites:**\n\n*   bring yourself\n*   have your webcam on\n*   prepare to practice your technical interview skill\n\n**Structure:**  \nOne of the mentors will present one strategy to practice for the workshop. Then we will split into breakout rooms with 5 participants to 1 mentor. In these breakout rooms, like a technical interview, the mentor will present a series of questions, then participants will take turns to answer the questions using the presented strategy. The mentor will provide you with constructive feedback after each answer. To wrap up, we will regroup and present the future practices.\n\n**Timetable:**  \n6:30 - welcoming remark  \n6:45 - technical interview strategy  \n7:05 - breakout session  \n8:30 - regroup and closing remarks\n\n**Note:**  \nThis workshop is targeting developers who are less experienced in technical interviews. There's a 15 participants capacity limit for this pilot workshop. Spectators are welcome but not encouraged.\n\nCode of conduct is enforced at all TorontoJS events [https://torontojs.com/p/code\\_of\\_conduct](https://torontojs.com/p/code_of_conduct)"
+}
