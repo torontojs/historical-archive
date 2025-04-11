@@ -1,0 +1,1852 @@
+[
+  {
+    "title": "Toronto JavaScript Meetup",
+    "startDate": "2010-07-20T19:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "In the Beginning (the first Toronto JS Meetup)",
+    "startDate": "2010-09-15T19:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "Hack Night",
+    "startDate": "2010-10-26T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "Server Side JavaScript Hack Night",
+    "startDate": "2010-12-08T19:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "Beers, and Codes",
+    "startDate": "2011-01-24T19:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "Beer and JavaScript",
+    "startDate": "2011-05-30T19:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "Javascript Hack Night",
+    "startDate": "2011-06-14T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "BeerScript",
+    "startDate": "2011-11-14T20:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "BeerScript",
+    "startDate": "2012-06-26T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JavaScript Tech Talk Night",
+    "startDate": "2012-10-11T19:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "Post Tech Talk Pub Night",
+    "startDate": "2012-10-11T21:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "BeerScript",
+    "startDate": "2012-11-08T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "January Tech Talk Night: Web Audio API, Angular.js, and HTML5 Windows 8 Apps",
+    "startDate": "2013-01-17T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "BeerScript",
+    "startDate": "2013-02-07T19:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "March Tech Talk Night: Frameworks, Cryptography, and Quadcopters",
+    "startDate": "2013-03-14T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "Toronto's Web Apps and HTML5 Games Code-Along",
+    "startDate": "2013-04-06T10:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "BeerScript",
+    "startDate": "2013-04-11T19:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "June Tech Talk Night - Daimio and Dart",
+    "startDate": "2013-06-27T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "August Tech Talk Night - Marionette and Vert.x",
+    "startDate": "2013-08-22T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "BeerScript",
+    "startDate": "2013-09-26T19:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "November Tech Talk Night - WebGL",
+    "startDate": "2013-11-07T19:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "Toronto Tech Wrap-up",
+    "startDate": "2013-12-03T20:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "February Tech Talk Night - Promises, HTML5 Games, Om",
+    "startDate": "2014-02-20T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "Coding kickstarter for decentralized publishing platform (puffball.io)",
+    "startDate": "2014-03-25T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "31 Flavours are Overrated, I’ll Stick to VanillaJS",
+    "startDate": "2014-03-27T19:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "Let's Ask Stoyan Stefanov, author of JavaScript Patterns",
+    "startDate": "2014-04-24T19:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "May Tech Talk Night - Real Time Web Applications",
+    "startDate": "2014-05-22T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Hack Night",
+    "startDate": "2014-06-10T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Hack Night",
+    "startDate": "2014-07-15T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Hack Night",
+    "startDate": "2014-08-12T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "August Tech Talk Night",
+    "startDate": "2014-08-21T19:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Hack Night",
+    "startDate": "2014-09-09T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Hack Night",
+    "startDate": "2014-10-14T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "October Tech Talk Night - ES6, Mithril.js, and Flux+React",
+    "startDate": "2014-10-23T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Hack Night",
+    "startDate": "2014-11-11T18:30:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "#TOTechBash 2014",
+    "startDate": "2014-12-02T20:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Hack Night",
+    "startDate": "2014-12-09T18:30:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Hack Night",
+    "startDate": "2015-01-13T18:30:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Hack Night",
+    "startDate": "2015-02-10T18:30:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Hack Night",
+    "startDate": "2015-03-10T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "March Tech Talk Night - Distributed Computing, WebPack, and Angular 2.0",
+    "startDate": "2015-03-12T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Hack Night",
+    "startDate": "2015-04-14T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "BeerScript - April Edition",
+    "startDate": "2015-04-15T19:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Hack Night",
+    "startDate": "2015-05-12T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "May Tech Talk and Rise of the Transpilers Panel",
+    "startDate": "2015-05-21T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Hack Night",
+    "startDate": "2015-06-09T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "BeerScript",
+    "startDate": "2015-06-30T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Hack Night",
+    "startDate": "2015-07-14T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "July Tech Talk Night - Kitchener-Waterloo Edition - FOAM Framework, Ember, & Git",
+    "startDate": "2015-07-16T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Hack Night",
+    "startDate": "2015-08-11T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "BeerScript",
+    "startDate": "2015-08-25T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Hack Night",
+    "startDate": "2015-09-08T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Hack Night",
+    "startDate": "2015-10-13T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Hack Night",
+    "startDate": "2015-11-10T18:30:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Hack Night",
+    "startDate": "2015-12-08T18:30:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Hack Night",
+    "startDate": "2016-01-12T18:30:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "Tech Talk Night - React Ecosystem",
+    "startDate": "2016-01-14T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2016-02-09T18:30:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "BeerScript",
+    "startDate": "2016-02-16T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2016-03-08T18:30:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "Tech Talk Night - CSS and Open Source",
+    "startDate": "2016-03-22T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2016-04-06T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2016-04-12T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2016-05-04T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2016-05-10T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2016-06-01T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2016-06-14T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "BeerScript",
+    "startDate": "2016-06-21T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2016-07-06T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2016-07-12T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2016-08-03T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2016-08-09T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "BeerScript",
+    "startDate": "2016-08-23T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2016-09-07T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2016-09-13T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2016-10-03T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "PhoneGap & Ionic - October Tech Talk Night",
+    "startDate": "2016-10-05T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2016-10-11T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "BeerScript",
+    "startDate": "2016-10-17T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2016-11-02T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2016-11-08T18:30:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2016-12-07T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2016-12-12T18:30:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "BeerScript",
+    "startDate": "2016-12-20T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2017-01-04T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2017-01-10T18:30:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "January Tech Talk Night - Elm and Multi-Platform Apps",
+    "startDate": "2017-01-26T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2017-02-01T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop: the reason for Reason",
+    "startDate": "2017-02-14T18:30:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "BeerScript",
+    "startDate": "2017-02-21T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2017-03-01T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2017-03-07T18:30:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "March Tech Talk Night - GraphQL/Relay plus Functional Programming",
+    "startDate": "2017-03-30T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2017-04-05T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2017-04-11T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2017-05-03T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2017-05-09T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2017-06-07T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2017-06-13T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "Toronto JS and Capital One present: A beginner's guide to Webpack and React",
+    "startDate": "2017-06-14T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "June Tech Talks! Virtual DOM components and continuous deployment with Jest",
+    "startDate": "2017-06-26T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2017-07-05T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop: ClojureScript!",
+    "startDate": "2017-07-11T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS BeerScript!",
+    "startDate": "2017-07-25T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2017-08-02T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2017-08-08T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "#Functions17",
+    "startDate": "2017-08-25T09:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "Tech Talks: CardStack, Discourse and more!",
+    "startDate": "2017-09-06T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2017-09-12T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2017-09-20T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS BeerScript!",
+    "startDate": "2017-09-26T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2017-10-04T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2017-10-10T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS BeerScript",
+    "startDate": "2017-10-25T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2017-11-01T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2017-11-14T18:30:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS BeerScript",
+    "startDate": "2017-11-29T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2017-12-06T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2017-12-12T18:30:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2018-01-03T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2018-01-16T18:30:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS BeerScript",
+    "startDate": "2018-01-31T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2018-02-07T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2018-02-13T18:30:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS BeerScript",
+    "startDate": "2018-02-28T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2018-03-07T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2018-03-13T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "Styled components, resilient microservices & robustness-first computing",
+    "startDate": "2018-03-19T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS BeerScript",
+    "startDate": "2018-03-28T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2018-04-04T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2018-04-10T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS BeerScript",
+    "startDate": "2018-04-25T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2018-05-02T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2018-05-08T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS BeerScript",
+    "startDate": "2018-05-30T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2018-06-06T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2018-06-12T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS BeerScript",
+    "startDate": "2018-06-27T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2018-07-04T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2018-07-10T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS BeerScript",
+    "startDate": "2018-07-25T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "July Tech Talks - State Management Edition",
+    "startDate": "2018-07-30T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2018-08-01T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2018-08-14T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS BeerScript",
+    "startDate": "2018-08-29T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2018-09-05T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2018-09-11T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "TorontoJS x FutureMakers Mega Meetup!",
+    "startDate": "2018-09-26T17:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2018-10-03T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2018-10-09T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2018-11-07T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2018-11-14T18:30:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS BeerScript",
+    "startDate": "2018-11-28T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2018-12-05T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2019-01-02T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Tech Talk: January Edition",
+    "startDate": "2019-01-28T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS BeerScript",
+    "startDate": "2019-01-30T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2019-02-06T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS BeerScript",
+    "startDate": "2019-02-27T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2019-03-06T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2019-04-03T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2019-04-16T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "(Typescript with React) && (Migrating from Angular to React/Redux)",
+    "startDate": "2019-04-17T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS BeerScript",
+    "startDate": "2019-04-24T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2019-05-01T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS BeerScript",
+    "startDate": "2019-05-29T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2019-06-05T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS BeerScript",
+    "startDate": "2019-06-26T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2019-07-03T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS BeerScript",
+    "startDate": "2019-07-31T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2019-08-07T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2019-08-13T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS BeerScript",
+    "startDate": "2019-08-28T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2019-09-04T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2019-09-10T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS TechTalk: September edition with React Native & React, Typescript & GraphQL",
+    "startDate": "2019-09-11T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS BeerScript",
+    "startDate": "2019-09-25T19:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2019-10-02T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2019-10-10T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS BeerScript",
+    "startDate": "2019-10-30T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2019-11-06T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2019-11-12T18:30:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS TechTalk: November edition with Abstract Syntax Trees and more!",
+    "startDate": "2019-11-25T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Social",
+    "startDate": "2019-11-27T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2019-12-04T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop - Become a test guru by writing your own framework!",
+    "startDate": "2019-12-10T18:30:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop - Unlocking Advanced Hooks Skills in React",
+    "startDate": "2020-01-14T18:30:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Social",
+    "startDate": "2020-01-29T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2020-02-05T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop - Building Portals to AR Dimensions in React Native",
+    "startDate": "2020-02-10T18:30:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Social",
+    "startDate": "2020-02-26T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "[REMOTE] JS Workshop - Creating your own Front-End Framework",
+    "startDate": "2020-03-23T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "[REMOTE] JS Social",
+    "startDate": "2020-03-25T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "[REMOTE] JS Social",
+    "startDate": "2020-04-01T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "[REMOTE] JS Social",
+    "startDate": "2020-04-15T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "[REMOTE] JS Social",
+    "startDate": "2020-04-22T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "[REMOTE] JS Workshop - Abstract Syntax Trees with Nicole Chung",
+    "startDate": "2020-04-29T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2020-05-06T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2020-05-12T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Social",
+    "startDate": "2020-05-27T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Social",
+    "startDate": "2020-06-24T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Social",
+    "startDate": "2020-07-29T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop: Building a Promise from scratch with Evert Pot",
+    "startDate": "2020-08-04T19:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Social",
+    "startDate": "2020-08-26T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Social",
+    "startDate": "2020-09-30T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop: Build Your Own CryptoCurrency from Scratch With Matthew Mihok",
+    "startDate": "2020-10-08T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Social",
+    "startDate": "2020-10-28T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop - Part 2, Build Your Own CryptoCurrency from Scratch",
+    "startDate": "2020-11-10T18:30:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Social",
+    "startDate": "2020-11-25T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Social",
+    "startDate": "2020-12-30T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop - Building a widget using web components with Pradhumna Pancholi",
+    "startDate": "2021-01-12T18:30:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Social",
+    "startDate": "2021-01-27T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Social",
+    "startDate": "2021-02-24T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2021-03-02T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2021-03-31T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2021-04-06T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Social",
+    "startDate": "2021-04-28T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2021-05-04T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop: Enter Ethereum with Pradhumna Pancholi",
+    "startDate": "2021-05-18T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Social",
+    "startDate": "2021-05-26T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club: AMA Edition",
+    "startDate": "2021-06-01T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop: Testing Library with Jest",
+    "startDate": "2021-06-08T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Social",
+    "startDate": "2021-06-30T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2021-07-05T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2021-07-06T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2021-07-13T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Tech Talk: The Benefits of using React Hooks // JS Social",
+    "startDate": "2021-07-28T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2021-08-03T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "Toronto JS Town Hall",
+    "startDate": "2021-08-04T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Tech Talk: CI/CD 101",
+    "startDate": "2021-08-10T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Social",
+    "startDate": "2021-08-25T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Tech Talk: Domain Driven Design, and more!",
+    "startDate": "2021-09-07T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Tech Talk: Web Mapping in JavaScript",
+    "startDate": "2021-09-13T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2021-09-14T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Social",
+    "startDate": "2021-09-29T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2021-10-05T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2021-10-12T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Social",
+    "startDate": "2021-10-27T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Tech Talk: Scaling a Codebase from a Hacky Project to a Professional Product",
+    "startDate": "2021-11-18T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Social",
+    "startDate": "2021-11-24T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Lightning Talks: Coding for Design Systems",
+    "startDate": "2021-12-07T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Social",
+    "startDate": "2021-12-29T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2022-01-04T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Tech Talk: Introduction to Hypermedia & Ketting",
+    "startDate": "2022-01-19T18:30:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Social",
+    "startDate": "2022-01-26T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop: Cross Browser Extensions with the web extensions API",
+    "startDate": "2022-02-08T18:30:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Tech Talk: Quadtree and Maps using D3",
+    "startDate": "2022-02-15T18:30:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Social",
+    "startDate": "2022-02-23T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Tech Talk: Animations in React Native",
+    "startDate": "2022-03-08T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "TorontoJS Presents: IWD2022 with Women Techmakers Ambassadors - Day 1",
+    "startDate": "2022-03-29T13:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "TorontoJS Presents: IWD2022 with Women Techmakers Ambassadors - Day 2",
+    "startDate": "2022-03-30T13:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "TorontoJS Presents: IWD2022 with Women Techmakers Ambassadors - Day 3",
+    "startDate": "2022-03-31T13:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Tech Talk: 20 Years as a Self Taught Developer",
+    "startDate": "2022-04-05T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Toastmasters",
+    "startDate": "2022-04-14T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Social",
+    "startDate": "2022-04-27T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2022-05-03T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Tech Talk: Becoming a Form Wizard: Intuitive Multi-Step Workflows",
+    "startDate": "2022-05-18T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Social",
+    "startDate": "2022-05-25T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club",
+    "startDate": "2022-06-07T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Tech Talk: Micro-Frontends (Hybrid)",
+    "startDate": "2022-06-22T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Social",
+    "startDate": "2022-06-29T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Social",
+    "startDate": "2022-07-27T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop: Getting Sassy with Sass",
+    "startDate": "2022-08-16T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Social",
+    "startDate": "2022-08-31T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Social",
+    "startDate": "2022-09-28T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop: Debugging with Chrome DevTools",
+    "startDate": "2022-10-11T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Social",
+    "startDate": "2022-10-26T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop",
+    "startDate": "2022-11-08T18:30:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Social",
+    "startDate": "2022-11-30T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Social",
+    "startDate": "2022-12-28T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club: Online - Group Programming",
+    "startDate": "2023-01-21T16:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Social: Online",
+    "startDate": "2023-01-25T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club: Online - Group Programming",
+    "startDate": "2023-02-18T16:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop: Online - Technical Interview Program",
+    "startDate": "2023-02-21T18:30:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Social: Online",
+    "startDate": "2023-02-22T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Social: In-Person",
+    "startDate": "2023-03-17T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club: Online - Group Programming",
+    "startDate": "2023-03-18T16:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Social: Online",
+    "startDate": "2023-03-29T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Tech Talk [In-Person]: Snack Pack",
+    "startDate": "2023-03-30T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop [In-Person]: Debugging with Chrome DevTools",
+    "startDate": "2023-04-11T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club: Online - Group Programming",
+    "startDate": "2023-04-15T16:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Social: Online",
+    "startDate": "2023-04-26T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "TorontoJS Presents: International Women's Day North America 2023 #WTMDareToBe",
+    "startDate": "2023-04-27T12:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club: In-Person - Group Programming",
+    "startDate": "2023-05-11T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club: Online - Group Programming",
+    "startDate": "2023-05-20T16:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Social: Online",
+    "startDate": "2023-05-31T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club: Online - Group Programming",
+    "startDate": "2023-06-17T16:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Social: In-Person -  Job Seekers’ Event with Morgan McKinley",
+    "startDate": "2023-06-24T11:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Social: Online",
+    "startDate": "2023-06-28T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Technical Interview Prep",
+    "startDate": "2023-06-29T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Technical Interview Prep",
+    "startDate": "2023-07-13T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club: Online - Group Programming",
+    "startDate": "2023-07-15T16:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Social: Online",
+    "startDate": "2023-07-26T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Technical Interview Prep",
+    "startDate": "2023-07-27T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Social: Online",
+    "startDate": "2023-08-30T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club: Online - Group Programming",
+    "startDate": "2023-09-16T16:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Tech Talk [In Person] - RSVP Link in description!",
+    "startDate": "2023-09-28T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Workshop for Women Developers [In Person] - RSVP Link in description!",
+    "startDate": "2023-10-04T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club - October 2023",
+    "startDate": "2023-10-22T16:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "React, Graphs, Realtime, Embeds - JS Tech Talk Night (RSVP on Guild!)",
+    "startDate": "2023-11-09T18:45:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "Toronto JS Social - in person(RSVP Link in description!)",
+    "startDate": "2023-11-15T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club - November 2023",
+    "startDate": "2023-11-19T14:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Tech Talk [In-Person]: Simplify Complex Apps, Nx, Apollo Cache(RSVP on Guild)",
+    "startDate": "2023-12-06T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club - December 2023",
+    "startDate": "2023-12-23T16:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "TorontoJS Code Buddy Club on Discord(online)",
+    "startDate": "2024-01-16T18:30:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "TorontoJS Code Buddy Club on Discord(online)",
+    "startDate": "2024-01-21T11:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "TorontoJS Code Buddy Club on Discord(online): JavaScript: ES6 and Beyond",
+    "startDate": "2024-01-23T18:30:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Tech Talk[Online]:What would the browser do? Simpler mental models with Remix",
+    "startDate": "2024-01-25T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "TorontoJS Code Buddy Club on Discord:Vite Crash Course Faster Alternative To CRA",
+    "startDate": "2024-01-28T11:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "TorontoJS Code Buddy Club on Discord:Secure React User Authentication with Auth0",
+    "startDate": "2024-01-30T18:30:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "TorontoJS Code Buddy Club on Discord: Full Stack with React and Appwrite",
+    "startDate": "2024-02-11T11:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "TorontoJS Code Buddy Club on Discord: Full Stack with React and Appwrite",
+    "startDate": "2024-02-20T18:30:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Code Club [Online] - February 2024",
+    "startDate": "2024-02-24T16:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "TorontoJS Code Buddy Club on Discord: Full Stack with React and Appwrite",
+    "startDate": "2024-02-25T11:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Tech Talk [In-Person] - Filesystems, and QwikJS",
+    "startDate": "2024-02-27T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Tech Talk[Online]: Hussien Khayoon React Testing",
+    "startDate": "2024-02-29T18:30:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "TorontoJS Code Buddy Club on Discord: Full Stack with React and Appwrite",
+    "startDate": "2024-03-03T11:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "TorontoJS Code Buddy Club on Discord: Full Stack with React and Appwrite",
+    "startDate": "2024-03-05T18:30:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "TorontoJS Code Buddy Club on Discord: Full Stack with React and Appwrite",
+    "startDate": "2024-03-10T11:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "TorontoJS Code Buddy Club online - Create Accessible Skeleton Loader Animation",
+    "startDate": "2024-03-19T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "Code Club [Online]: RFCs and proposals",
+    "startDate": "2024-03-23T16:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "TorontoJS Code Buddy Club online - Javascript Internationalization Object",
+    "startDate": "2024-03-24T11:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Tech Talk [In-Person]  CSS-Edit | Streaming & Coding Contests [RSVP on Guild]",
+    "startDate": "2024-03-27T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "TorontoJS Tech Talk [Online] - March 30th, 2024 (Mar 30, 2024)",
+    "startDate": "2024-03-30T15:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "TorontoJS Code Buddy Club online - Chakra UI [RESCHEDULED]",
+    "startDate": "2024-03-31T11:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "TorontoJS Code Buddy Club Discord: Build Modern User Interface with Chakra UI",
+    "startDate": "2024-04-02T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "TorontoJS Code Buddy Club Discord: Build Modern User Interface with Chakra UI",
+    "startDate": "2024-04-07T11:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "TorontoJS Code Buddy Club Discord: Build Modern User Interface with Chakra UI",
+    "startDate": "2024-04-09T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "TorontoJS Code Buddy Club Discord: Build Modern User Interface with Chakra UI",
+    "startDate": "2024-04-14T11:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "Code Buddy Club: Build a Keyword Extractor: React + OpenAI API + Chakra UI",
+    "startDate": "2024-04-16T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "Code Buddy Club: Build a Keyword Extractor: React + OpenAI API + Chakra UI",
+    "startDate": "2024-04-21T11:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "TorontoJS Code Buddy Club online - Introduction to Applying Web Components",
+    "startDate": "2024-04-23T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "TorontoJS Tech Talk [Online] - April 25th, 2024 (Apr 25, 2024)",
+    "startDate": "2024-04-25T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "Code Club: Code Eclipse",
+    "startDate": "2024-04-27T16:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "TorontoJS Code Buddy Club online - Introduction to Applying Web Components",
+    "startDate": "2024-04-28T11:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "Toronto JS Lightning Talk Event [in person]",
+    "startDate": "2024-04-30T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "TorontoJS Code Buddy Club on Discord(online): Accessible HTML forms",
+    "startDate": "2024-05-05T11:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "TorontoJS Code Buddy Club on Discord(online): Learning TypeScript",
+    "startDate": "2024-05-14T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "Code Club: May the source be with you!",
+    "startDate": "2024-05-18T16:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "TorontoJS Code Buddy Club on Discord(online): Learning TypeScript",
+    "startDate": "2024-05-19T11:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "TorontoJS Code Buddy Club on Discord(online): Learning TypeScript",
+    "startDate": "2024-05-21T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Tech Talk[ONLINE]: Branding for software developers - Felipe Peña",
+    "startDate": "2024-05-30T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "Toronto JS Tech Talk Event [in person]",
+    "startDate": "2024-06-06T17:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "TorontoJS PubScript Social at The Firkin on Yonge!",
+    "startDate": "2024-06-07T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "TorontoJS is a proud partner of Sanity Community Meetup",
+    "startDate": "2024-06-24T17:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Tech Talk [ONLINE] Things I wish I knew for my first software job",
+    "startDate": "2024-06-27T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "TorontoJS PubScript Social at The Firkin on Yonge!",
+    "startDate": "2024-07-05T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "New Volunteer Information and Orientation Online Meeting!",
+    "startDate": "2024-07-15T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "Code Club: Mid-summer",
+    "startDate": "2024-07-20T16:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "TorontoJS Tech Talks [ Online ] is back again!  Community Engagement!",
+    "startDate": "2024-07-25T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "TorontoJS PubScript Social at The Firkin on Yonge!",
+    "startDate": "2024-08-02T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "New Volunteer Information and Orientation Online Meeting!",
+    "startDate": "2024-08-06T19:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "Women in Tech Summer Picnic in the Park!",
+    "startDate": "2024-08-11T14:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "Women in Tech Online Social and New Volunteer Info Session",
+    "startDate": "2024-08-13T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "Code Club: August Edition",
+    "startDate": "2024-08-17T16:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "A11y for Devs: BlindlyCoding - How I use a Screenreader to Code as a Blind Dev",
+    "startDate": "2024-08-19T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "New Volunteer Information and Orientation Online Meeting!",
+    "startDate": "2024-08-20T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "TorontoJS [ ONLINE ] TechTalk: Arhitecture For Small Projects / Form Validation",
+    "startDate": "2024-08-29T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "TorontoJS PubScript Social at The Firkin on Yonge!",
+    "startDate": "2024-09-06T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "A11y for Devs: Using a Refreshable Braille & NVDA for Web Dev & CyberSecurity",
+    "startDate": "2024-09-16T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "JS Tech Talk [In Person] - September 2024",
+    "startDate": "2024-09-25T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "TorontoJS [ ONLINE ] TechTalk - Security in software releases",
+    "startDate": "2024-09-28T15:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "UXUI Design Online Talk: Design Systems - A Survival Guide",
+    "startDate": "2024-10-02T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "Accessibility for Devs Series: Online Talk and Workshop",
+    "startDate": "2024-10-21T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "Code Club Online: Nightmare Before React",
+    "startDate": "2024-10-26T16:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "TorontoJS [ ONLINE ] TechTalk - CTO Roles and responsibiliies: Ahmad Nassri",
+    "startDate": "2024-10-31T18:30:00-04:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "Design Talk: Driving Adoption of an Enterprise Design System",
+    "startDate": "2024-11-06T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "Accessibility for Devs Series: Online Talks and panel Q&A",
+    "startDate": "2024-11-18T18:00:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "”Doing “the right thing”: existential quandaries in software development\"",
+    "startDate": "2024-12-05T18:30:00-05:00",
+    "file": "event-2025-03-25.json"
+  },
+  {
+    "title": "Bringing Animations to Life: Interactive dotLottie with JavaScript 🚀",
+    "startDate": "2025-03-25T18:00:00-04:00",
+    "file": "event-2025-03-25.json"
+  }
+]
