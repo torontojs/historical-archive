@@ -33,3 +33,14 @@ document.addEventListener("wheel", (e) => {
   globalPerspective += e.deltaY
   el('timeline').style.setProperty("--dist-var", globalPerspective + 'px')
 })
+
+// TODO:
+// - make a car
+// - fix screen height dependencies
+// - get it working in safari etc
+// - honk the horn
+// - incorporate other timeline info
+// - make signs clickable (go to individual event viewer)
+// - make signs look better
+// - add sun and clouds? maybe time passes as you drive... sunrise, sunset
+// - add critters crossing the road 
