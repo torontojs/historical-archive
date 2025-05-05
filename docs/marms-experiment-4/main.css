@@ -1,0 +1,59 @@
+body {
+    font-family: sans-serif;
+    background: linear-gradient(to right, #f8c9d1, #a8d8f0); /* soft pastel gradient */
+    padding: 2em;
+  }
+  
+  #timeline {
+    position: relative;
+    margin-left: 2em;
+    border-left: 3px solid #ccc;
+    padding-left: 1em;
+  }
+  
+  details {
+    margin-bottom: 2em;
+    position: relative;
+  }
+  
+  details::before {
+    content: '';
+    position: absolute;
+    left: -1.55em;
+    top: 0.3em;
+    width: 1em;
+    height: 1em;
+    background-color: #fff;
+    border: 3px solid #a8d8f0;
+    border-radius: 50%;
+  }
+  
+  summary {
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 1.1em;
+    margin-bottom: 0.5em;
+  }
+  
+  .date {
+    font-family: monospace;
+    background-color: #fff3f3;
+    padding: 0.2em 0.4em;
+    border-radius: 5px;
+    margin-right: 0.5em;
+  }
+  
+  .event_details {
+    background-color: rgb(247, 253, 255);
+    border-left: 4px solid #e0b1d7;
+    padding: 1em;
+    margin-top: 1em;
+    border-radius: 8px;
+  }
+  
+  img {
+    max-width: 100%;
+    border-radius: 8px;
+    margin-top: 0.5em;
+  }
+  
