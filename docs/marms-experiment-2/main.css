@@ -1,0 +1,155 @@
+/* General Layout */
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(135deg, #FFB6A6, #FFDAB9); /* Soft Peach to a light pastel beige */
+    margin: 0;
+    padding: 0;
+    color: #333;
+    animation: fadeIn 0.5s ease-out forwards; /* Faster fade-in effect on page load */
+  }
+  
+  .container {
+    width: 80%;
+    margin: 40px auto;
+    padding: 30px;
+    background-color: #ffffff; /* White background for the content */
+    border-radius: 10px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1); /* Soft shadow for depth */
+    animation: slideUp 0.5s ease-out 0.2s forwards; /* Faster slide-up effect */
+    opacity: 0; /* Initially hidden */
+  }
+  
+  /* Event Detail Card */
+  .event-card {
+    background-color: #ffffff; /* White background */
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 12px; /* Rounded corners */
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1); /* Slightly bigger shadow for more depth */
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition for hover effects */
+    opacity: 0;
+    animation: fadeInUp 0.5s ease-out 0.3s forwards; /* Faster fade-in and slide-up */
+  }
+  
+  /* Hover effect for the cards */
+  .event-card:hover {
+    transform: translateY(-5px); /* Lift the card up when hovered */
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.2); /* Darker shadow on hover for a floating effect */
+  }
+  
+  /* Card title */
+  .event-card h2 {
+    font-size: 26px;
+    color: #333;
+    margin-bottom: 15px;
+    font-weight: 600; /* Slightly bolder font for the title */
+  }
+  
+  /* Card text */
+  .event-card p {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #555; /* Darker grey text for better readability */
+    margin-bottom: 20px;
+  }
+  
+  /* Preformatted text block */
+  .event-card pre {
+    background-color: #333;
+    color: #f1f1f1;
+    padding: 20px;
+    border-radius: 5px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    font-family: 'Courier New', monospace;
+    font-size: 16px;
+  }
+  
+  /* Center the timeline */
+  ul.timeline {
+    list-style-type: none;
+    padding: 0;
+    margin: 40px auto; /* Center the timeline */
+    width: 80%; /* Adjust the width to make it more centered */
+    max-width: 800px; /* Optional: Limit the maximum width */
+    text-align: center; /* Center the text inside each list item */
+    opacity: 0; /* Initially hidden */
+    animation: fadeInUp 0.5s ease-out 0.2s forwards; /* Faster fade-in and slide-up */
+  }
+  
+  .timeline-item {
+    margin: 10px 0;
+    opacity: 0; /* Start invisible */
+    animation: fadeInUp 0.5s ease-out 0.5s forwards; /* Faster fade-in and slide-up */
+  }
+  
+  .timeline-item a {
+    font-size: 18px;
+    text-decoration: none;
+    color: #0073e6;
+    cursor: pointer;
+  }
+  
+  .timeline-item a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Pagination Section */
+  .pagination {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #0073e6;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s, transform 0.3s;
+  }
+  
+  button:hover {
+    background-color: #005bb5;
+    transform: scale(1.05); /* Slightly grow the button */
+  }
+  
+  button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  
+  /* Keyframe Animations */
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  
+  @keyframes slideUp {
+    0% {
+      transform: translateY(20px);
+      opacity: 0;
+    }
+    100% {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+  
+  @keyframes fadeInUp {
+    0% {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
