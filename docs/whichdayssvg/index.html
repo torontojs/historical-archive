@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Which Days</title>
+  <style>
+    #splash {
+      width: 1000px;
+      height: 1000px;
+    }
+
+    rect {
+      transition: all 2s ease-in-out;
+      width: 10px;
+      height: 10px;
+    }
+
+    rect:hover {
+      width: 400px;
+      height: 100px;
+    }
+
+    text {
+      animation: fadein 2s ease-in-out;
+      pointer-events: none;
+      white-space: normal;
+      width: 400px;
+    }
+
+    @keyframes fadein {
+      from { opacity: 0}
+      to   { opacity: 1}
+    }
+  </style>
+</head>
+<body>
+  <div id="timeline">
+    <svg id="splash" width="1000" height="1000"></svg>
+  </div>
+  <script src="main.js"></script>
+</body>
+</html>
