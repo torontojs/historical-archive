@@ -25,7 +25,32 @@ function classifyEvent(event, now) {
 	return 'future';
 }
 
-function renderTimeline(events) {
+let allEvents = [];
+let filteredEvents = [];
+
+function getUniqueYears(events) {
+	const years = new Set(events.map(e => new Date(e.startDate).getFullYear()));
+	return Array.from(years).sort((a, b) => b - a);
+}
+
+function getUniqueCategories(events) {
+	const cats = new Set();
+	events.forEach(e => {
+		if (e.category) cats.add(e.category);
+	});
+	return Array.from(cats).sort();
+}
+
+function highlightMatch(text, query) {
+	if (!query) return text;
+	const regex = new RegExp(
+		`(${query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`,
+		'gi'
+	);
+	return text.replace(regex, '<span class="highlight">$1</span>');
+}
+
+function renderTimeline(events, searchQuery = '') {
 	const now = new Date();
 	now.setHours(0, 0, 0, 0);
 	let html = '';
@@ -39,7 +64,7 @@ function renderTimeline(events) {
 					'en-CA',
 					{ year: 'numeric', month: 'short', day: '2-digit' }
 				)}</div>
-        <div class="title">${event.title}</div>
+        <div class="title">${highlightMatch(event.title, searchQuery)}</div>
       </div>
     `;
 	});
@@ -337,9 +362,77 @@ function showEventModal(event) {
 	document.body.appendChild(modal);
 }
 
+function applyFilters() {
+	const searchInput = document
+		.getElementById('search-input')
+		.value.trim()
+		.toLowerCase();
+	const yearFilter = document.getElementById('year-filter').value;
+	const categoryFilter = document.getElementById('category-filter').value;
+
+	filteredEvents = allEvents.filter(e => {
+		const matchesTitle =
+			!searchInput || e.title.toLowerCase().includes(searchInput);
+		const matchesYear =
+			!yearFilter ||
+			new Date(e.startDate).getFullYear().toString() === yearFilter;
+		const matchesCategory = !categoryFilter || e.category === categoryFilter;
+		return matchesTitle && matchesYear && matchesCategory;
+	});
+
+	if (filteredEvents.length === 0) {
+		timelineEl.innerHTML =
+			'<div style="text-align:center; color:#7b8ca7; font-size:1.2rem; margin:2rem auto;">No events found.</div>';
+		updateCarPosition();
+		return;
+	}
+	renderTimeline(filteredEvents, searchInput);
+}
+
+function populateFilters(events) {
+	const yearSelect = document.getElementById('year-filter');
+	const years = getUniqueYears(events);
+	yearSelect.innerHTML =
+		'<option value="">All Years</option>' +
+		years.map(y => `<option value="${y}">${y}</option>`).join('');
+
+	const catSelect = document.getElementById('category-filter');
+	const cats = getUniqueCategories(events);
+	catSelect.innerHTML =
+		'<option value="">All Categories</option>' +
+		cats.map(c => `<option value="${c}">${c}</option>`).join('');
+}
+
+function setupSearchAndFilters(events) {
+	populateFilters(events);
+	document
+		.getElementById('search-input')
+		.addEventListener('input', applyFilters);
+	document
+		.getElementById('year-filter')
+		.addEventListener('change', applyFilters);
+	document
+		.getElementById('category-filter')
+		.addEventListener('change', applyFilters);
+	document.getElementById('clear-search').addEventListener('click', () => {
+		document.getElementById('search-input').value = '';
+		document.getElementById('year-filter').value = '';
+		document.getElementById('category-filter').value = '';
+		applyFilters();
+	});
+}
+
+// Add highlight style
+const style = document.createElement('style');
+style.innerHTML = `.highlight { background: #ffb347; color: #2d3a4b; border-radius: 3px; padding: 0 2px; }`;
+document.head.appendChild(style);
+
 // On load
 fetchEvents().then(events => {
 	events.forEach(e => (e.time = new Date(e.startDate).getTime()));
 	events.sort((a, b) => b.time - a.time);
+	allEvents = events;
+	filteredEvents = events;
 	renderTimeline(events);
+	setupSearchAndFilters(events);
 });

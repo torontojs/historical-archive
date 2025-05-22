@@ -122,6 +122,66 @@
 	</head>
 	<body>
 		<header>Event Timeline</header>
+		<div
+			class="controls"
+			style="
+				display: flex;
+				gap: 1rem;
+				justify-content: center;
+				align-items: center;
+				margin-bottom: 2rem;
+			"
+		>
+			<input
+				id="search-input"
+				type="text"
+				placeholder="Search events by title..."
+				style="
+					padding: 0.7rem 1.2rem;
+					border-radius: 8px;
+					border: 1px solid #b0b8c1;
+					font-size: 1rem;
+					min-width: 220px;
+					outline: none;
+				"
+			/>
+			<select
+				id="year-filter"
+				style="
+					padding: 0.7rem 1.2rem;
+					border-radius: 8px;
+					border: 1px solid #b0b8c1;
+					font-size: 1rem;
+				"
+			>
+				<option value="">All Years</option>
+			</select>
+			<select
+				id="category-filter"
+				style="
+					padding: 0.7rem 1.2rem;
+					border-radius: 8px;
+					border: 1px solid #b0b8c1;
+					font-size: 1rem;
+				"
+			>
+				<option value="">All Categories</option>
+			</select>
+			<button
+				id="clear-search"
+				style="
+					padding: 0.7rem 1.2rem;
+					border-radius: 8px;
+					border: none;
+					background: #e2e8f0;
+					color: #4a5568;
+					font-size: 1rem;
+					cursor: pointer;
+				"
+			>
+				Clear
+			</button>
+		</div>
 		<div class="timeline-container">
 			<div class="timeline" id="timeline"></div>
 			<div class="road"></div>
