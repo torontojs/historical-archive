@@ -1,7 +1,6 @@
 const el = document.getElementById.bind(document)
 const can = el('splash')
 const ctx = can.getContext('2d')
-const events = []
 const dim = 1000
 const dim7 = dim / 7
 
