@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Event Timeline</title>
+		<link
+			href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700;400&display=swap"
+			rel="stylesheet"
+		/>
+		<style>
+			body {
+				margin: 0;
+				font-family: 'Montserrat', sans-serif;
+				background: linear-gradient(to bottom, #e0eafc, #cfdef3 80%, #f9fafc);
+				min-height: 100vh;
+				overflow-x: hidden;
+			}
+			header {
+				text-align: center;
+				padding: 2rem 1rem 1rem 1rem;
+				font-size: 2.5rem;
+				font-weight: 700;
+				color: #2d3a4b;
+				letter-spacing: 2px;
+			}
+			.timeline-container {
+				position: relative;
+				margin: 0 auto;
+				max-width: 900px;
+				padding: 2rem 0 4rem 0;
+				min-height: 60vh;
+			}
+			.timeline {
+				position: relative;
+				width: 100%;
+				min-height: 400px;
+				display: flex;
+				flex-direction: row;
+				align-items: flex-end;
+				overflow-x: auto;
+				padding-bottom: 60px;
+				scrollbar-width: thin;
+				scrollbar-color: #b0b8c1 #e0eafc;
+			}
+			.event {
+				position: relative;
+				min-width: 180px;
+				margin: 0 30px;
+				background: #fff;
+				border-radius: 16px;
+				box-shadow: 0 4px 16px rgba(44, 62, 80, 0.08);
+				padding: 1.2rem 1rem 1rem 1rem;
+				text-align: center;
+				transition: transform 0.2s, box-shadow 0.2s;
+				cursor: pointer;
+				z-index: 2;
+			}
+			.event.past {
+				opacity: 0.5;
+				background: #e0eafc;
+			}
+			.event.present {
+				border: 2px solid #ffb347;
+				box-shadow: 0 6px 24px rgba(255, 179, 71, 0.15);
+				background: #fffbe6;
+				transform: scale(1.05);
+			}
+			.event.future {
+				background: #e6fff7;
+				border: 2px solid #4fd1c5;
+			}
+			.event .date {
+				font-size: 1.1rem;
+				color: #7b8ca7;
+				margin-bottom: 0.5rem;
+			}
+			.event .title {
+				font-size: 1.2rem;
+				font-weight: 700;
+				color: #2d3a4b;
+			}
+			.road {
+				position: absolute;
+				left: 0;
+				right: 0;
+				bottom: 30px;
+				height: 16px;
+				background: repeating-linear-gradient(
+					90deg,
+					#b0b8c1 0 40px,
+					#fff 40px 60px
+				);
+				border-radius: 8px;
+				z-index: 1;
+			}
+			.car {
+				position: absolute;
+				left: 50%;
+				bottom: 50px;
+				transform: translateX(-50%);
+				width: 60px;
+				height: 36px;
+				z-index: 3;
+				transition: left 0.5s;
+			}
+			.car svg {
+				width: 100%;
+				height: 100%;
+			}
+			@media (max-width: 600px) {
+				.timeline-container {
+					max-width: 100vw;
+					padding: 1rem 0;
+				}
+				.event {
+					min-width: 140px;
+					margin: 0 10px;
+				}
+			}
+		</style>
+	</head>
+	<body>
+		<header>Event Timeline</header>
+		<div
+			class="controls"
+			style="
+				display: flex;
+				gap: 1rem;
+				justify-content: center;
+				align-items: center;
+				margin-bottom: 2rem;
+			"
+		>
+			<input
+				id="search-input"
+				type="text"
+				placeholder="Search events by title..."
+				style="
+					padding: 0.7rem 1.2rem;
+					border-radius: 8px;
+					border: 1px solid #b0b8c1;
+					font-size: 1rem;
+					min-width: 220px;
+					outline: none;
+				"
+			/>
+			<select
+				id="year-filter"
+				style="
+					padding: 0.7rem 1.2rem;
+					border-radius: 8px;
+					border: 1px solid #b0b8c1;
+					font-size: 1rem;
+				"
+			>
+				<option value="">All Years</option>
+			</select>
+			<select
+				id="category-filter"
+				style="
+					padding: 0.7rem 1.2rem;
+					border-radius: 8px;
+					border: 1px solid #b0b8c1;
+					font-size: 1rem;
+				"
+			>
+				<option value="">All Categories</option>
+			</select>
+			<button
+				id="clear-search"
+				style="
+					padding: 0.7rem 1.2rem;
+					border-radius: 8px;
+					border: none;
+					background: #e2e8f0;
+					color: #4a5568;
+					font-size: 1rem;
+					cursor: pointer;
+				"
+			>
+				Clear
+			</button>
+		</div>
+		<div class="timeline-container">
+			<div class="timeline" id="timeline"></div>
+			<div class="road"></div>
+			<div class="car" id="car">
+				<!-- Simple SVG car -->
+				<svg viewBox="0 0 60 36">
+					<rect x="8" y="16" width="44" height="12" rx="4" fill="#4fd1c5" />
+					<rect x="16" y="8" width="28" height="12" rx="3" fill="#ffb347" />
+					<circle cx="18" cy="32" r="4" fill="#2d3a4b" />
+					<circle cx="42" cy="32" r="4" fill="#2d3a4b" />
+				</svg>
+			</div>
+		</div>
+		<script src="main.js"></script>
+	</body>
+</html>
