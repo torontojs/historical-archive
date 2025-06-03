@@ -7,7 +7,7 @@
   "endDate": "2024-06-27T18:00:00-04:00",
   "status": "active",
   "locationType": "virtual",
-  "image": "https://secure.meetupstatic.com/photos/event/a/0/6/e/600_521861070.webp?w=750",
+  "image": "./images/600_521861070.webp",
   "tags": [
     "Events in",
     "JavaScript",

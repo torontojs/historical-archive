@@ -7,7 +7,7 @@
   "endDate": "2024-07-15T18:00:00-04:00",
   "status": "active",
   "locationType": "virtual",
-  "image": "https://secure.meetupstatic.com/photos/event/c/5/1/c/600_522350460.webp?w=750",
+  "image": "./images/600_522350460.webp",
   "tags": [
     "Events in",
     "Volunteering",

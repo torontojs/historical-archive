@@ -8,7 +8,7 @@
   "endDate": "2024-11-06T18:00:00-05:00",
   "status": "active",
   "locationType": "in-person",
-  "image": "https://secure.meetupstatic.com/photos/event/5/e/1/d/600_524544093.webp?w=750",
+  "image": "./images/600_524544093.webp",
   "tags": [
     "Events in Toronto, ON",
     "Web Accessibility",

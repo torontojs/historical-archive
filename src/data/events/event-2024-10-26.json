@@ -7,7 +7,7 @@
   "endDate": "2024-10-26T16:00:00-04:00",
   "status": "active",
   "locationType": "virtual",
-  "image": "https://secure.meetupstatic.com/photos/event/9/5/9/a/600_523958298.webp?w=750",
+  "image": "./images/600_523958298.webp",
   "tags": [
     "Events in"
   ],

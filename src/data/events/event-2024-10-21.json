@@ -8,7 +8,7 @@
   "endDate": "2024-10-21T18:00:00-04:00",
   "status": "canceled",
   "locationType": "virtual",
-  "image": "https://secure.meetupstatic.com/photos/event/3/6/2/7/600_522193863.webp?w=750",
+  "image": "./images/600_522193863.webp",
   "tags": [
     "Events in",
     "Web Accessibility",

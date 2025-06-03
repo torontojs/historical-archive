@@ -7,7 +7,7 @@
   "endDate": "2023-07-27T18:30:00-04:00",
   "status": "active",
   "locationType": "virtual",
-  "image": "https://secure.meetupstatic.com/photos/event/2/d/b/600_513480731.webp?w=750",
+  "image": "./images/600_513480731.webp",
   "tags": [
     "Events in",
     "JavaScript",

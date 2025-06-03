@@ -7,7 +7,7 @@
   "endDate": "2024-09-28T15:00:00-04:00",
   "status": "active",
   "locationType": "virtual",
-  "image": "https://secure.meetupstatic.com/photos/event/8/d/7/3/600_523536211.webp?w=750",
+  "image": "./images/600_523536211.webp",
   "tags": [
     "Events in",
     "Software Security",

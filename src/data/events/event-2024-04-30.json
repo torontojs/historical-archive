@@ -8,7 +8,7 @@
   "endDate": "2024-04-30T18:00:00-04:00",
   "status": "active",
   "locationType": "in-person",
-  "image": "https://secure.meetupstatic.com/photos/event/d/7/5/e/600_520195134.webp?w=750",
+  "image": "./images/600_520195134.webp",
   "tags": [
     "Events in Toronto, ON",
     "JavaScript",

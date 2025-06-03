@@ -8,7 +8,7 @@
   "endDate": "2024-07-05T18:30:00-04:00",
   "status": "active",
   "locationType": "in-person",
-  "image": "https://secure.meetupstatic.com/photos/event/a/7/7/6/600_521322870.webp?w=750",
+  "image": "./images/600_521322870.webp",
   "tags": [
     "Events in Toronto, ON",
     "User Experience",

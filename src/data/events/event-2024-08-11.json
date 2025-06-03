@@ -7,7 +7,7 @@
   "endDate": "2024-08-11T14:30:00-04:00",
   "status": "canceled",
   "locationType": "in-person",
-  "image": "https://secure.meetupstatic.com/photos/event/c/6/c/b/600_522350891.webp?w=750",
+  "image": "./images/600_522350891.webp",
   "tags": [
     "Events in Toronto, ON",
     "UX Design",

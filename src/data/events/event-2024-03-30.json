@@ -8,7 +8,7 @@
   "endDate": "2024-03-30T15:00:00-04:00",
   "status": "active",
   "locationType": "virtual",
-  "image": "https://secure.meetupstatic.com/photos/event/7/9/4/e/600_519571054.webp?w=750",
+  "image": "./images/600_519571054.webp",
   "tags": [
     "Events in",
     "MongoDB",

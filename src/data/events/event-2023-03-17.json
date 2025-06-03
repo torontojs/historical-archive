@@ -8,7 +8,7 @@
   "endDate": "2023-03-17T18:30:00-04:00",
   "status": "active",
   "locationType": "in-person",
-  "image": "https://secure.meetupstatic.com/photos/event/d/b/7/1/600_511136177.webp?w=750",
+  "image": "./images/600_511136177.webp",
   "tags": [
     "Events in Toronto, ON",
     "JavaScript",

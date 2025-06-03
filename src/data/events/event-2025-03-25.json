@@ -8,7 +8,7 @@
   "endDate": "2025-03-25T18:00:00-04:00",
   "status": "active",
   "locationType": "in-person",
-  "image": "https://secure.meetupstatic.com/photos/event/8/a/f/1/600_526655569.webp?w=750",
+  "image": "./images/600_526655569.webp",
   "tags": [
     "Events in Toronto, ON",
     "Motion Graphics",

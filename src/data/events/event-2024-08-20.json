@@ -8,7 +8,7 @@
   "endDate": "2024-08-20T18:30:00-04:00",
   "status": "canceled",
   "locationType": "virtual",
-  "image": "https://secure.meetupstatic.com/photos/event/c/4/9/0/600_522350320.webp?w=750",
+  "image": "./images/600_522350320.webp",
   "tags": [
     "Events in",
     "Volunteering",

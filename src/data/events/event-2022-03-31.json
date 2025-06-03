@@ -7,7 +7,7 @@
   "endDate": "2022-03-31T13:00:00-04:00",
   "status": "active",
   "locationType": "virtual",
-  "image": "https://secure.meetupstatic.com/photos/event/f/c/d/600_502144045.webp?w=750",
+  "image": "./images/600_502144045.webp",
   "tags": [
     "Events in",
     "JavaScript",

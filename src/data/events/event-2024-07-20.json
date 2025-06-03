@@ -7,7 +7,7 @@
   "endDate": "2024-07-20T16:00:00-04:00",
   "status": "active",
   "locationType": "in-person",
-  "image": "https://secure.meetupstatic.com/photos/event/d/6/1/1/600_522294801.webp?w=750",
+  "image": "./images/600_522294801.webp",
   "tags": [
     "Events in",
     "JavaScript",
