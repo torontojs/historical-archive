@@ -13,7 +13,7 @@ ForEach-Object {
 	# Images in event metadata
 	if ($FileContents.image) {
 		$ImageUrl = $FileContents.image
-		$ImageFile = Split-Path $ImageUrl -Leaf
+		$ImageFile = Split-Path "$($ImageUrl -replace '\?.*?$', '')" -Leaf
 		$ImagePath = "$ImagesFolder\$ImageFile"
 
 		try {
