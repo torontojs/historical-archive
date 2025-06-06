@@ -10,6 +10,24 @@ ForEach-Object {
 	$FilePath = $_
 	$FileContents = Get-Content $FilePath | ConvertFrom-Json
 
+	# Images in event metadata
+	if ($FileContents.image) {
+		$ImageUrl = $FileContents.image
+		$ImageFile = Split-Path $ImageUrl -Leaf
+		$ImagePath = "$ImagesFolder\$ImageFile"
+
+		try {
+			if (-not (Test-Path $ImagePath)) {
+				Invoke-WebRequest -Uri $ImageUrl -UseBasicParsing -OutFile $ImagePath
+			}
+
+			$FileContents.image = "./images/$ImageFile"
+		} catch {
+			Write-Error "Error downloading: $ImageUrl"
+		}
+	}
+
+	# Images in details
 	$ImageMatches = [regex]::Matches($FileContents.details, '\(http\S+?\.(?:jpg|jpeg|png|gif|webp)\)')
 
 	$ImageMatches | ForEach-Object {
