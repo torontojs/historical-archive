@@ -1,15 +1,15 @@
 {
-  "title": "BeerScript",
-  "hosts": [
-    "Matthew M."
-  ],
-  "startDate": "2016-02-16T18:00:00-05:00",
-  "endDate": "2016-02-16T18:00:00-05:00",
-  "status": "active",
-  "locationType": "in-person",
-  "image": null,
-  "tags": [
-    "Events in Toronto, ON"
-  ],
-  "details": "Details\n-------\n\nAlcohol + Code = LOVE!\n\nWe'll be hitting the usual spot of Rivoli this coming tuesday! Come talk Javascript, Development, and Alcohol!"
+	"title": "BeerScript",
+	"hosts": [
+		"Matthew M."
+	],
+	"startDate": "2016-02-16T18:00:00-05:00",
+	"endDate": "2016-02-16T18:00:00-05:00",
+	"status": "active",
+	"locationType": "in-person",
+	"image": null,
+	"tags": [
+		"Events in Toronto, ON"
+	],
+	"details": "Details\n-------\n\nAlcohol + Code = LOVE!\n\nWe'll be hitting the usual spot of Rivoli this coming tuesday! Come talk Javascript, Development, and Alcohol!"
 }

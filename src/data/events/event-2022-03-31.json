@@ -1,20 +1,20 @@
 {
-  "title": "TorontoJS Presents: IWD2022 with Women Techmakers Ambassadors - Day 3",
-  "hosts": [
-    "Sherry Y."
-  ],
-  "startDate": "2022-03-31T13:00:00-04:00",
-  "endDate": "2022-03-31T13:00:00-04:00",
-  "status": "active",
-  "locationType": "virtual",
-  "image": "https://secure.meetupstatic.com/photos/event/f/c/d/600_502144045.webp?w=750",
-  "tags": [
-    "Events in",
-    "JavaScript",
-    "JavaScript Applications",
-    "JavaScript Frameworks",
-    "JavaScript Libraries",
-    "Web Technology"
-  ],
-  "details": "Details\n-------\n\nWomen Tachmakers (WTM) Ambassadors are collaborating with TorontoJS to bring to you a 3-day International Women's Day (IWD) event on Youtube Live. This year's running theme from WTM is #ProgressNotPerfection to enhance IWD 2022 campaign theme #BreakTheBias. WTM Ambassador with TorontoJS, Sherry Yang and WTM Ambassador Argentina, Giuliana Polsoni will be live for 90 minutes discussing different topics each day. Stay tuned for what's coming to your screens on March 29th to March 31st!\n\n**DAY 1**  \nMarch 29th, 2022  \n1pm EDT / 5pm UTC  \nWomen in tech around the world  \n➕ Random prize draws 🎁\n\n**DAY 2**  \nMarch 30th, 2022  \n1pm EDT / 5pm UTC  \nThe invisible ceiling is not only for women  \n➕ Random prize draws 🎁\n\n**DAY 3**  \nMarch 31st, 2022  \n1pm EDT / 5pm UTC  \nWeb accessibility for all  \n➕ Random prize draws 🎁\n\n**CONNECT WITH US**  \nTorontoJS - [https://torontojs.com/](https://torontojs.com/)  \nWomen Techmakers - [https://www.womentechmakers.com/](https://www.womentechmakers.com/)  \nSherry Yang - [https://twitter.com/5hel2l2y](https://twitter.com/5hel2l2y)  \nGiuliana Polsoni - [https://twitter.com/gpolsoni](https://twitter.com/gpolsoni)\n\n**SOCIAL MEDIA TAGS**  \n#ProgressNotPerfection  \n#IWD2022  \n#BreakTheBias\n\n**CODE OF CONDUCT**  \n[https://torontojs.com/p/code\\_of\\_conduct](https://torontojs.com/p/code_of_conduct)"
+	"title": "TorontoJS Presents: IWD2022 with Women Techmakers Ambassadors - Day 3",
+	"hosts": [
+		"Sherry Y."
+	],
+	"startDate": "2022-03-31T13:00:00-04:00",
+	"endDate": "2022-03-31T13:00:00-04:00",
+	"status": "active",
+	"locationType": "virtual",
+	"image": "./images/600_502144045.webp",
+	"tags": [
+		"Events in",
+		"JavaScript",
+		"JavaScript Applications",
+		"JavaScript Frameworks",
+		"JavaScript Libraries",
+		"Web Technology"
+	],
+	"details": "Details\n-------\n\nWomen Tachmakers (WTM) Ambassadors are collaborating with TorontoJS to bring to you a 3-day International Women's Day (IWD) event on Youtube Live. This year's running theme from WTM is #ProgressNotPerfection to enhance IWD 2022 campaign theme #BreakTheBias. WTM Ambassador with TorontoJS, Sherry Yang and WTM Ambassador Argentina, Giuliana Polsoni will be live for 90 minutes discussing different topics each day. Stay tuned for what's coming to your screens on March 29th to March 31st!\n\n**DAY 1**  \nMarch 29th, 2022  \n1pm EDT / 5pm UTC  \nWomen in tech around the world  \n➕ Random prize draws 🎁\n\n**DAY 2**  \nMarch 30th, 2022  \n1pm EDT / 5pm UTC  \nThe invisible ceiling is not only for women  \n➕ Random prize draws 🎁\n\n**DAY 3**  \nMarch 31st, 2022  \n1pm EDT / 5pm UTC  \nWeb accessibility for all  \n➕ Random prize draws 🎁\n\n**CONNECT WITH US**  \nTorontoJS - [https://torontojs.com/](https://torontojs.com/)  \nWomen Techmakers - [https://www.womentechmakers.com/](https://www.womentechmakers.com/)  \nSherry Yang - [https://twitter.com/5hel2l2y](https://twitter.com/5hel2l2y)  \nGiuliana Polsoni - [https://twitter.com/gpolsoni](https://twitter.com/gpolsoni)\n\n**SOCIAL MEDIA TAGS**  \n#ProgressNotPerfection  \n#IWD2022  \n#BreakTheBias\n\n**CODE OF CONDUCT**  \n[https://torontojs.com/p/code\\_of\\_conduct](https://torontojs.com/p/code_of_conduct)"
 }

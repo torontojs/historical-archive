@@ -1,15 +1,15 @@
 {
-  "title": "JavaScript Tech Talk Night",
-  "hosts": [
-    "Taz S."
-  ],
-  "startDate": "2012-10-11T19:00:00-04:00",
-  "endDate": "2012-10-11T19:00:00-04:00",
-  "status": "active",
-  "locationType": "in-person",
-  "image": null,
-  "tags": [
-    "Events in Toronto, ON"
-  ],
-  "details": "Details\n-------\n\nHi All!\n\nWe're excited to announce Toronto JavaScript's first Tech Talk Night.\n\nWe have the pleasure of having your organizer, Tasveer Singh ([https://twitter.com/tazsingh](https://twitter.com/tazsingh)), and Dylan Schiemann ([https://twitter.com/dylans](https://twitter.com/dylans)) speaking at this event.\n\nTasveer will be speaking on Techniques for Testing Client Side JavaScript on the Server. He will be using the Mocha ([http://visionmedia.github.com/mocha/](http://visionmedia.github.com/mocha/)) and expect JavaScript testing libraries to demonstrate the strengths and weaknesses of a few different approaches.\n\nDylan is the CEO of SitePen, and co-founder of the Dojo Toolkit, President of the Dojo Foundation, Comet Daily, and the London Ajax User Group. He will be in town giving a Workshop on Dojo Skills ([http://www.sitepen.com/workshops/public.html?workshop=dojo-workshop-toronto-10-2012](http://www.sitepen.com/workshops/public.html?workshop=dojo-workshop-toronto-10-2012)) and has kindly agreed to give us an introductory talk on the Dojo Toolkit ([http://dojotoolkit.org/](http://dojotoolkit.org/)).\n\nDylan and Tasveer will also be heading to the Foggy Dew Irish Pub for some beers after the event. Please RSVP here ([https://www.meetup.com/torontojs/events/86283512/](https://www.meetup.com/torontojs/events/86283512/)) if you wish to attend.\n\nWe are planning on having regular Tech Talk events moving forward and are always looking for speakers. Please get in touch with Tasveer if you are interested in speaking at an event with a short summary of your talk.\n\nLooking forward to seeing you there!"
+	"title": "JavaScript Tech Talk Night",
+	"hosts": [
+		"Taz S."
+	],
+	"startDate": "2012-10-11T19:00:00-04:00",
+	"endDate": "2012-10-11T19:00:00-04:00",
+	"status": "active",
+	"locationType": "in-person",
+	"image": null,
+	"tags": [
+		"Events in Toronto, ON"
+	],
+	"details": "Details\n-------\n\nHi All!\n\nWe're excited to announce Toronto JavaScript's first Tech Talk Night.\n\nWe have the pleasure of having your organizer, Tasveer Singh ([https://twitter.com/tazsingh](https://twitter.com/tazsingh)), and Dylan Schiemann ([https://twitter.com/dylans](https://twitter.com/dylans)) speaking at this event.\n\nTasveer will be speaking on Techniques for Testing Client Side JavaScript on the Server. He will be using the Mocha ([http://visionmedia.github.com/mocha/](http://visionmedia.github.com/mocha/)) and expect JavaScript testing libraries to demonstrate the strengths and weaknesses of a few different approaches.\n\nDylan is the CEO of SitePen, and co-founder of the Dojo Toolkit, President of the Dojo Foundation, Comet Daily, and the London Ajax User Group. He will be in town giving a Workshop on Dojo Skills ([http://www.sitepen.com/workshops/public.html?workshop=dojo-workshop-toronto-10-2012](http://www.sitepen.com/workshops/public.html?workshop=dojo-workshop-toronto-10-2012)) and has kindly agreed to give us an introductory talk on the Dojo Toolkit ([http://dojotoolkit.org/](http://dojotoolkit.org/)).\n\nDylan and Tasveer will also be heading to the Foggy Dew Irish Pub for some beers after the event. Please RSVP here ([https://www.meetup.com/torontojs/events/86283512/](https://www.meetup.com/torontojs/events/86283512/)) if you wish to attend.\n\nWe are planning on having regular Tech Talk events moving forward and are always looking for speakers. Please get in touch with Tasveer if you are interested in speaking at an event with a short summary of your talk.\n\nLooking forward to seeing you there!"
 }

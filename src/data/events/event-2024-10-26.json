@@ -1,15 +1,15 @@
 {
-  "title": "Code Club Online: Nightmare Before React",
-  "hosts": [
-    "Marco C."
-  ],
-  "startDate": "2024-10-26T16:00:00-04:00",
-  "endDate": "2024-10-26T16:00:00-04:00",
-  "status": "active",
-  "locationType": "virtual",
-  "image": "https://secure.meetupstatic.com/photos/event/9/5/9/a/600_523958298.webp?w=750",
-  "tags": [
-    "Events in"
-  ],
-  "details": "Details\n-------\n\n**About Code Club**  \nTorontoJS Code Club is a friendly coding environment where we can bounce ideas & ask questions freely while working on software challenges together.  \nPlease bring your projects/ideas to the event, or just show up and contribute to the discussion!\n\n*   We can tackle an open-source issue together. Some issues don't require much context to solve and are suitable for beginners too. This group programming event can be a great opportunity to start your open-source journey.\n*   We can hack on personal projects together. Is there a bug in your software that you want to fix with the group? Is there a feature you want to add? How about some refactoring to clean up your codebase? It's fun to see how everyone has different approaches to solve these technical challenges.\n*   Are you job searching? We can take a look at Leetcode-style interview questions together.\n*   Countless new libraries appear in the JS ecosystem every year. We can try out a new piece of tech together and share our first impressions.\n\nThis event is not about competition or achievements. Come for the pure joy of building. Everyone is welcome!\n\n**Platform**  \nThe event will be hosted on the [TorontoJS discord server](https://), on the #js-code-club channel.\n\n**Accessibility Accommodations**  \nThis is an online event on Discord, please feel free to contact us at \\[[events@torontojs.com](http://events@torontojs.com)\\]([mailto:events@torontojs.com](http://mailto:events@torontojs.com)) if you need any accommodations for the event.  \nOur [Code of Conduct](https://torontojs.com/code_of_conduct) is enforced at all TorontoJS events.\n\n**Image description**  \nA pumpkin patch from The Nightmare Before Christmas with a full moon on the center of the image, in front of the full moon there is the CN Tower showing. Overlaid on the image it reads: Toronto JS - Code Club - October 2024"
+	"title": "Code Club Online: Nightmare Before React",
+	"hosts": [
+		"Marco C."
+	],
+	"startDate": "2024-10-26T16:00:00-04:00",
+	"endDate": "2024-10-26T16:00:00-04:00",
+	"status": "active",
+	"locationType": "virtual",
+	"image": "./images/600_523958298.webp",
+	"tags": [
+		"Events in"
+	],
+	"details": "Details\n-------\n\n**About Code Club**  \nTorontoJS Code Club is a friendly coding environment where we can bounce ideas & ask questions freely while working on software challenges together.  \nPlease bring your projects/ideas to the event, or just show up and contribute to the discussion!\n\n*   We can tackle an open-source issue together. Some issues don't require much context to solve and are suitable for beginners too. This group programming event can be a great opportunity to start your open-source journey.\n*   We can hack on personal projects together. Is there a bug in your software that you want to fix with the group? Is there a feature you want to add? How about some refactoring to clean up your codebase? It's fun to see how everyone has different approaches to solve these technical challenges.\n*   Are you job searching? We can take a look at Leetcode-style interview questions together.\n*   Countless new libraries appear in the JS ecosystem every year. We can try out a new piece of tech together and share our first impressions.\n\nThis event is not about competition or achievements. Come for the pure joy of building. Everyone is welcome!\n\n**Platform**  \nThe event will be hosted on the [TorontoJS discord server](https://), on the #js-code-club channel.\n\n**Accessibility Accommodations**  \nThis is an online event on Discord, please feel free to contact us at \\[[events@torontojs.com](http://events@torontojs.com)\\]([mailto:events@torontojs.com](http://mailto:events@torontojs.com)) if you need any accommodations for the event.  \nOur [Code of Conduct](https://torontojs.com/code_of_conduct) is enforced at all TorontoJS events.\n\n**Image description**  \nA pumpkin patch from The Nightmare Before Christmas with a full moon on the center of the image, in front of the full moon there is the CN Tower showing. Overlaid on the image it reads: Toronto JS - Code Club - October 2024"
 }

@@ -1,15 +1,15 @@
 {
-  "title": "JS Social",
-  "hosts": [
-    "Matthew M."
-  ],
-  "startDate": "2020-01-29T18:00:00-05:00",
-  "endDate": "2020-01-29T18:00:00-05:00",
-  "status": "active",
-  "locationType": "in-person",
-  "image": null,
-  "tags": [
-    "Events in Toronto, ON"
-  ],
-  "details": "Details\n-------\n\n[https://secure.meetupstatic.com/photos/event/8/8/3/c/highres\\_486814876.jpeg](https://secure.meetupstatic.com/photos/event/8/8/3/c/highres_486814876.jpeg)\n\nWe're BACK! Your Favourite Event (maybe, I dunno, I'm partial to it)\n\nFriends + Code = LOVE!\n\nTorontoJS Social is our lightest event where like minds get together, have a snack or drink, and talk javascript/coding. Feel free to bring your laptop, but there is no specific programming/talk portion to the event.\n\nWe'll be at the A-Game cafe for the last Wednesday of the month! Come talk JavaScript, Development, and Community!"
+	"title": "JS Social",
+	"hosts": [
+		"Matthew M."
+	],
+	"startDate": "2020-01-29T18:00:00-05:00",
+	"endDate": "2020-01-29T18:00:00-05:00",
+	"status": "active",
+	"locationType": "in-person",
+	"image": null,
+	"tags": [
+		"Events in Toronto, ON"
+	],
+	"details": "Details\n-------\n\n![https://secure.meetupstatic.com/photos/event/8/8/3/c/highres\\_486814876.jpeg](./images/highres_486814876.jpeg)\n\nWe're BACK! Your Favourite Event (maybe, I dunno, I'm partial to it)\n\nFriends + Code = LOVE!\n\nTorontoJS Social is our lightest event where like minds get together, have a snack or drink, and talk javascript/coding. Feel free to bring your laptop, but there is no specific programming/talk portion to the event.\n\nWe'll be at the A-Game cafe for the last Wednesday of the month! Come talk JavaScript, Development, and Community!"
 }

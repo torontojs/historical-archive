@@ -1,20 +1,20 @@
 {
-  "title": "TorontoJS Code Buddy Club on Discord(online)",
-  "hosts": [
-    "sami x.",
-    "2 others"
-  ],
-  "startDate": "2024-01-16T18:30:00-05:00",
-  "endDate": "2024-01-16T18:30:00-05:00",
-  "status": "active",
-  "locationType": "virtual",
-  "image": "https://secure.meetupstatic.com/photos/event/4/8/2/a/600_518058474.webp?w=750",
-  "tags": [
-    "Events in",
-    "JavaScript",
-    "Web Technology",
-    "JavaScript Applications",
-    "JavaScript Libraries"
-  ],
-  "details": "Details\n-------\n\n\\## What is a Code Buddy Club\n\n*   It's similar to a book club but uses free courses and tutorials instead of books\n*   Participants are free to code independently, or to pair program.\n*   Meet on discord to share progress, provide support, and help with debugging\n*   Each course should take roughly 1 - 8 weeks to complete\n*   It's a really relaxed, supportive, and social atmosphere.\n\n\\## 2024 Courses List and Schedule\n\n\\### **First meeting**\n\n*   Date: Tuesday, January 16th.\n*   Time: 6:30pm-7:30pm\n*   Location: TorontoJS Discord on the Code Buddy Channel [https://discord.com/channels/1078763949132107926/1183920018799472784](https://discord.com/channels/1078763949132107926/1183920018799472784)\n*   \\*\\* Contact us on Slack if you need a Discord Invite! [https://join.slack.com/t/torontojs/shared\\_invite/zt-zgi31snl-omO3tXSZ0Q7zqN9WBQSf8Q](https://join.slack.com/t/torontojs/shared_invite/zt-zgi31snl-omO3tXSZ0Q7zqN9WBQSf8Q)\n\n\\### Regular meetings\n\n*   Sundays 11am-12pm\n*   Tuesdays 6:30pm-7:30pm\n\n**Courses for the First Week** (January 15th to January 21st)\n\n*   **GitHub Tips & Tricks**\n*   [https://egghead.io/courses/github-tips-tricks-6fc4](https://egghead.io/courses/github-tips-tricks-6fc4)\n*   **Build faster with GitHub Copilot and Codespaces**\n*   [https://youtu.be/Lseaqxg8NaY?si=qblR8Am2hJlhcn0Q](https://youtu.be/Lseaqxg8NaY?si=qblR8Am2hJlhcn0Q)\n\n\\## Full Schedule and Course List: January - June 2024:\n\n\\[code-buddy-club/Code Buddy Club [Schedule.md](http://Schedule.md) at main · torontojs/code-buddy-club ([github.com](http://github.com))\\]([https://github.com/torontojs/code-buddy-club/blob/main/Code%20Buddy%20Club%20Schedule.md](https://github.com/torontojs/code-buddy-club/blob/main/Code%20Buddy%20Club%20Schedule.md))  \n**Alt text for cover image** Rectangular graphic. Medium red background. Text says: TorontoJS, underneath inside curly brackets is three lines of text Code Buddy, then a hug happy face emoji then the word Club. There’s a stylized grey graphic of the CN tower on the left."
+	"title": "TorontoJS Code Buddy Club on Discord(online)",
+	"hosts": [
+		"sami x.",
+		"2 others"
+	],
+	"startDate": "2024-01-16T18:30:00-05:00",
+	"endDate": "2024-01-16T18:30:00-05:00",
+	"status": "active",
+	"locationType": "virtual",
+	"image": "./images/600_518058474.webp",
+	"tags": [
+		"Events in",
+		"JavaScript",
+		"Web Technology",
+		"JavaScript Applications",
+		"JavaScript Libraries"
+	],
+	"details": "Details\n-------\n\n\\## What is a Code Buddy Club\n\n*   It's similar to a book club but uses free courses and tutorials instead of books\n*   Participants are free to code independently, or to pair program.\n*   Meet on discord to share progress, provide support, and help with debugging\n*   Each course should take roughly 1 - 8 weeks to complete\n*   It's a really relaxed, supportive, and social atmosphere.\n\n\\## 2024 Courses List and Schedule\n\n\\### **First meeting**\n\n*   Date: Tuesday, January 16th.\n*   Time: 6:30pm-7:30pm\n*   Location: TorontoJS Discord on the Code Buddy Channel [https://discord.com/channels/1078763949132107926/1183920018799472784](https://discord.com/channels/1078763949132107926/1183920018799472784)\n*   \\*\\* Contact us on Slack if you need a Discord Invite! [https://join.slack.com/t/torontojs/shared\\_invite/zt-zgi31snl-omO3tXSZ0Q7zqN9WBQSf8Q](https://join.slack.com/t/torontojs/shared_invite/zt-zgi31snl-omO3tXSZ0Q7zqN9WBQSf8Q)\n\n\\### Regular meetings\n\n*   Sundays 11am-12pm\n*   Tuesdays 6:30pm-7:30pm\n\n**Courses for the First Week** (January 15th to January 21st)\n\n*   **GitHub Tips & Tricks**\n*   [https://egghead.io/courses/github-tips-tricks-6fc4](https://egghead.io/courses/github-tips-tricks-6fc4)\n*   **Build faster with GitHub Copilot and Codespaces**\n*   [https://youtu.be/Lseaqxg8NaY?si=qblR8Am2hJlhcn0Q](https://youtu.be/Lseaqxg8NaY?si=qblR8Am2hJlhcn0Q)\n\n\\## Full Schedule and Course List: January - June 2024:\n\n\\[code-buddy-club/Code Buddy Club [Schedule.md](http://Schedule.md) at main · torontojs/code-buddy-club ([github.com](http://github.com))\\]([https://github.com/torontojs/code-buddy-club/blob/main/Code%20Buddy%20Club%20Schedule.md](https://github.com/torontojs/code-buddy-club/blob/main/Code%20Buddy%20Club%20Schedule.md))  \n**Alt text for cover image** Rectangular graphic. Medium red background. Text says: TorontoJS, underneath inside curly brackets is three lines of text Code Buddy, then a hug happy face emoji then the word Club. There’s a stylized grey graphic of the CN tower on the left."
 }

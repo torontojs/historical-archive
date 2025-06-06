@@ -1,19 +1,19 @@
 {
-  "title": "JS Tech Talk: Animations in React Native",
-  "hosts": [
-    "Jen C.",
-    "2 others"
-  ],
-  "startDate": "2022-03-08T18:00:00-05:00",
-  "endDate": "2022-03-08T18:00:00-05:00",
-  "status": "active",
-  "locationType": "virtual",
-  "image": null,
-  "tags": [
-    "Events in",
-    "JavaScript Frameworks",
-    "JavaScript Applications",
-    "JavaScript Libraries"
-  ],
-  "details": "Details\n-------\n\nWe're BACK! JS Tech Talk is for sharing knowledge about all things Javascript or dev-related to improve our craft and careers. This talk is open to all skill levels.\n\nNiya Panamdanam will walk us through how to create animations in React Native, from practical user transitions to fun bouncy emojis. We will compare different animation tooling, the pros, and cons, to discover the best tool for the job.\n\nSchedule\n\n6:00 event start\n\n6:15 Talk begins\n\n6:45 Q&A\n\n7:00 - End: General social chatter.\n\nCode of conduct is enforced at all TorontoJS events [https://torontojs.com/p/code\\_of\\_conduct](https://torontojs.com/p/code_of_conduct)\n\nNiya is a Software Engineer at Healthie, primarily working on the front end. She is passionate about user experience, performance, the cool shit you can do with javascript, and a good cup of coffee. If she is not coding, you can find her binging anime or reading manga.\n\n[https://twitter.com/findniya](https://twitter.com/findniya)\n------------------------------------------------------------\n\nWanna give a talk or workshop? Tell us about it at [https://tinyurl.com/torontoJS](https://tinyurl.com/torontoJS)"
+	"title": "JS Tech Talk: Animations in React Native",
+	"hosts": [
+		"Jen C.",
+		"2 others"
+	],
+	"startDate": "2022-03-08T18:00:00-05:00",
+	"endDate": "2022-03-08T18:00:00-05:00",
+	"status": "active",
+	"locationType": "virtual",
+	"image": null,
+	"tags": [
+		"Events in",
+		"JavaScript Frameworks",
+		"JavaScript Applications",
+		"JavaScript Libraries"
+	],
+	"details": "Details\n-------\n\nWe're BACK! JS Tech Talk is for sharing knowledge about all things Javascript or dev-related to improve our craft and careers. This talk is open to all skill levels.\n\nNiya Panamdanam will walk us through how to create animations in React Native, from practical user transitions to fun bouncy emojis. We will compare different animation tooling, the pros, and cons, to discover the best tool for the job.\n\nSchedule\n\n6:00 event start\n\n6:15 Talk begins\n\n6:45 Q&A\n\n7:00 - End: General social chatter.\n\nCode of conduct is enforced at all TorontoJS events [https://torontojs.com/p/code\\_of\\_conduct](https://torontojs.com/p/code_of_conduct)\n\nNiya is a Software Engineer at Healthie, primarily working on the front end. She is passionate about user experience, performance, the cool shit you can do with javascript, and a good cup of coffee. If she is not coding, you can find her binging anime or reading manga.\n\n[https://twitter.com/findniya](https://twitter.com/findniya)\n------------------------------------------------------------\n\nWanna give a talk or workshop? Tell us about it at [https://tinyurl.com/torontoJS](https://tinyurl.com/torontoJS)"
 }

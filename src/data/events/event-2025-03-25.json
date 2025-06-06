@@ -1,21 +1,21 @@
 {
-  "title": "Bringing Animations to Life: Interactive dotLottie with JavaScript 🚀",
-  "hosts": [
-    "Aman A.",
-    "Mariana R."
-  ],
-  "startDate": "2025-03-25T18:00:00-04:00",
-  "endDate": "2025-03-25T18:00:00-04:00",
-  "status": "active",
-  "locationType": "in-person",
-  "image": "https://secure.meetupstatic.com/photos/event/8/a/f/1/600_526655569.webp?w=750",
-  "tags": [
-    "Events in Toronto, ON",
-    "Motion Graphics",
-    "Animation",
-    "JavaScript",
-    "JavaScript Applications",
-    "Web Technology"
-  ],
-  "details": "Details\n-------\n\n**In this hands-on free workshop, we’ll explore the power of dotLottie, the lightweight, flexible animation format that enhances web performance and interactivity.** You'll learn how to integrate dotLottie animations seamlessly into your JavaScript projects and take them beyond static visuals by adding real-time user interactions using event-driven techniques.\n\nBy the end of this workshop, you’ll be able to:\n\n*   Load and control dotLottie animations dynamically in JavaScript\n*   Trigger animations based on user inputs (scroll, hover, clicks, and more)\n*   Optimize animations for smooth performance and responsiveness\n*   Use dotLottie in real-world applications (websites, apps, UI elements)\n\nWhether you're a developer, designer, or UI/UX enthusiast, this session will equip you with practical skills to elevate your animations and create engaging web experiences with ease.\n\n**Meet Our Speaker**✨\n\n**Karin Fam - Tech Lead at LottieFiles**  \nCurious software engineer looking to change the world, one \"Hello, world!\" at a time. Currently passionate about making pixels move themselves.\n\n**Our Schedule** ✨\n\n*   **6:00 pm** - Doors Open: Check-in, welcome, Food & Beverages 🕕🍕\n*   **6:25 pm** - Welcome by TorontoJS and Sponsors 💻\n*   **6:30 pm** - Workshop begins 💻\n*   **7:45 pm** - Interactive Q&A Session ❓\n*   **8:00 pm** - Networking 🤝\n*   **9:00 pm** - Doors Close 🚪\n\nFor more information on events @ TorontoJS please check out:  \n[https://guild.host/torontojs/events](https://guild.host/torontojs/events)\n\n_TorontoJS is committed to creating a safe and inclusive environment for all. Our Code of Conduct applies both online and in person at all our events and spaces._\n\nSee you there! 🎉"
+	"title": "Bringing Animations to Life: Interactive dotLottie with JavaScript 🚀",
+	"hosts": [
+		"Aman A.",
+		"Mariana R."
+	],
+	"startDate": "2025-03-25T18:00:00-04:00",
+	"endDate": "2025-03-25T18:00:00-04:00",
+	"status": "active",
+	"locationType": "in-person",
+	"image": "./images/600_526655569.webp",
+	"tags": [
+		"Events in Toronto, ON",
+		"Motion Graphics",
+		"Animation",
+		"JavaScript",
+		"JavaScript Applications",
+		"Web Technology"
+	],
+	"details": "Details\n-------\n\n**In this hands-on free workshop, we’ll explore the power of dotLottie, the lightweight, flexible animation format that enhances web performance and interactivity.** You'll learn how to integrate dotLottie animations seamlessly into your JavaScript projects and take them beyond static visuals by adding real-time user interactions using event-driven techniques.\n\nBy the end of this workshop, you’ll be able to:\n\n*   Load and control dotLottie animations dynamically in JavaScript\n*   Trigger animations based on user inputs (scroll, hover, clicks, and more)\n*   Optimize animations for smooth performance and responsiveness\n*   Use dotLottie in real-world applications (websites, apps, UI elements)\n\nWhether you're a developer, designer, or UI/UX enthusiast, this session will equip you with practical skills to elevate your animations and create engaging web experiences with ease.\n\n**Meet Our Speaker**✨\n\n**Karin Fam - Tech Lead at LottieFiles**  \nCurious software engineer looking to change the world, one \"Hello, world!\" at a time. Currently passionate about making pixels move themselves.\n\n**Our Schedule** ✨\n\n*   **6:00 pm** - Doors Open: Check-in, welcome, Food & Beverages 🕕🍕\n*   **6:25 pm** - Welcome by TorontoJS and Sponsors 💻\n*   **6:30 pm** - Workshop begins 💻\n*   **7:45 pm** - Interactive Q&A Session ❓\n*   **8:00 pm** - Networking 🤝\n*   **9:00 pm** - Doors Close 🚪\n\nFor more information on events @ TorontoJS please check out:  \n[https://guild.host/torontojs/events](https://guild.host/torontojs/events)\n\n_TorontoJS is committed to creating a safe and inclusive environment for all. Our Code of Conduct applies both online and in person at all our events and spaces._\n\nSee you there! 🎉"
 }

@@ -1,16 +1,16 @@
 {
-  "title": "March Tech Talk Night - GraphQL/Relay plus Functional Programming",
-  "hosts": [
-    "dann",
-    "Matthew M."
-  ],
-  "startDate": "2017-03-30T18:00:00-04:00",
-  "endDate": "2017-03-30T18:00:00-04:00",
-  "status": "active",
-  "locationType": "in-person",
-  "image": null,
-  "tags": [
-    "Events in Toronto, ON"
-  ],
-  "details": "Details\n-------\n\nWe're back with another round of tech talks for March!\n\nWe'd like to thank StrongLoop for sponsoring the event.\n\n6:00pm - Doors open. Grab something to eat and network with attendees.\n\n6:30pm - Opening announcements. News and information about the Toronto JavaScript community and upcoming events.\n\n6:45pm - Alex Wilmer\n\nRelay for the REST of us\n\nWhen Facebook released Relay, \"a JavaScript framework for building data-driven applications\", it was surely an intriguing idea. Declare the data you want from the server on a \"per component\" basis and let Relay handle the rest... sounds amazing! Well... it is, but it's not as simple as it is amazing. Even after working with it for over a year and reading through the docs several times, it still sounds complex.\n\nBut once you get your footing and have Relay all setup, there's a chance you might realize that fetching data declaratively is a huge paradigm shift from imperatively making ajax calls. Just as I was getting the hang of \\`fetch\\` too!  \nAt the Ontario Institute for Cancer Research I have had the opportunity to dig into Relay--learning what works, what doesn't and how to start \"thinking in Relay\". None of this will make sense without understanding the basics of GraphQL, so this talk will cover that first and then move onto the magic of Relay.\n\nAlex Wilmer is a lover of all things JavaScript. Besides working at OICR, he mentors part time at Lighthouse Labs, participates in hackathons, makes crazy noises in the browser and spends a great deal of time on Stackoverflow. Find him on the TorontoJS slack channel where he goes on and on about React and why it’s the best thing since sliced arrays.\n\n7:45pm - Aryan Goharzad\n\nA gentle introduction to functional programming\n\nA short tour of functional programming, when to use and when to avoid it, tailored to JS developers.\n\nAryan is a developer who works at OK GROW! where he plays with new technologies and mindsets. He studied Computer Science and Math at the University of Waterloo, which is why he either gets goosebumps or PTSD every time he comes across CLRS on someone’s bookshelf.\n\n8:30pm - Goodbyes, give us a hand cleaning up the space, and post-event drinks at a local pub!\n\nNote that the schedule is subject to change and accommodates 10-15 minute breaks between sessions.\n\nInterested in speaking or sponsoring?\n\nPlease email us at [team@torontojs.com](http://team@torontojs.com) for more information. All skill levels are welcome for talks!\n\nJoin us on Slack ([http://slack.torontojs.com/](http://slack.torontojs.com/))\n\nFollow us on Twitter ([http://twitter.com/torontojs](http://twitter.com/torontojs))\n\nSee you there!"
+	"title": "March Tech Talk Night - GraphQL/Relay plus Functional Programming",
+	"hosts": [
+		"dann",
+		"Matthew M."
+	],
+	"startDate": "2017-03-30T18:00:00-04:00",
+	"endDate": "2017-03-30T18:00:00-04:00",
+	"status": "active",
+	"locationType": "in-person",
+	"image": null,
+	"tags": [
+		"Events in Toronto, ON"
+	],
+	"details": "Details\n-------\n\nWe're back with another round of tech talks for March!\n\nWe'd like to thank StrongLoop for sponsoring the event.\n\n6:00pm - Doors open. Grab something to eat and network with attendees.\n\n6:30pm - Opening announcements. News and information about the Toronto JavaScript community and upcoming events.\n\n6:45pm - Alex Wilmer\n\nRelay for the REST of us\n\nWhen Facebook released Relay, \"a JavaScript framework for building data-driven applications\", it was surely an intriguing idea. Declare the data you want from the server on a \"per component\" basis and let Relay handle the rest... sounds amazing! Well... it is, but it's not as simple as it is amazing. Even after working with it for over a year and reading through the docs several times, it still sounds complex.\n\nBut once you get your footing and have Relay all setup, there's a chance you might realize that fetching data declaratively is a huge paradigm shift from imperatively making ajax calls. Just as I was getting the hang of \\`fetch\\` too!  \nAt the Ontario Institute for Cancer Research I have had the opportunity to dig into Relay--learning what works, what doesn't and how to start \"thinking in Relay\". None of this will make sense without understanding the basics of GraphQL, so this talk will cover that first and then move onto the magic of Relay.\n\nAlex Wilmer is a lover of all things JavaScript. Besides working at OICR, he mentors part time at Lighthouse Labs, participates in hackathons, makes crazy noises in the browser and spends a great deal of time on Stackoverflow. Find him on the TorontoJS slack channel where he goes on and on about React and why it’s the best thing since sliced arrays.\n\n7:45pm - Aryan Goharzad\n\nA gentle introduction to functional programming\n\nA short tour of functional programming, when to use and when to avoid it, tailored to JS developers.\n\nAryan is a developer who works at OK GROW! where he plays with new technologies and mindsets. He studied Computer Science and Math at the University of Waterloo, which is why he either gets goosebumps or PTSD every time he comes across CLRS on someone’s bookshelf.\n\n8:30pm - Goodbyes, give us a hand cleaning up the space, and post-event drinks at a local pub!\n\nNote that the schedule is subject to change and accommodates 10-15 minute breaks between sessions.\n\nInterested in speaking or sponsoring?\n\nPlease email us at [team@torontojs.com](http://team@torontojs.com) for more information. All skill levels are welcome for talks!\n\nJoin us on Slack ([http://slack.torontojs.com/](http://slack.torontojs.com/))\n\nFollow us on Twitter ([http://twitter.com/torontojs](http://twitter.com/torontojs))\n\nSee you there!"
 }

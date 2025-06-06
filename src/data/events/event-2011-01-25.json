@@ -1,15 +1,15 @@
 {
-  "title": "Beers, and Codes",
-  "hosts": [
-    "James H."
-  ],
-  "startDate": "2011-01-24T19:00:00-05:00",
-  "endDate": "2011-01-24T19:00:00-05:00",
-  "status": "active",
-  "locationType": "in-person",
-  "image": "https://secure.meetupstatic.com/photos/event/4/5/b/e/600_17537854.webp?w=750",
-  "tags": [
-    "Events in Toronto, ON"
-  ],
-  "details": "Details\n-------\n\nNo real plan this time. I just got \"Pro JavaScript Patterns\" though, and would love to discuss it. Perhaps we'll hack a bit too.\n\nA quick note though. Don't forget to pay your bill when you leave ;)"
+	"title": "Beers, and Codes",
+	"hosts": [
+		"James H."
+	],
+	"startDate": "2011-01-24T19:00:00-05:00",
+	"endDate": "2011-01-24T19:00:00-05:00",
+	"status": "active",
+	"locationType": "in-person",
+	"image": "./images/600_17537854.webp",
+	"tags": [
+		"Events in Toronto, ON"
+	],
+	"details": "Details\n-------\n\nNo real plan this time. I just got \"Pro JavaScript Patterns\" though, and would love to discuss it. Perhaps we'll hack a bit too.\n\nA quick note though. Don't forget to pay your bill when you leave ;)"
 }

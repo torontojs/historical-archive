@@ -1,15 +1,15 @@
 {
-  "title": "BeerScript",
-  "hosts": [
-    "Matthew M."
-  ],
-  "startDate": "2015-06-30T18:00:00-04:00",
-  "endDate": "2015-06-30T18:00:00-04:00",
-  "status": "active",
-  "locationType": "in-person",
-  "image": null,
-  "tags": [
-    "Events in Toronto, ON"
-  ],
-  "details": "Details\n-------\n\nBeer + Code = <3\n\nBeerScript is BACK! Starting back up at The Rivoli upstairs for Pool, Beer, and JavaScript.\n\nCome hang out and chat Javascript over a pint or two!!  \nSee you soon!"
+	"title": "BeerScript",
+	"hosts": [
+		"Matthew M."
+	],
+	"startDate": "2015-06-30T18:00:00-04:00",
+	"endDate": "2015-06-30T18:00:00-04:00",
+	"status": "active",
+	"locationType": "in-person",
+	"image": null,
+	"tags": [
+		"Events in Toronto, ON"
+	],
+	"details": "Details\n-------\n\nBeer + Code = <3\n\nBeerScript is BACK! Starting back up at The Rivoli upstairs for Pool, Beer, and JavaScript.\n\nCome hang out and chat Javascript over a pint or two!!  \nSee you soon!"
 }

@@ -1,15 +1,15 @@
 {
-  "title": "Server Side JavaScript Hack Night",
-  "hosts": [
-    "James H."
-  ],
-  "startDate": "2010-12-08T19:00:00-05:00",
-  "endDate": "2010-12-08T19:00:00-05:00",
-  "status": "active",
-  "locationType": "in-person",
-  "image": "https://secure.meetupstatic.com/photos/event/4/5/b/e/600_17537854.webp?w=750",
-  "tags": [
-    "Events in Toronto, ON"
-  ],
-  "details": "Details\n-------\n\nHey friends! Last time we met up it was supposed to be a hack night, but it sort of devolved into a pub night of sorts. This time will be a hack night. Let's do some server side JavaScript together. Hack on some [Node.js](http://Node.js), Ringo, or what have you. I'd suggest trying to port one of your favourite libraries from another language into JavaScript to start, and perhaps pair with a friend."
+	"title": "Server Side JavaScript Hack Night",
+	"hosts": [
+		"James H."
+	],
+	"startDate": "2010-12-08T19:00:00-05:00",
+	"endDate": "2010-12-08T19:00:00-05:00",
+	"status": "active",
+	"locationType": "in-person",
+	"image": "./images/600_17537854.webp",
+	"tags": [
+		"Events in Toronto, ON"
+	],
+	"details": "Details\n-------\n\nHey friends! Last time we met up it was supposed to be a hack night, but it sort of devolved into a pub night of sorts. This time will be a hack night. Let's do some server side JavaScript together. Hack on some [Node.js](http://Node.js), Ringo, or what have you. I'd suggest trying to port one of your favourite libraries from another language into JavaScript to start, and perhaps pair with a friend."
 }

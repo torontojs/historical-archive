@@ -1,20 +1,20 @@
 {
-  "title": "TorontoJS [ ONLINE ] TechTalk - Security in software releases",
-  "hosts": [
-    "Ken B."
-  ],
-  "startDate": "2024-09-28T15:00:00-04:00",
-  "endDate": "2024-09-28T15:00:00-04:00",
-  "status": "active",
-  "locationType": "virtual",
-  "image": "https://secure.meetupstatic.com/photos/event/8/d/7/3/600_523536211.webp?w=750",
-  "tags": [
-    "Events in",
-    "Software Security",
-    "JavaScript",
-    "Functional Programming",
-    "Software Development",
-    "Web Development"
-  ],
-  "details": "Details\n-------\n\n\\# TorontoJS \\[ ONLINE \\] TechTalk - Security in software releases: Aristide Bouix & Srgjan Dimitrijevikj\n\n🙌 **TorontoJS Tech Talks \\[ Online \\] is back again!**  \nWe're thrilled to announce the return of TorontoJS Tech Talks to the virtual stage! In this session, we're diving into the topic of security in software releases!\n\n👋 **Meet Our Special Guest,**  \n[Aristide Bouix](https://www.linkedin.com/in/aristide-bouix/) Head Of Product Security and [Srgjan Dimitrijevikj](https://www.linkedin.com/in/srgjan-dimitrijevikj-2a196130/) principle software engineering security and growth [@Catawiki.](https://x.com/catawiki)\n\n**Schedule:**  \n**3:00 pm**\\- Warm welcome and introduction by TorontoJS  \n**3:10 pm** - Presentation by our esteemed speakers.  \n**4:00 pm** - Interactive Q&A Session  \n**4:15 pm** - Neworking  \n**4:30 PM** - Closing Remarks\n\nThis event will unfold on Zoom, bringing together minds from everywhere in an inspiring virtual space.\n\nInterested in speaking or sponsoring? Let's connect at sponsor\\[[@torontojs.com](http://@torontojs.com)\\]([mailto:organizers@torontojs.com](http://mailto:organizers@torontojs.com)).\n\nTorontoJS is committed to creating a safe and inclusive environment for all. Our Code of Conduct applies both online and in person at all our events and spaces.\n\nFor more information on events @ TorontoJS please check out:  \n[https://guild.host/torontojs/events](https://guild.host/torontojs/events)  \nSee you there!"
+	"title": "TorontoJS [ ONLINE ] TechTalk - Security in software releases",
+	"hosts": [
+		"Ken B."
+	],
+	"startDate": "2024-09-28T15:00:00-04:00",
+	"endDate": "2024-09-28T15:00:00-04:00",
+	"status": "active",
+	"locationType": "virtual",
+	"image": "./images/600_523536211.webp",
+	"tags": [
+		"Events in",
+		"Software Security",
+		"JavaScript",
+		"Functional Programming",
+		"Software Development",
+		"Web Development"
+	],
+	"details": "Details\n-------\n\n\\# TorontoJS \\[ ONLINE \\] TechTalk - Security in software releases: Aristide Bouix & Srgjan Dimitrijevikj\n\n🙌 **TorontoJS Tech Talks \\[ Online \\] is back again!**  \nWe're thrilled to announce the return of TorontoJS Tech Talks to the virtual stage! In this session, we're diving into the topic of security in software releases!\n\n👋 **Meet Our Special Guest,**  \n[Aristide Bouix](https://www.linkedin.com/in/aristide-bouix/) Head Of Product Security and [Srgjan Dimitrijevikj](https://www.linkedin.com/in/srgjan-dimitrijevikj-2a196130/) principle software engineering security and growth [@Catawiki.](https://x.com/catawiki)\n\n**Schedule:**  \n**3:00 pm**\\- Warm welcome and introduction by TorontoJS  \n**3:10 pm** - Presentation by our esteemed speakers.  \n**4:00 pm** - Interactive Q&A Session  \n**4:15 pm** - Neworking  \n**4:30 PM** - Closing Remarks\n\nThis event will unfold on Zoom, bringing together minds from everywhere in an inspiring virtual space.\n\nInterested in speaking or sponsoring? Let's connect at sponsor\\[[@torontojs.com](http://@torontojs.com)\\]([mailto:organizers@torontojs.com](http://mailto:organizers@torontojs.com)).\n\nTorontoJS is committed to creating a safe and inclusive environment for all. Our Code of Conduct applies both online and in person at all our events and spaces.\n\nFor more information on events @ TorontoJS please check out:  \n[https://guild.host/torontojs/events](https://guild.host/torontojs/events)  \nSee you there!"
 }

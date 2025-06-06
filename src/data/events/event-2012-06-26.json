@@ -1,15 +1,15 @@
 {
-  "title": "BeerScript",
-  "hosts": [
-    "Taz S."
-  ],
-  "startDate": "2012-06-26T18:00:00-04:00",
-  "endDate": "2012-06-26T18:00:00-04:00",
-  "status": "active",
-  "locationType": "in-person",
-  "image": null,
-  "tags": [
-    "Events in Toronto, ON"
-  ],
-  "details": "Details\n-------\n\nHi All!\n\nIt's been a while since we've gotten together so let's catch up over a beer at the Elephant & Castle."
+	"title": "BeerScript",
+	"hosts": [
+		"Taz S."
+	],
+	"startDate": "2012-06-26T18:00:00-04:00",
+	"endDate": "2012-06-26T18:00:00-04:00",
+	"status": "active",
+	"locationType": "in-person",
+	"image": null,
+	"tags": [
+		"Events in Toronto, ON"
+	],
+	"details": "Details\n-------\n\nHi All!\n\nIt's been a while since we've gotten together so let's catch up over a beer at the Elephant & Castle."
 }

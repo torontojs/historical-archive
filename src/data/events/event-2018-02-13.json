@@ -1,15 +1,15 @@
 {
-  "title": "JS Workshop",
-  "hosts": [
-    "dann"
-  ],
-  "startDate": "2018-02-13T18:30:00-05:00",
-  "endDate": "2018-02-13T18:30:00-05:00",
-  "status": "active",
-  "locationType": "in-person",
-  "image": null,
-  "tags": [
-    "Events in Toronto, ON"
-  ],
-  "details": "Details\n-------\n\nWelcome to the JS Workshop! This is a place for intermediate and advanced JavaScript developers to learn new skills, experiment with interesting technologies and have tons of fun.\n\nThis month we're thrilled to have Vlad Filippov of Mozilla joining us for an evening of learning about A-Frame!\n\nA-Frame ([https://aframe.io](https://aframe.io)) is a web framework for building VR experiences with HTML and Entity-Component (ECS). It was created by the Mozilla VR team to make 3D and WebVR content creation easier, faster, and more accessible. A-Frame also makes WebVR simple by being just HTML, but brings along the ECS pattern from the game industry and adapts it to the DOM. ECS development centers around reusable, composable, and sharable modules that we mix and match on game objects. Join the Mozilla team led by Vlad Filippov as they explain the step by step process of how you can start coding in A-Frame!\n\nPrerequisites:\n\n*   A laptop with a web dev environment, including an editor and a local server\n    \n*   Some proficiency in JavaScript\n    \n*   A cheerful and inquisitive attitude\n    \n*   An appetite (for knowledge and for pizza -- thanks to New Relic for sponsoring us!)\n    \n\nThe speakers codes on the projector, and everyone in the room copies that code into their own laptops. You'll go home with an exciting new program, and if there's time left over at the end you'll do something cool with it and show a demo to everyone. Fun!\n\nTimetable:\n\n6:30 - doors open, eat pizza\n\n7:00 - workshop code-along\n\n8:30 - extend the codebase\n\n9:00 - everyone goes home"
+	"title": "JS Workshop",
+	"hosts": [
+		"dann"
+	],
+	"startDate": "2018-02-13T18:30:00-05:00",
+	"endDate": "2018-02-13T18:30:00-05:00",
+	"status": "active",
+	"locationType": "in-person",
+	"image": null,
+	"tags": [
+		"Events in Toronto, ON"
+	],
+	"details": "Details\n-------\n\nWelcome to the JS Workshop! This is a place for intermediate and advanced JavaScript developers to learn new skills, experiment with interesting technologies and have tons of fun.\n\nThis month we're thrilled to have Vlad Filippov of Mozilla joining us for an evening of learning about A-Frame!\n\nA-Frame ([https://aframe.io](https://aframe.io)) is a web framework for building VR experiences with HTML and Entity-Component (ECS). It was created by the Mozilla VR team to make 3D and WebVR content creation easier, faster, and more accessible. A-Frame also makes WebVR simple by being just HTML, but brings along the ECS pattern from the game industry and adapts it to the DOM. ECS development centers around reusable, composable, and sharable modules that we mix and match on game objects. Join the Mozilla team led by Vlad Filippov as they explain the step by step process of how you can start coding in A-Frame!\n\nPrerequisites:\n\n*   A laptop with a web dev environment, including an editor and a local server\n    \n*   Some proficiency in JavaScript\n    \n*   A cheerful and inquisitive attitude\n    \n*   An appetite (for knowledge and for pizza -- thanks to New Relic for sponsoring us!)\n    \n\nThe speakers codes on the projector, and everyone in the room copies that code into their own laptops. You'll go home with an exciting new program, and if there's time left over at the end you'll do something cool with it and show a demo to everyone. Fun!\n\nTimetable:\n\n6:30 - doors open, eat pizza\n\n7:00 - workshop code-along\n\n8:30 - extend the codebase\n\n9:00 - everyone goes home"
 }

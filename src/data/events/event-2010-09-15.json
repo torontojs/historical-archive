@@ -1,15 +1,15 @@
 {
-  "title": "In the Beginning (the first Toronto JS Meetup)",
-  "hosts": [
-    "James H."
-  ],
-  "startDate": "2010-09-15T19:00:00-04:00",
-  "endDate": "2010-09-15T19:00:00-04:00",
-  "status": "active",
-  "locationType": "in-person",
-  "image": null,
-  "tags": [
-    "Events in Toronto, ON"
-  ],
-  "details": "Details\n-------\n\nThe first Toronto JavaScript meetup night is a meet and greet. We'll get acquainted, and establish a feel for what each of us is doing with JavaScript so that we can plan future hack nights, talks and more."
+	"title": "In the Beginning (the first Toronto JS Meetup)",
+	"hosts": [
+		"James H."
+	],
+	"startDate": "2010-09-15T19:00:00-04:00",
+	"endDate": "2010-09-15T19:00:00-04:00",
+	"status": "active",
+	"locationType": "in-person",
+	"image": null,
+	"tags": [
+		"Events in Toronto, ON"
+	],
+	"details": "Details\n-------\n\nThe first Toronto JavaScript meetup night is a meet and greet. We'll get acquainted, and establish a feel for what each of us is doing with JavaScript so that we can plan future hack nights, talks and more."
 }

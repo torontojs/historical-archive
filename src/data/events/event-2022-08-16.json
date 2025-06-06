@@ -1,21 +1,21 @@
 {
-  "title": "JS Workshop: Getting Sassy with Sass",
-  "hosts": [
-    "Matthew M.",
-    "4 others"
-  ],
-  "startDate": "2022-08-16T18:30:00-04:00",
-  "endDate": "2022-08-16T18:30:00-04:00",
-  "status": "active",
-  "locationType": "virtual",
-  "image": "https://secure.meetupstatic.com/photos/event/7/4/7/9/600_487529817.webp?w=750",
-  "tags": [
-    "Events in",
-    "JavaScript",
-    "JavaScript Applications",
-    "JavaScript Frameworks",
-    "JavaScript Libraries",
-    "Web Technology"
-  ],
-  "details": "Details\n-------\n\nWelcome to the JS Workshop! This event started as a space for intermediate and advanced JavaScript developers to learn new skills, experiment with interesting technologies and have fun, but we also host workshops and talks more accessible to newer devs, and this is one of them!\n\n**How It Works**  \nThe speakers codes and everyone that code into their own laptops. You'll go home with an exciting new program, and if there's time left over at the end you'll do something cool with it and show a demo to everyone. Fun!!!\n\n**About This Workshop**\n\nCSS is an integral part of frontend development, but it can be tricky to scale styles in a growing application. Using Sass, a CSS preprocessor, Rachael Concessio will explore how you can create reusable and modular styles. This way, you'll do more while writing less code.\n\nPrerequisites:\n\n*   A laptop with a web dev environment, including an editor and a local server\n*   Some proficiency with CSS\n*   No experience with Sass is necessary, but a familiarity with \\`node\\` and \\`npm\\` is appreciated!\n*   A cheerful and inquisitive attitude\n*   Install Sass before the workshop: \\`npm i sass\\` or for convenience, through a cdn link [https://cdnjs.com/libraries/sass.js/0.6.2](https://cdnjs.com/libraries/sass.js/0.6.2).\n*   If you are using VSCode, you can also install the extension [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass).\n\n**Schedule**  \n6:00 - \"Doors open\", general chit chat or setup questions  \n6:15 - Intro comments, Host introduces presenter  \n6:20 - Workshop begins.  \n7:00 - Q&A or short break  \n7:15 - End: More review of concepts and coding\n\nRachael Concessio is a developer at Healthie.\n\n[Code of Conduct](https://torontojs.com/p/code_of_conduct) is enforced at all TorontoJS events.\n\nWant to give a talk or workshop? Reach out to organizers(at)[torontojs.com](http://torontojs.com) and tell us about it: [https://docs.google.com/forms/d/e/1FAIpQLSc\\_ZA0ElHLsMedjdQjZechw5H1RJNhG1DZxtFTsqhkdut3eFg/viewform](https://docs.google.com/forms/d/e/1FAIpQLSc_ZA0ElHLsMedjdQjZechw5H1RJNhG1DZxtFTsqhkdut3eFg/viewform)\n\n**Guild Trial**\n\nWe're also trialling a new platform for Events & Presentations - Guild!  \nPlease register for this event on Guild by following the link below, in order to assist us with the trial. Thank you!  \n[https://beta.guild.host/events/js-workshop-getting-gvjj44](https://beta.guild.host/events/js-workshop-getting-gvjj44)"
+	"title": "JS Workshop: Getting Sassy with Sass",
+	"hosts": [
+		"Matthew M.",
+		"4 others"
+	],
+	"startDate": "2022-08-16T18:30:00-04:00",
+	"endDate": "2022-08-16T18:30:00-04:00",
+	"status": "active",
+	"locationType": "virtual",
+	"image": "./images/600_487529817.webp",
+	"tags": [
+		"Events in",
+		"JavaScript",
+		"JavaScript Applications",
+		"JavaScript Frameworks",
+		"JavaScript Libraries",
+		"Web Technology"
+	],
+	"details": "Details\n-------\n\nWelcome to the JS Workshop! This event started as a space for intermediate and advanced JavaScript developers to learn new skills, experiment with interesting technologies and have fun, but we also host workshops and talks more accessible to newer devs, and this is one of them!\n\n**How It Works**  \nThe speakers codes and everyone that code into their own laptops. You'll go home with an exciting new program, and if there's time left over at the end you'll do something cool with it and show a demo to everyone. Fun!!!\n\n**About This Workshop**\n\nCSS is an integral part of frontend development, but it can be tricky to scale styles in a growing application. Using Sass, a CSS preprocessor, Rachael Concessio will explore how you can create reusable and modular styles. This way, you'll do more while writing less code.\n\nPrerequisites:\n\n*   A laptop with a web dev environment, including an editor and a local server\n*   Some proficiency with CSS\n*   No experience with Sass is necessary, but a familiarity with \\`node\\` and \\`npm\\` is appreciated!\n*   A cheerful and inquisitive attitude\n*   Install Sass before the workshop: \\`npm i sass\\` or for convenience, through a cdn link [https://cdnjs.com/libraries/sass.js/0.6.2](https://cdnjs.com/libraries/sass.js/0.6.2).\n*   If you are using VSCode, you can also install the extension [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass).\n\n**Schedule**  \n6:00 - \"Doors open\", general chit chat or setup questions  \n6:15 - Intro comments, Host introduces presenter  \n6:20 - Workshop begins.  \n7:00 - Q&A or short break  \n7:15 - End: More review of concepts and coding\n\nRachael Concessio is a developer at Healthie.\n\n[Code of Conduct](https://torontojs.com/p/code_of_conduct) is enforced at all TorontoJS events.\n\nWant to give a talk or workshop? Reach out to organizers(at)[torontojs.com](http://torontojs.com) and tell us about it: [https://docs.google.com/forms/d/e/1FAIpQLSc\\_ZA0ElHLsMedjdQjZechw5H1RJNhG1DZxtFTsqhkdut3eFg/viewform](https://docs.google.com/forms/d/e/1FAIpQLSc_ZA0ElHLsMedjdQjZechw5H1RJNhG1DZxtFTsqhkdut3eFg/viewform)\n\n**Guild Trial**\n\nWe're also trialling a new platform for Events & Presentations - Guild!  \nPlease register for this event on Guild by following the link below, in order to assist us with the trial. Thank you!  \n[https://beta.guild.host/events/js-workshop-getting-gvjj44](https://beta.guild.host/events/js-workshop-getting-gvjj44)"
 }

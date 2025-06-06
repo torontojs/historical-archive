@@ -1,21 +1,21 @@
 {
-  "title": "JS Code Club: In-Person - Group Programming",
-  "hosts": [
-    "Danny K.",
-    "Matt C."
-  ],
-  "startDate": "2023-05-11T18:00:00-04:00",
-  "endDate": "2023-05-11T18:00:00-04:00",
-  "status": "active",
-  "locationType": "in-person",
-  "image": "https://secure.meetupstatic.com/photos/event/9/1/1/0/600_512377136.webp?w=750",
-  "tags": [
-    "Events in Toronto, ON",
-    "JavaScript",
-    "JavaScript Applications",
-    "JavaScript Frameworks",
-    "JavaScript Libraries",
-    "Web Technology"
-  ],
-  "details": "Details\n-------\n\nHello TorontoJS members!\n\nWe're excited to announce our next in-person event on May 11th, where we'll have an evening of mob programming sessions. If you're new to our code club, this is a great opportunity to meet other developers, learn and work on interesting projects, and have fun!\n\n**Important Notes**\n\n1.  We will send out RSVP confirmation email 7 days before the event, and you can't join the event if you don't confirm your attendance. This is to ensure that we have a headcount and can plan accordingly.\n2.  If you have a project you are working on, please share with us beforehand by filling out the RSVP confirmation forms. This will allow us to save time at the event. It is okay to share your project at the event if you get a last minute idea.\n3.  [Code of Conduct](https://torontojs.com/p/code_of_conduct) is enforced at all TorontoJS events\n\n**Schedule**  \n6:00 pm - Doors open  \n6:15 pm - Announcements  \n6:25 pm - Group forming  \n6:35 pm - Mob programming session 1  \n7:35 pm - Social break  \n7:50 pm - Mob programming session 2  \n8:50 pm - Finale\n\nWe'll have two separate mob programming sessions, each lasting one hour. During the social break, you can meet other members, exchange ideas, and decide which project you'd like to work on for the second session.\n\nWanna give a talk, do a book club, or run a workshop? Tell us about it: [https://tinyurl.com/torontoJS](https://tinyurl.com/torontoJS)\n\nWanna be an event partner or sponsor? Reach out at [organizers@torontojs.com](http://organizers@torontojs.com)"
+	"title": "JS Code Club: In-Person - Group Programming",
+	"hosts": [
+		"Danny K.",
+		"Matt C."
+	],
+	"startDate": "2023-05-11T18:00:00-04:00",
+	"endDate": "2023-05-11T18:00:00-04:00",
+	"status": "active",
+	"locationType": "in-person",
+	"image": "./images/600_512377136.webp",
+	"tags": [
+		"Events in Toronto, ON",
+		"JavaScript",
+		"JavaScript Applications",
+		"JavaScript Frameworks",
+		"JavaScript Libraries",
+		"Web Technology"
+	],
+	"details": "Details\n-------\n\nHello TorontoJS members!\n\nWe're excited to announce our next in-person event on May 11th, where we'll have an evening of mob programming sessions. If you're new to our code club, this is a great opportunity to meet other developers, learn and work on interesting projects, and have fun!\n\n**Important Notes**\n\n1.  We will send out RSVP confirmation email 7 days before the event, and you can't join the event if you don't confirm your attendance. This is to ensure that we have a headcount and can plan accordingly.\n2.  If you have a project you are working on, please share with us beforehand by filling out the RSVP confirmation forms. This will allow us to save time at the event. It is okay to share your project at the event if you get a last minute idea.\n3.  [Code of Conduct](https://torontojs.com/p/code_of_conduct) is enforced at all TorontoJS events\n\n**Schedule**  \n6:00 pm - Doors open  \n6:15 pm - Announcements  \n6:25 pm - Group forming  \n6:35 pm - Mob programming session 1  \n7:35 pm - Social break  \n7:50 pm - Mob programming session 2  \n8:50 pm - Finale\n\nWe'll have two separate mob programming sessions, each lasting one hour. During the social break, you can meet other members, exchange ideas, and decide which project you'd like to work on for the second session.\n\nWanna give a talk, do a book club, or run a workshop? Tell us about it: [https://tinyurl.com/torontoJS](https://tinyurl.com/torontoJS)\n\nWanna be an event partner or sponsor? Reach out at [organizers@torontojs.com](http://organizers@torontojs.com)"
 }

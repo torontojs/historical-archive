@@ -1,20 +1,20 @@
 {
-  "title": "TorontoJS is a proud partner of Sanity Community Meetup",
-  "hosts": [
-    "Ken B."
-  ],
-  "startDate": "2024-06-24T17:00:00-04:00",
-  "endDate": "2024-06-24T17:00:00-04:00",
-  "status": "active",
-  "locationType": "in-person",
-  "image": "https://secure.meetupstatic.com/photos/event/3/8/3/4/600_521774388.webp?w=750",
-  "tags": [
-    "Events in Toronto, ON",
-    "JavaScript",
-    "JavaScript Applications",
-    "JavaScript Frameworks",
-    "JavaScript Libraries",
-    "Web Technology"
-  ],
-  "details": "Details\n-------\n\nTorontoJS is a proud sponsor of the Sanity Community Meetup to meet the team, learn, and hang out with folks building with Sanity in Toronto.  \nWe'll make sure you aren't hungry or thirsty at the event.  \n786 King St W, Toronto, ON M5V 1N6  \nAgenda\n\nPowering a Sports Media Company with Sanity (Sam Mason, The GIST)\n\nThe GIST is a fan-first sports media brand that's shaking up the male-dominated sports industry by providing equal coverage to women's and men's sports. Sam joins us to tell us how they use Sanity for everything from powering a million-subscriber email newsletter to podcast integrations and custom inputs.\n\nWhat's new with Sanity? (Knut Melvær, Sanity)  \nKnut on everything new to the Sanity platform you might have missed and some soon-to-come sneak peeks on upcoming features!  \nMore talks to be announced soon!\n\nCall for presentations\n\nWe're looking for speakers who want to share their stories working with Sanity. If you want to propose a talk, send an email to \\[[knut@sanity.io](http://knut@sanity.io)\\]([mailto:knut@sanity.io](http://mailto:knut@sanity.io)) with some notes on the following:\n\n*   What was the goal of your project?\n*   How did it go?\n*   What did you learn?\n\nWe usually look for a talk to be about 20 minutes.  \nRegister for the event here:  \n[https://lu.ma/sanity-community-meetup-toronto-june2024](https://lu.ma/sanity-community-meetup-toronto-june2024)"
+	"title": "TorontoJS is a proud partner of Sanity Community Meetup",
+	"hosts": [
+		"Ken B."
+	],
+	"startDate": "2024-06-24T17:00:00-04:00",
+	"endDate": "2024-06-24T17:00:00-04:00",
+	"status": "active",
+	"locationType": "in-person",
+	"image": "./images/600_521774388.webp",
+	"tags": [
+		"Events in Toronto, ON",
+		"JavaScript",
+		"JavaScript Applications",
+		"JavaScript Frameworks",
+		"JavaScript Libraries",
+		"Web Technology"
+	],
+	"details": "Details\n-------\n\nTorontoJS is a proud sponsor of the Sanity Community Meetup to meet the team, learn, and hang out with folks building with Sanity in Toronto.  \nWe'll make sure you aren't hungry or thirsty at the event.  \n786 King St W, Toronto, ON M5V 1N6  \nAgenda\n\nPowering a Sports Media Company with Sanity (Sam Mason, The GIST)\n\nThe GIST is a fan-first sports media brand that's shaking up the male-dominated sports industry by providing equal coverage to women's and men's sports. Sam joins us to tell us how they use Sanity for everything from powering a million-subscriber email newsletter to podcast integrations and custom inputs.\n\nWhat's new with Sanity? (Knut Melvær, Sanity)  \nKnut on everything new to the Sanity platform you might have missed and some soon-to-come sneak peeks on upcoming features!  \nMore talks to be announced soon!\n\nCall for presentations\n\nWe're looking for speakers who want to share their stories working with Sanity. If you want to propose a talk, send an email to \\[[knut@sanity.io](http://knut@sanity.io)\\]([mailto:knut@sanity.io](http://mailto:knut@sanity.io)) with some notes on the following:\n\n*   What was the goal of your project?\n*   How did it go?\n*   What did you learn?\n\nWe usually look for a talk to be about 20 minutes.  \nRegister for the event here:  \n[https://lu.ma/sanity-community-meetup-toronto-june2024](https://lu.ma/sanity-community-meetup-toronto-june2024)"
 }

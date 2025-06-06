@@ -1,15 +1,15 @@
 {
-  "title": "JS Workshop",
-  "hosts": [
-    "Matthew M."
-  ],
-  "startDate": "2019-09-10T18:30:00-04:00",
-  "endDate": "2019-09-10T18:30:00-04:00",
-  "status": "active",
-  "locationType": "in-person",
-  "image": null,
-  "tags": [
-    "Events in Toronto, ON"
-  ],
-  "details": "Details\n-------\n\nWelcome to the JS Workshop! This is a place for intermediate and advanced JavaScript developers to learn new skills, experiment with interesting technologies and have tons of fun.\n\nHUGE thank you to Kira Systems who has graciously offered to not only host this workshop again, but also sponsor Food and Drinks as well!!!\n\nAugmented Reality (AR) is becoming really popular these days, with more and more concepts and apps being brought to market as the technology becomes refined. Maybe you have an idea you’d like to test out in AR, or you might have wondered where you’d even start in building an AR experience. In this workshop, we’re going to use a platform called ViroReact which will allow us to build our experiences in React Native. This workshop is targeted towards React Native developers that have a basic understanding of React Native, and that want to expand their horizons further into the AR field. Specifically, we will be building a small React Native widget that will allow us to view our AR renders in the Real, and explore some considerations we’ll encounter along the way.\n\nPrerequisites:\n\n*   Proficiency with JavaScript and some React Native experience\n    \n*   AR capable iOS or Android phone that you can work from. (In case of developing for iOS, preferably apple developer account so you will be able to debug on your phone)\n    \n*   Cheerful disposition (I want to encourage exploring the boundary between how we treat our phones and what we see through them, so we’ll be moving around a bit!)\n    \n*   A viroMedia API key for developing (100% free!) [https://viromedia.com/signup](https://viromedia.com/signup)\n    \n*   An appetite (for knowledge and for pizza -- thanks to Kira for sponsoring us!)\n    \n\nThe speakers codes on the projector, and everyone in the room copies that code into their own laptops. You'll go home with an exciting new program, and if there's time left over at the end you'll do something cool with it and show a demo to everyone. Fun!\n\nTimetable:\n\n6:30 - doors open, eat pizza\n\n7:00 - workshop code-along\n\n8:30 - extend the codebase\n\n9:00 - everyone goes home"
+	"title": "JS Workshop",
+	"hosts": [
+		"Matthew M."
+	],
+	"startDate": "2019-09-10T18:30:00-04:00",
+	"endDate": "2019-09-10T18:30:00-04:00",
+	"status": "active",
+	"locationType": "in-person",
+	"image": null,
+	"tags": [
+		"Events in Toronto, ON"
+	],
+	"details": "Details\n-------\n\nWelcome to the JS Workshop! This is a place for intermediate and advanced JavaScript developers to learn new skills, experiment with interesting technologies and have tons of fun.\n\nHUGE thank you to Kira Systems who has graciously offered to not only host this workshop again, but also sponsor Food and Drinks as well!!!\n\nAugmented Reality (AR) is becoming really popular these days, with more and more concepts and apps being brought to market as the technology becomes refined. Maybe you have an idea you’d like to test out in AR, or you might have wondered where you’d even start in building an AR experience. In this workshop, we’re going to use a platform called ViroReact which will allow us to build our experiences in React Native. This workshop is targeted towards React Native developers that have a basic understanding of React Native, and that want to expand their horizons further into the AR field. Specifically, we will be building a small React Native widget that will allow us to view our AR renders in the Real, and explore some considerations we’ll encounter along the way.\n\nPrerequisites:\n\n*   Proficiency with JavaScript and some React Native experience\n    \n*   AR capable iOS or Android phone that you can work from. (In case of developing for iOS, preferably apple developer account so you will be able to debug on your phone)\n    \n*   Cheerful disposition (I want to encourage exploring the boundary between how we treat our phones and what we see through them, so we’ll be moving around a bit!)\n    \n*   A viroMedia API key for developing (100% free!) [https://viromedia.com/signup](https://viromedia.com/signup)\n    \n*   An appetite (for knowledge and for pizza -- thanks to Kira for sponsoring us!)\n    \n\nThe speakers codes on the projector, and everyone in the room copies that code into their own laptops. You'll go home with an exciting new program, and if there's time left over at the end you'll do something cool with it and show a demo to everyone. Fun!\n\nTimetable:\n\n6:30 - doors open, eat pizza\n\n7:00 - workshop code-along\n\n8:30 - extend the codebase\n\n9:00 - everyone goes home"
 }

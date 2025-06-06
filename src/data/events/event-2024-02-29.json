@@ -1,21 +1,21 @@
 {
-  "title": "JS Tech Talk[Online]: Hussien Khayoon React Testing",
-  "hosts": [
-    "Ken B.",
-    "sami x."
-  ],
-  "startDate": "2024-02-29T18:30:00-05:00",
-  "endDate": "2024-02-29T18:30:00-05:00",
-  "status": "active",
-  "locationType": "virtual",
-  "image": "https://secure.meetupstatic.com/photos/event/a/1/6/b/600_517481323.webp?w=750",
-  "tags": [
-    "Events in",
-    "JavaScript",
-    "Open Source",
-    "JavaScript Frameworks",
-    "Software Engineering",
-    "Web Development"
-  ],
-  "details": "Details\n-------\n\n🙌 TorontoJS tech talks are now online!\n\n**TorontoJS Tech Talk \\[Online\\]** welcomes you to an electrifying virtual gathering where tech enthusiasts unite! Prepare for an immersive experience focused on cutting-edge tech talks, insightful discussions, and vibrant connections. Our highlight? A captivating presentation led by our esteemed guest host. Join us as they lead the way through an evening of curiosity, collaboration, and a deep dive into the world of JavaScript and beyond. Elevate your tech journey with us, and be part of an engaging experience where passion for code meets the thrill of learning.\n\n👋 Come out and join us with special guest [Hussien Khayoon](https://twitter.com/hussien_coding) who will lead a talk on React Testing.\n\nHussien is a Staff Developer at Shopify. He has over 12 years of full-stack experience with a particular soft spot for React. He also mentors for a coding boot camp and loves helping beginners break into tech.\n\nHussien will be talking about testing with React to build high-quality software.\n\n**Schedule:**\n\n**6:30 pm** - Introduction & welcome notes from TorontoJS  \n**6:40 pm** - Hussien Khayoon  \n**7:10 pm** - Question Period and or mob programming  \n**7:25 pm** - Networking  \n**7:40 PM** - Final words\n\n**We look forward to seeing you!**\n\nThe event will be held on [zoom](https://zoom.us/j/93451964000).\n\nWe're always looking for speakers and sponsors for our events. Reach to us @ \\[[organizers@torontojs.com](http://organizers@torontojs.com)\\]([mailto:organizers@torontojs.com](http://mailto:organizers@torontojs.com))\n\nLearn more about all our [events](https://guild.host/torontojs/events)\n\n[Code of Conduct](https://torontojs.com/p/code_of_conduct) is enforced online or in person at all TorontoJS events and spaces."
+	"title": "JS Tech Talk[Online]: Hussien Khayoon React Testing",
+	"hosts": [
+		"Ken B.",
+		"sami x."
+	],
+	"startDate": "2024-02-29T18:30:00-05:00",
+	"endDate": "2024-02-29T18:30:00-05:00",
+	"status": "active",
+	"locationType": "virtual",
+	"image": "./images/600_517481323.webp",
+	"tags": [
+		"Events in",
+		"JavaScript",
+		"Open Source",
+		"JavaScript Frameworks",
+		"Software Engineering",
+		"Web Development"
+	],
+	"details": "Details\n-------\n\n🙌 TorontoJS tech talks are now online!\n\n**TorontoJS Tech Talk \\[Online\\]** welcomes you to an electrifying virtual gathering where tech enthusiasts unite! Prepare for an immersive experience focused on cutting-edge tech talks, insightful discussions, and vibrant connections. Our highlight? A captivating presentation led by our esteemed guest host. Join us as they lead the way through an evening of curiosity, collaboration, and a deep dive into the world of JavaScript and beyond. Elevate your tech journey with us, and be part of an engaging experience where passion for code meets the thrill of learning.\n\n👋 Come out and join us with special guest [Hussien Khayoon](https://twitter.com/hussien_coding) who will lead a talk on React Testing.\n\nHussien is a Staff Developer at Shopify. He has over 12 years of full-stack experience with a particular soft spot for React. He also mentors for a coding boot camp and loves helping beginners break into tech.\n\nHussien will be talking about testing with React to build high-quality software.\n\n**Schedule:**\n\n**6:30 pm** - Introduction & welcome notes from TorontoJS  \n**6:40 pm** - Hussien Khayoon  \n**7:10 pm** - Question Period and or mob programming  \n**7:25 pm** - Networking  \n**7:40 PM** - Final words\n\n**We look forward to seeing you!**\n\nThe event will be held on [zoom](https://zoom.us/j/93451964000).\n\nWe're always looking for speakers and sponsors for our events. Reach to us @ \\[[organizers@torontojs.com](http://organizers@torontojs.com)\\]([mailto:organizers@torontojs.com](http://mailto:organizers@torontojs.com))\n\nLearn more about all our [events](https://guild.host/torontojs/events)\n\n[Code of Conduct](https://torontojs.com/p/code_of_conduct) is enforced online or in person at all TorontoJS events and spaces."
 }

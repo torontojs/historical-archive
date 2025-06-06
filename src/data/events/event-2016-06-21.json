@@ -1,15 +1,15 @@
 {
-  "title": "BeerScript",
-  "hosts": [
-    "Matthew M."
-  ],
-  "startDate": "2016-06-21T18:00:00-04:00",
-  "endDate": "2016-06-21T18:00:00-04:00",
-  "status": "active",
-  "locationType": "in-person",
-  "image": null,
-  "tags": [
-    "Events in Toronto, ON"
-  ],
-  "details": "Details\n-------\n\nDrinks + Code = LOVE!\n\nBeerScript is our lightest event where like minds get together, have a pint, and talk javascript/coding. Feel free to bring your laptop, but there is no specific programming/talk portion to the event.\n\nWe'll be at the Rivoli for the second last Tuesday in June! Come surf Javascript, Development, and Alcohol!"
+	"title": "BeerScript",
+	"hosts": [
+		"Matthew M."
+	],
+	"startDate": "2016-06-21T18:00:00-04:00",
+	"endDate": "2016-06-21T18:00:00-04:00",
+	"status": "active",
+	"locationType": "in-person",
+	"image": null,
+	"tags": [
+		"Events in Toronto, ON"
+	],
+	"details": "Details\n-------\n\nDrinks + Code = LOVE!\n\nBeerScript is our lightest event where like minds get together, have a pint, and talk javascript/coding. Feel free to bring your laptop, but there is no specific programming/talk portion to the event.\n\nWe'll be at the Rivoli for the second last Tuesday in June! Come surf Javascript, Development, and Alcohol!"
 }

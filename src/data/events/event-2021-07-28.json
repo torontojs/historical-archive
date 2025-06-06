@@ -1,16 +1,16 @@
 {
-  "title": "JS Tech Talk: The Benefits of using React Hooks // JS Social",
-  "hosts": [
-    "Matthew M.",
-    "Rachael C."
-  ],
-  "startDate": "2021-07-28T18:00:00-04:00",
-  "endDate": "2021-07-28T18:00:00-04:00",
-  "status": "active",
-  "locationType": "virtual",
-  "image": null,
-  "tags": [
-    "Events in"
-  ],
-  "details": "Details\n-------\n\nWe're BACK! With a special, hybrid JS Tech-Talk followed by our classic JS Social!\n\nOne of the topics that many new React developers struggle with understanding is when to use class components or functional components with react hooks. Rachael Concession will demystify some of the differences between applying the two.\n\nSchedule  \n6:00 event start  \n6:15 Talk begins  \n6:45 Q&A  \n7:00 - End: Social hours. Breakout tables for chatting with other Toronto-based Javascript lovers!\n\nThis talk is open to all skill levels.  \nCode of conduct is enforced at all TorontoJS events [https://torontojs.com/p/code\\_of\\_conduct](https://torontojs.com/p/code_of_conduct)\n\nBio  \nRachael Concessio loves learning new languages and technologies such as React, GraphQL and nextjs. She believes one of the best ways to understand a concept is to explain it to others. PS: She's looking for an entry level role :)  \n[github.com/rach-con13](http://github.com/rach-con13)  \n[rachaelconcessio.me](http://rachaelconcessio.me)"
+	"title": "JS Tech Talk: The Benefits of using React Hooks // JS Social",
+	"hosts": [
+		"Matthew M.",
+		"Rachael C."
+	],
+	"startDate": "2021-07-28T18:00:00-04:00",
+	"endDate": "2021-07-28T18:00:00-04:00",
+	"status": "active",
+	"locationType": "virtual",
+	"image": null,
+	"tags": [
+		"Events in"
+	],
+	"details": "Details\n-------\n\nWe're BACK! With a special, hybrid JS Tech-Talk followed by our classic JS Social!\n\nOne of the topics that many new React developers struggle with understanding is when to use class components or functional components with react hooks. Rachael Concession will demystify some of the differences between applying the two.\n\nSchedule  \n6:00 event start  \n6:15 Talk begins  \n6:45 Q&A  \n7:00 - End: Social hours. Breakout tables for chatting with other Toronto-based Javascript lovers!\n\nThis talk is open to all skill levels.  \nCode of conduct is enforced at all TorontoJS events [https://torontojs.com/p/code\\_of\\_conduct](https://torontojs.com/p/code_of_conduct)\n\nBio  \nRachael Concessio loves learning new languages and technologies such as React, GraphQL and nextjs. She believes one of the best ways to understand a concept is to explain it to others. PS: She's looking for an entry level role :)  \n[github.com/rach-con13](http://github.com/rach-con13)  \n[rachaelconcessio.me](http://rachaelconcessio.me)"
 }
