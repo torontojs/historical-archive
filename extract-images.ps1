@@ -22,7 +22,7 @@ ForEach-Object {
 				Invoke-WebRequest -Uri $ImageUrl -UseBasicParsing -OutFile $ImagePath
 			}
 
-			$UnixFilePath = $ImagePath -replace @('\\', '/')
+			$UnixFilePath = "./images/$ImageFile"
 			$FileContents.details = $FileContents.details -replace @([regex]::Escape($ImageUrl), $UnixFilePath)
 		} catch {
 			Write-Error "Error downloading: $ImageUrl"
