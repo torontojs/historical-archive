@@ -1,21 +1,21 @@
 {
-  "title": "JS Tech Talk: Micro-Frontends (Hybrid)",
-  "hosts": [
-    "Matthew M.",
-    "3 others"
-  ],
-  "startDate": "2022-06-22T18:00:00-04:00",
-  "endDate": "2022-06-22T18:00:00-04:00",
-  "status": "active",
-  "locationType": "in-person",
-  "image": null,
-  "tags": [
-    "Events in Toronto, ON",
-    "JavaScript",
-    "JavaScript Applications",
-    "JavaScript Frameworks",
-    "JavaScript Libraries",
-    "Web Technology"
-  ],
-  "details": "Details\n-------\n\nWe're BACK IN REAL LIFE (And VIRTUAL TOO!)!\n\nJS Tech Talk is for sharing knowledge about all things Javascript or dev-related to improve our craft and careers. **We have limited in person space, so please RSVP here only if you are coming, and upate your RSVP if you can no longer attend please. If we have hit capacity, please RSVP for the Online event as we have unlimited (relatively speaking) capacity there ;).**\n\nOn June 22nd we have the privilege of returning to real life events, yay. We will be heading over to the amazing TouchBistro offices to enjoy two talks.\n\n**Introduction to Micro-Frontends**  \nby Ruben Casas\n\nRuben Casas is a Staff Software Engineer based in the UK, working on frontend architecture at Postman. He has a passion for learning, creating and sharing his knowledge with others through my articles and presentations.\n\n**Webpack Module Federation: Beyond Micro-Frontends**  \nby Alex Khismatulin\n\nAlex is the Director of Web Engineering at Squire, and tends to consider himself a product developer. He loves tinkering with frontend infrastructure and tools that accelerate development and impact business.\n\n**Schedule**\n\n6:00pm - Event begins\n\n6:20pm - Announcements\n\n6:30pm - Introduction to Micro-Frontends\n\n7:05pm - Short break\n\n7:20pm - Webpack Module Federation: Beyond Micro-Frontends\n\n7:55pm - Networking\n\n8:30pm - End of the event!\n\nWanna give a talk or workshop? Tell us about it at  \n[https://tinyurl.com/torontoJS](https://tinyurl.com/torontoJS)"
+	"title": "JS Tech Talk: Micro-Frontends (Hybrid)",
+	"hosts": [
+		"Matthew M.",
+		"3 others"
+	],
+	"startDate": "2022-06-22T18:00:00-04:00",
+	"endDate": "2022-06-22T18:00:00-04:00",
+	"status": "active",
+	"locationType": "in-person",
+	"image": null,
+	"tags": [
+		"Events in Toronto, ON",
+		"JavaScript",
+		"JavaScript Applications",
+		"JavaScript Frameworks",
+		"JavaScript Libraries",
+		"Web Technology"
+	],
+	"details": "Details\n-------\n\nWe're BACK IN REAL LIFE (And VIRTUAL TOO!)!\n\nJS Tech Talk is for sharing knowledge about all things Javascript or dev-related to improve our craft and careers. **We have limited in person space, so please RSVP here only if you are coming, and upate your RSVP if you can no longer attend please. If we have hit capacity, please RSVP for the Online event as we have unlimited (relatively speaking) capacity there ;).**\n\nOn June 22nd we have the privilege of returning to real life events, yay. We will be heading over to the amazing TouchBistro offices to enjoy two talks.\n\n**Introduction to Micro-Frontends**  \nby Ruben Casas\n\nRuben Casas is a Staff Software Engineer based in the UK, working on frontend architecture at Postman. He has a passion for learning, creating and sharing his knowledge with others through my articles and presentations.\n\n**Webpack Module Federation: Beyond Micro-Frontends**  \nby Alex Khismatulin\n\nAlex is the Director of Web Engineering at Squire, and tends to consider himself a product developer. He loves tinkering with frontend infrastructure and tools that accelerate development and impact business.\n\n**Schedule**\n\n6:00pm - Event begins\n\n6:20pm - Announcements\n\n6:30pm - Introduction to Micro-Frontends\n\n7:05pm - Short break\n\n7:20pm - Webpack Module Federation: Beyond Micro-Frontends\n\n7:55pm - Networking\n\n8:30pm - End of the event!\n\nWanna give a talk or workshop? Tell us about it at  \n[https://tinyurl.com/torontoJS](https://tinyurl.com/torontoJS)"
 }

@@ -1,21 +1,21 @@
 {
-  "title": "JS Workshop: Debugging with Chrome DevTools",
-  "hosts": [
-    "Matthew M.",
-    "2 others"
-  ],
-  "startDate": "2022-10-11T18:30:00-04:00",
-  "endDate": "2022-10-11T18:30:00-04:00",
-  "status": "canceled",
-  "locationType": "in-person",
-  "image": null,
-  "tags": [
-    "Events in Toronto, ON",
-    "JavaScript",
-    "JavaScript Applications",
-    "JavaScript Frameworks",
-    "JavaScript Libraries",
-    "Web Technology"
-  ],
-  "details": "Details\n-------\n\nWelcome to the JS Workshop! This event was started for intermediate and advanced JavaScript developers to learn new skills, experiment with interesting technologies and have tons of fun; but this event is open to all skill levels.\n\nNote: **This workshop is capped at 30 attendees** IRL, first come first serve.  \nWe will make best efforts to support a virtual stream the evening of.\n\nToronto JS thanks Properly for generously providing the venue and Bad Gateway for food sponsorship!\n\nPrerequisites:\n\n*   A laptop with a web dev environment, including an editor and a local server\n*   Some proficiency in JavaScript\n*   A cheerful and inquisitive attitude\n\n**About The Workshop**\n\nJavaScript is weird and debugging it can be hard. Let's make it easier with the right tools. Learn how to squash and diagnose bugs in your applications with this workshop all about debugging with Chrome DevTools.\n\nTimetable:\n\n6:00 - doors open, eat food\n\n6:30 - workshop code-along\n\n*   Intro - 25 minutes\n*   Exercise 1 Explanation - 5 minutes\n*   Exercise 1 - 20 minutes\n*   Exercise 1 Review - 5 minutes\n*   Exercise 2 Explanation - 5 minutes\n*   Exercise 2 - 20 minutes\n*   Exercise 2 Review - 5 minutes\n*   Exercise 3 Explanation - 5 minutes\n*   Exercise 3 - 20 minutes\n*   Exercise 3 Review - 5 minutes\n*   Outro - 5 minutes\n\n9:00 - everyone goes home\n\nPresenter Bio\n\nAlex Bodurri is an Angular Team Member and a Developer at Verto Health. [https://twitter.com/alexbodurri](https://twitter.com/alexbodurri)\n\nCode of Conduct applies to all TorontoJS events. [https://torontojs.com/p/code\\_of\\_conduct](https://torontojs.com/p/code_of_conduct)\n\nWanna give a workshop? Let us know at organizers(at)torontojs(dot)com."
+	"title": "JS Workshop: Debugging with Chrome DevTools",
+	"hosts": [
+		"Matthew M.",
+		"2 others"
+	],
+	"startDate": "2022-10-11T18:30:00-04:00",
+	"endDate": "2022-10-11T18:30:00-04:00",
+	"status": "canceled",
+	"locationType": "in-person",
+	"image": null,
+	"tags": [
+		"Events in Toronto, ON",
+		"JavaScript",
+		"JavaScript Applications",
+		"JavaScript Frameworks",
+		"JavaScript Libraries",
+		"Web Technology"
+	],
+	"details": "Details\n-------\n\nWelcome to the JS Workshop! This event was started for intermediate and advanced JavaScript developers to learn new skills, experiment with interesting technologies and have tons of fun; but this event is open to all skill levels.\n\nNote: **This workshop is capped at 30 attendees** IRL, first come first serve.  \nWe will make best efforts to support a virtual stream the evening of.\n\nToronto JS thanks Properly for generously providing the venue and Bad Gateway for food sponsorship!\n\nPrerequisites:\n\n*   A laptop with a web dev environment, including an editor and a local server\n*   Some proficiency in JavaScript\n*   A cheerful and inquisitive attitude\n\n**About The Workshop**\n\nJavaScript is weird and debugging it can be hard. Let's make it easier with the right tools. Learn how to squash and diagnose bugs in your applications with this workshop all about debugging with Chrome DevTools.\n\nTimetable:\n\n6:00 - doors open, eat food\n\n6:30 - workshop code-along\n\n*   Intro - 25 minutes\n*   Exercise 1 Explanation - 5 minutes\n*   Exercise 1 - 20 minutes\n*   Exercise 1 Review - 5 minutes\n*   Exercise 2 Explanation - 5 minutes\n*   Exercise 2 - 20 minutes\n*   Exercise 2 Review - 5 minutes\n*   Exercise 3 Explanation - 5 minutes\n*   Exercise 3 - 20 minutes\n*   Exercise 3 Review - 5 minutes\n*   Outro - 5 minutes\n\n9:00 - everyone goes home\n\nPresenter Bio\n\nAlex Bodurri is an Angular Team Member and a Developer at Verto Health. [https://twitter.com/alexbodurri](https://twitter.com/alexbodurri)\n\nCode of Conduct applies to all TorontoJS events. [https://torontojs.com/p/code\\_of\\_conduct](https://torontojs.com/p/code_of_conduct)\n\nWanna give a workshop? Let us know at organizers(at)torontojs(dot)com."
 }

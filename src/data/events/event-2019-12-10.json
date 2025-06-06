@@ -1,16 +1,16 @@
 {
-  "title": "JS Workshop - Become a test guru by writing your own framework!",
-  "hosts": [
-    "Matthew M.",
-    "Simon S."
-  ],
-  "startDate": "2019-12-10T18:30:00-05:00",
-  "endDate": "2019-12-10T18:30:00-05:00",
-  "status": "active",
-  "locationType": "in-person",
-  "image": null,
-  "tags": [
-    "Events in Toronto, ON"
-  ],
-  "details": "Details\n-------\n\nWelcome to the JS Workshop! This is a place for intermediate and advanced JavaScript developers to learn new skills, experiment with interesting technologies and have tons of fun.\n\nThis month, we are excited to have Daniel Irvine leading the workshop: \"Become a test guru by writing your own framework\"\n\nModern JavaScript test frameworks come with so many features that they can seem pretty magical. In this workshop we’ll build our own unit test runner, starting with the basics and then add in some advanced options. In the first, instructor-led part of the session, we’ll build an xUnit-style test runner that has 90% of the features you'd ever need in a test runner: test suites and tests, expectations and a command-line test runner, together with async support. In the second part of the session, you’ll get to unleash your creativity and explore more complex test ideas: code coverage, pretty-printing stack traces, running tests in parallel, and working with the DOM. You’ll pick one of these ideas and implement it, with guidance. Or if you’re feeling brave, you can pick up your own idea and try that out instead.\n\nPrerequisites:\n\n*   A laptop with a web dev environment, including an editor, nodejs, and a browser\n    \n*   Some proficiency in JavaScript\n    \n*   A cheerful and inquisitive attitude\n    \n*   An appetite (for knowledge and for pizza)\n    \n\nThe speakers codes on the projector, and everyone in the room copies that code into their own laptops. You'll go home with an exciting new program, and if there's time left over at the end you'll do something cool with it and show a demo to everyone. Fun!\n\nTimetable:\n\n6:30 - doors open, eat pizza\n\n7:00 - workshop code-along\n\n8:30 - extend the codebase\n\n9:00 - everyone goes home"
+	"title": "JS Workshop - Become a test guru by writing your own framework!",
+	"hosts": [
+		"Matthew M.",
+		"Simon S."
+	],
+	"startDate": "2019-12-10T18:30:00-05:00",
+	"endDate": "2019-12-10T18:30:00-05:00",
+	"status": "active",
+	"locationType": "in-person",
+	"image": null,
+	"tags": [
+		"Events in Toronto, ON"
+	],
+	"details": "Details\n-------\n\nWelcome to the JS Workshop! This is a place for intermediate and advanced JavaScript developers to learn new skills, experiment with interesting technologies and have tons of fun.\n\nThis month, we are excited to have Daniel Irvine leading the workshop: \"Become a test guru by writing your own framework\"\n\nModern JavaScript test frameworks come with so many features that they can seem pretty magical. In this workshop we’ll build our own unit test runner, starting with the basics and then add in some advanced options. In the first, instructor-led part of the session, we’ll build an xUnit-style test runner that has 90% of the features you'd ever need in a test runner: test suites and tests, expectations and a command-line test runner, together with async support. In the second part of the session, you’ll get to unleash your creativity and explore more complex test ideas: code coverage, pretty-printing stack traces, running tests in parallel, and working with the DOM. You’ll pick one of these ideas and implement it, with guidance. Or if you’re feeling brave, you can pick up your own idea and try that out instead.\n\nPrerequisites:\n\n*   A laptop with a web dev environment, including an editor, nodejs, and a browser\n    \n*   Some proficiency in JavaScript\n    \n*   A cheerful and inquisitive attitude\n    \n*   An appetite (for knowledge and for pizza)\n    \n\nThe speakers codes on the projector, and everyone in the room copies that code into their own laptops. You'll go home with an exciting new program, and if there's time left over at the end you'll do something cool with it and show a demo to everyone. Fun!\n\nTimetable:\n\n6:30 - doors open, eat pizza\n\n7:00 - workshop code-along\n\n8:30 - extend the codebase\n\n9:00 - everyone goes home"
 }

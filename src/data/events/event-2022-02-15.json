@@ -1,21 +1,21 @@
 {
-  "title": "JS Tech Talk: Quadtree and Maps using D3",
-  "hosts": [
-    "Matthew M.",
-    "4 others"
-  ],
-  "startDate": "2022-02-15T18:30:00-05:00",
-  "endDate": "2022-02-15T18:30:00-05:00",
-  "status": "active",
-  "locationType": "virtual",
-  "image": null,
-  "tags": [
-    "Events in",
-    "JavaScript",
-    "JavaScript Applications",
-    "JavaScript Frameworks",
-    "JavaScript Libraries",
-    "Web Technology"
-  ],
-  "details": "Details\n-------\n\nWe're BACK! With a special JS Tech-Talk!\n\nOn web maps markers are used to represent locations. Zoomed in, this looks fine initially but if two locations are too close together when zoomed out, markers look like they're overlapping. Looks ugly, right? This talk explores the Quadtree approach to search for geometric points in a plane accurately and instantly and how this can be used in clustering map markers.\n\nSpeaker Bio:  \nGuna is a Front End Developer working at JFrog India in Bangalore. He is specialized in Visualisations using D3. He is an open-source contributor in [Billboard.js](http://Billboard.js) which is a JavaScript chart library, based on D3. When he is not coding he is a sports enthusiast and a gamer.\n\nThis talk is open to all skill levels.\n\nCode of conduct is enforced at all TorontoJS events [https://torontojs.com/p/code\\_of\\_conduct](https://torontojs.com/p/code_of_conduct)\n\nTimetable:\n\n6:30 - doors \"open\", Intro\n\n6:45 - Talk Starts\n\n7:15 - Q&A with the Speaker\n\n7:30 - End : Socializing and networking."
+	"title": "JS Tech Talk: Quadtree and Maps using D3",
+	"hosts": [
+		"Matthew M.",
+		"4 others"
+	],
+	"startDate": "2022-02-15T18:30:00-05:00",
+	"endDate": "2022-02-15T18:30:00-05:00",
+	"status": "active",
+	"locationType": "virtual",
+	"image": null,
+	"tags": [
+		"Events in",
+		"JavaScript",
+		"JavaScript Applications",
+		"JavaScript Frameworks",
+		"JavaScript Libraries",
+		"Web Technology"
+	],
+	"details": "Details\n-------\n\nWe're BACK! With a special JS Tech-Talk!\n\nOn web maps markers are used to represent locations. Zoomed in, this looks fine initially but if two locations are too close together when zoomed out, markers look like they're overlapping. Looks ugly, right? This talk explores the Quadtree approach to search for geometric points in a plane accurately and instantly and how this can be used in clustering map markers.\n\nSpeaker Bio:  \nGuna is a Front End Developer working at JFrog India in Bangalore. He is specialized in Visualisations using D3. He is an open-source contributor in [Billboard.js](http://Billboard.js) which is a JavaScript chart library, based on D3. When he is not coding he is a sports enthusiast and a gamer.\n\nThis talk is open to all skill levels.\n\nCode of conduct is enforced at all TorontoJS events [https://torontojs.com/p/code\\_of\\_conduct](https://torontojs.com/p/code_of_conduct)\n\nTimetable:\n\n6:30 - doors \"open\", Intro\n\n6:45 - Talk Starts\n\n7:15 - Q&A with the Speaker\n\n7:30 - End : Socializing and networking."
 }

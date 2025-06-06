@@ -1,16 +1,16 @@
 {
-  "title": "Toronto JS Town Hall",
-  "hosts": [
-    "Jen C.",
-    "Matthew M."
-  ],
-  "startDate": "2021-08-04T18:00:00-04:00",
-  "endDate": "2021-08-04T18:00:00-04:00",
-  "status": "active",
-  "locationType": "virtual",
-  "image": null,
-  "tags": [
-    "Events in"
-  ],
-  "details": "Details\n-------\n\nThe organizers of Toronto JS, @mihok and @jenc, are running a town hall to update the community on upcoming plans, including:\n\n*   our updated respective visions for the community\n*   our new and ongoing code of conduct and what it means\n*   volunteering for Toronto JS\n*   open forum for how this community is doing\n\nAll are welcome! This event is more geared towards organization matters and not a networking or social unlike JS Code Club and JS Social.\n\n🥁Do you wanna be more involved and help with running Toronto JS? Do you feel strongly about this community or want to help move it in a better direction? Come forth!"
+	"title": "Toronto JS Town Hall",
+	"hosts": [
+		"Jen C.",
+		"Matthew M."
+	],
+	"startDate": "2021-08-04T18:00:00-04:00",
+	"endDate": "2021-08-04T18:00:00-04:00",
+	"status": "active",
+	"locationType": "virtual",
+	"image": null,
+	"tags": [
+		"Events in"
+	],
+	"details": "Details\n-------\n\nThe organizers of Toronto JS, @mihok and @jenc, are running a town hall to update the community on upcoming plans, including:\n\n*   our updated respective visions for the community\n*   our new and ongoing code of conduct and what it means\n*   volunteering for Toronto JS\n*   open forum for how this community is doing\n\nAll are welcome! This event is more geared towards organization matters and not a networking or social unlike JS Code Club and JS Social.\n\n🥁Do you wanna be more involved and help with running Toronto JS? Do you feel strongly about this community or want to help move it in a better direction? Come forth!"
 }

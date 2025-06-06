@@ -1,15 +1,15 @@
 {
-  "title": "JS Workshop",
-  "hosts": [
-    "Matthew M."
-  ],
-  "startDate": "2019-04-16T18:30:00-04:00",
-  "endDate": "2019-04-16T18:30:00-04:00",
-  "status": "active",
-  "locationType": "in-person",
-  "image": null,
-  "tags": [
-    "Events in Toronto, ON"
-  ],
-  "details": "Details\n-------\n\nWelcome to the JS Workshop! This is a place for intermediate and advanced JavaScript developers to learn new skills, experiment with interesting technologies and have tons of fun.\n\nThis month we have our very own organizer Matthew Mihok running the workshop! Mihok has been a volunteer and organizer for the TorontoJS community for over 5 years, recently returning from a trip to Japan where he spent a week with MIT and University of Tokyo professors discussing Robotics, AI, and the Future of work in an intense bootcamp series put on by the universities.\n\nThis months workshop topic will be: \"Artificial intelligence, building on basic knowledge we will discover and build Neural Networks from scratch to get a better understanding of how they work.\"\n\nPrerequisites:\n\n*   A laptop with a web dev environment, including an editor\n    \n*   Some proficiency in JavaScript\n    \n*   A cheerful and inquisitive attitude\n    \n*   An appetite (for knowledge and for pizza -- Thanks to Coinsquare for sponsoring the Food!)\n    \n\nThe speaker will code on a projector, and everyone in the room copies that code into their own laptops. You'll go home with an exciting new program, and if there's time left over at the end you'll do something cool with it and show a demo to everyone. Fun!\n\nTimetable:\n\n6:30 - Doors open, eat pizza, network\n\n7:00 - Workshop\n\n8:30 - Extend and explore the codebase\n\n9:00 - Everyone goes home"
+	"title": "JS Workshop",
+	"hosts": [
+		"Matthew M."
+	],
+	"startDate": "2019-04-16T18:30:00-04:00",
+	"endDate": "2019-04-16T18:30:00-04:00",
+	"status": "active",
+	"locationType": "in-person",
+	"image": null,
+	"tags": [
+		"Events in Toronto, ON"
+	],
+	"details": "Details\n-------\n\nWelcome to the JS Workshop! This is a place for intermediate and advanced JavaScript developers to learn new skills, experiment with interesting technologies and have tons of fun.\n\nThis month we have our very own organizer Matthew Mihok running the workshop! Mihok has been a volunteer and organizer for the TorontoJS community for over 5 years, recently returning from a trip to Japan where he spent a week with MIT and University of Tokyo professors discussing Robotics, AI, and the Future of work in an intense bootcamp series put on by the universities.\n\nThis months workshop topic will be: \"Artificial intelligence, building on basic knowledge we will discover and build Neural Networks from scratch to get a better understanding of how they work.\"\n\nPrerequisites:\n\n*   A laptop with a web dev environment, including an editor\n    \n*   Some proficiency in JavaScript\n    \n*   A cheerful and inquisitive attitude\n    \n*   An appetite (for knowledge and for pizza -- Thanks to Coinsquare for sponsoring the Food!)\n    \n\nThe speaker will code on a projector, and everyone in the room copies that code into their own laptops. You'll go home with an exciting new program, and if there's time left over at the end you'll do something cool with it and show a demo to everyone. Fun!\n\nTimetable:\n\n6:30 - Doors open, eat pizza, network\n\n7:00 - Workshop\n\n8:30 - Extend and explore the codebase\n\n9:00 - Everyone goes home"
 }

@@ -1,21 +1,21 @@
 {
-  "title": "Toronto JS Lightning Talk Event [in person]",
-  "hosts": [
-    "Aman A.",
-    "2 others"
-  ],
-  "startDate": "2024-04-30T18:00:00-04:00",
-  "endDate": "2024-04-30T18:00:00-04:00",
-  "status": "active",
-  "locationType": "in-person",
-  "image": "./images/600_520195134.webp",
-  "tags": [
-    "Events in Toronto, ON",
-    "JavaScript",
-    "JavaScript Applications",
-    "JavaScript Frameworks",
-    "JavaScript Libraries",
-    "Web Technology"
-  ],
-  "details": "Details\n-------\n\n\\# **Toronto Js Lightning Talk Event**\n\nAfter a three year hiatus, we’re back with another Lightning Talk event at **[Super.com](http://Super.com)!** 👋! Tonight we’ll feature **10 speakers**, each doing a **10-15 minute talk** about a variety of topics. Also, there’s pizza!\n\nThis event is open to all skill levels.\n\n**FEAURING**  \n\"**Develop Web Applications with Modern Angular**\" by Dale Nguyen  \n[https://www.linkedin.com/in/dalenguyenblogger/](https://www.linkedin.com/in/dalenguyenblogger/)\n\n\"**The web can do that?!**\" By Marco Campos  \n[https://www.linkedin.com/in/madcampos/](https://www.linkedin.com/in/madcampos/)\n\n\"**Dating in different timezones**\" by Danny Kim  \n[https://www.linkedin.com/in/0916dhkim/](https://www.linkedin.com/in/0916dhkim/)\n\n\"**Open API in all its swagger**\" by Yuri Yang  \n[https://www.linkedin.com/in/07yuri/](https://www.linkedin.com/in/07yuri/)\n\n\"**How JS applications are built and deployed at Stripe**\" by Michael Humiston  \n[https://www.linkedin.com/in/michaelhumiston/](https://www.linkedin.com/in/michaelhumiston/)\n\n\"**Accessibility isn’t just for users: Creating engaging technical presentations with accessibility in mind**” by Elizabeth McCready  \n[https://www.linkedin.com/in/elizabethmccready/](https://www.linkedin.com/in/elizabethmccready/)\n\n\"**My Journey of Building a Figma Widget with the Notion API**” by Suhyeong Lee  \n[https://www.linkedin.com/in/suhyeong-evan-lee/](https://www.linkedin.com/in/suhyeong-evan-lee/)\n\n\"**Stop narrowing the browser window: improve testing for responsiveness**” by Jen Chan  \n[https://www.linkedin.com/in/jennifer7chan/](https://www.linkedin.com/in/jennifer7chan/)\n\n\"**Deploy your own LLM, local or on-cloud**” by Hardik Raj Hajela  \n[https://www.linkedin.com/in/hardik-hajela/](https://www.linkedin.com/in/jennifer7chan/)\n\n**\"Why would you write a library? The value of building things from scratch\"** by Kaung Zin Hein  \n[https://www.linkedin.com/in/kaung-zin-hein-4284a2258/](https://www.linkedin.com/in/kaung-zin-hein-4284a2258/)\n\n**Stay tuned for more speakers and topics!**  \nYour hosts, Sami, Aman & Evert\n\n\\## **Schedule:**\n\n**6:00 PM** - doors \"open\"  \n**6:30 PM** - Lightning Talks begin  \n**8:30 PM** - Networking time  \n**9:00 PM** - everyone goes \"home\"  \n(Note: All times in the schedule are an approximation.)  \n**Many thanks to [Super.com](http://Super.com) for hosting us!**\n\nWe're looking for sponsors for events like these. If you or your company would like to support TorontoJS and get a message out to our community, please get in touch with \\[[organizers@torontojs.com](http://organizers@torontojs.com)\\]([mailto:organizers@torontojs.com](http://mailto:organizers@torontojs.com))\n\nThe [Code of Conduct](https://torontojs.com/p/code_of_conduct) is enforced at all TorontoJS events and spaces - online or in-person.\n\nGendered toilets and a single occupancy accessible toilet are available.  \nTorontoJS is a volunteer-led not-for-profit organization. Please help us with tidying up; otherwise, the venue staff and volunteers will have to pick up after you."
+	"title": "Toronto JS Lightning Talk Event [in person]",
+	"hosts": [
+		"Aman A.",
+		"2 others"
+	],
+	"startDate": "2024-04-30T18:00:00-04:00",
+	"endDate": "2024-04-30T18:00:00-04:00",
+	"status": "active",
+	"locationType": "in-person",
+	"image": "./images/600_520195134.webp",
+	"tags": [
+		"Events in Toronto, ON",
+		"JavaScript",
+		"JavaScript Applications",
+		"JavaScript Frameworks",
+		"JavaScript Libraries",
+		"Web Technology"
+	],
+	"details": "Details\n-------\n\n\\# **Toronto Js Lightning Talk Event**\n\nAfter a three year hiatus, we’re back with another Lightning Talk event at **[Super.com](http://Super.com)!** 👋! Tonight we’ll feature **10 speakers**, each doing a **10-15 minute talk** about a variety of topics. Also, there’s pizza!\n\nThis event is open to all skill levels.\n\n**FEAURING**  \n\"**Develop Web Applications with Modern Angular**\" by Dale Nguyen  \n[https://www.linkedin.com/in/dalenguyenblogger/](https://www.linkedin.com/in/dalenguyenblogger/)\n\n\"**The web can do that?!**\" By Marco Campos  \n[https://www.linkedin.com/in/madcampos/](https://www.linkedin.com/in/madcampos/)\n\n\"**Dating in different timezones**\" by Danny Kim  \n[https://www.linkedin.com/in/0916dhkim/](https://www.linkedin.com/in/0916dhkim/)\n\n\"**Open API in all its swagger**\" by Yuri Yang  \n[https://www.linkedin.com/in/07yuri/](https://www.linkedin.com/in/07yuri/)\n\n\"**How JS applications are built and deployed at Stripe**\" by Michael Humiston  \n[https://www.linkedin.com/in/michaelhumiston/](https://www.linkedin.com/in/michaelhumiston/)\n\n\"**Accessibility isn’t just for users: Creating engaging technical presentations with accessibility in mind**” by Elizabeth McCready  \n[https://www.linkedin.com/in/elizabethmccready/](https://www.linkedin.com/in/elizabethmccready/)\n\n\"**My Journey of Building a Figma Widget with the Notion API**” by Suhyeong Lee  \n[https://www.linkedin.com/in/suhyeong-evan-lee/](https://www.linkedin.com/in/suhyeong-evan-lee/)\n\n\"**Stop narrowing the browser window: improve testing for responsiveness**” by Jen Chan  \n[https://www.linkedin.com/in/jennifer7chan/](https://www.linkedin.com/in/jennifer7chan/)\n\n\"**Deploy your own LLM, local or on-cloud**” by Hardik Raj Hajela  \n[https://www.linkedin.com/in/hardik-hajela/](https://www.linkedin.com/in/jennifer7chan/)\n\n**\"Why would you write a library? The value of building things from scratch\"** by Kaung Zin Hein  \n[https://www.linkedin.com/in/kaung-zin-hein-4284a2258/](https://www.linkedin.com/in/kaung-zin-hein-4284a2258/)\n\n**Stay tuned for more speakers and topics!**  \nYour hosts, Sami, Aman & Evert\n\n\\## **Schedule:**\n\n**6:00 PM** - doors \"open\"  \n**6:30 PM** - Lightning Talks begin  \n**8:30 PM** - Networking time  \n**9:00 PM** - everyone goes \"home\"  \n(Note: All times in the schedule are an approximation.)  \n**Many thanks to [Super.com](http://Super.com) for hosting us!**\n\nWe're looking for sponsors for events like these. If you or your company would like to support TorontoJS and get a message out to our community, please get in touch with \\[[organizers@torontojs.com](http://organizers@torontojs.com)\\]([mailto:organizers@torontojs.com](http://mailto:organizers@torontojs.com))\n\nThe [Code of Conduct](https://torontojs.com/p/code_of_conduct) is enforced at all TorontoJS events and spaces - online or in-person.\n\nGendered toilets and a single occupancy accessible toilet are available.  \nTorontoJS is a volunteer-led not-for-profit organization. Please help us with tidying up; otherwise, the venue staff and volunteers will have to pick up after you."
 }

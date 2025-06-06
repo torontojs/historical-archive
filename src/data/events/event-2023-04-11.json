@@ -1,21 +1,21 @@
 {
-  "title": "JS Workshop [In-Person]: Debugging with Chrome DevTools",
-  "hosts": [
-    "Jen C.",
-    "3 others"
-  ],
-  "startDate": "2023-04-11T18:30:00-04:00",
-  "endDate": "2023-04-11T18:30:00-04:00",
-  "status": "active",
-  "locationType": "in-person",
-  "image": null,
-  "tags": [
-    "Events in Toronto, ON",
-    "JavaScript",
-    "JavaScript Applications",
-    "JavaScript Frameworks",
-    "JavaScript Libraries",
-    "Web Technology"
-  ],
-  "details": "Details\n-------\n\nWelcome to the JS Workshop! This event was started for intermediate and advanced JavaScript developers to learn new skills, experiment with interesting technologies and have tons of fun; but this event is open to all skill levels.\n\nNote: **This workshop is capped at 30 attendees** in-person, first come first serve.\n\nEDIT: Due to unforeseen popular demand... **we'll confirm the first 30 signups if you answer [with this form](https://tinyurl.com/debugwithchrome) by Monday morning**, latest!\n\nThank you all for your interest: [https://tinyurl.com/debugwithchrome](https://tinyurl.com/debugwithchrome)\n\nToronto JS thanks \\[[Super.com](http://Super.com)\\]([https://www.super.com/](https://www.super.com/)) for generously offering their venue to support events by developers for developers!\n\n**Prerequisites**\n\n*   A laptop with a web dev environment, including an editor and a local server\n*   Some proficiency in JavaScript\n*   A cheerful and inquisitive attitude\n\n**About The Workshop**\n\nJavaScript is weird and debugging it can be hard. Let's make it easier with the right tools. Learn how to squash and diagnose bugs in your applications with this workshop all about debugging with Chrome DevTools.\n\n**Schedule**\n\n6:30 - Start\n\n*   Intro - 25 minutes\n*   Exercise 1 Explanation - 5 minutes\n*   Exercise 1 - 20 minutes\n*   Exercise 1 Review - 5 minutes\n*   Exercise 2 Explanation - 5 minutes\n*   Exercise 2 - 20 minutes\n*   Exercise 2 Review - 5 minutes\n*   Exercise 3 Explanation - 5 minutes\n*   Exercise 3 - 20 minutes\n*   Exercise 3 Review - 5 minutes\n*   Outro - 5 minutes\n\n9:00 pm - Event End.\n\n**Presenter Bio**\n\nAlex Bodurri is an Angular Team Member and a Developer at Verto Health.  \n[https://aleksanderbodurri.com/](https://aleksanderbodurri.com/)\n\n[Code of Conduct](https://torontojs.com/p/code_of_conduct) applies to all TorontoJS events.\n\nWanna give a workshop? Wanna sponsor us? Wanna be an event partner? Let us know at organizers(at)torontojs(dot)com."
+	"title": "JS Workshop [In-Person]: Debugging with Chrome DevTools",
+	"hosts": [
+		"Jen C.",
+		"3 others"
+	],
+	"startDate": "2023-04-11T18:30:00-04:00",
+	"endDate": "2023-04-11T18:30:00-04:00",
+	"status": "active",
+	"locationType": "in-person",
+	"image": null,
+	"tags": [
+		"Events in Toronto, ON",
+		"JavaScript",
+		"JavaScript Applications",
+		"JavaScript Frameworks",
+		"JavaScript Libraries",
+		"Web Technology"
+	],
+	"details": "Details\n-------\n\nWelcome to the JS Workshop! This event was started for intermediate and advanced JavaScript developers to learn new skills, experiment with interesting technologies and have tons of fun; but this event is open to all skill levels.\n\nNote: **This workshop is capped at 30 attendees** in-person, first come first serve.\n\nEDIT: Due to unforeseen popular demand... **we'll confirm the first 30 signups if you answer [with this form](https://tinyurl.com/debugwithchrome) by Monday morning**, latest!\n\nThank you all for your interest: [https://tinyurl.com/debugwithchrome](https://tinyurl.com/debugwithchrome)\n\nToronto JS thanks \\[[Super.com](http://Super.com)\\]([https://www.super.com/](https://www.super.com/)) for generously offering their venue to support events by developers for developers!\n\n**Prerequisites**\n\n*   A laptop with a web dev environment, including an editor and a local server\n*   Some proficiency in JavaScript\n*   A cheerful and inquisitive attitude\n\n**About The Workshop**\n\nJavaScript is weird and debugging it can be hard. Let's make it easier with the right tools. Learn how to squash and diagnose bugs in your applications with this workshop all about debugging with Chrome DevTools.\n\n**Schedule**\n\n6:30 - Start\n\n*   Intro - 25 minutes\n*   Exercise 1 Explanation - 5 minutes\n*   Exercise 1 - 20 minutes\n*   Exercise 1 Review - 5 minutes\n*   Exercise 2 Explanation - 5 minutes\n*   Exercise 2 - 20 minutes\n*   Exercise 2 Review - 5 minutes\n*   Exercise 3 Explanation - 5 minutes\n*   Exercise 3 - 20 minutes\n*   Exercise 3 Review - 5 minutes\n*   Outro - 5 minutes\n\n9:00 pm - Event End.\n\n**Presenter Bio**\n\nAlex Bodurri is an Angular Team Member and a Developer at Verto Health.  \n[https://aleksanderbodurri.com/](https://aleksanderbodurri.com/)\n\n[Code of Conduct](https://torontojs.com/p/code_of_conduct) applies to all TorontoJS events.\n\nWanna give a workshop? Wanna sponsor us? Wanna be an event partner? Let us know at organizers(at)torontojs(dot)com."
 }

@@ -1,15 +1,15 @@
 {
-  "title": "JS Workshop",
-  "hosts": [
-    "Matthew M."
-  ],
-  "startDate": "2019-08-13T18:30:00-04:00",
-  "endDate": "2019-08-13T18:30:00-04:00",
-  "status": "active",
-  "locationType": "in-person",
-  "image": null,
-  "tags": [
-    "Events in Toronto, ON"
-  ],
-  "details": "Details\n-------\n\nWelcome to the JS Workshop! This is a place for intermediate and advanced JavaScript developers to learn new skills, experiment with interesting technologies and have tons of fun.\n\nWe're BACK! After several months of having trouble finding space, we have a great new sponsor, Kira!\n\nThis month Matthew Mihok (or just \"Mihok\" as most folks know him) will be revisiting a workshop that was done earlier in the year for a second helping of building neural networks in JavaScript from SCRATCH (no framework, just JavaScript). Mihok spent the month of March in Japan with MIT and the University of Tokyo apart of the Future of work, AI, robotics and tech program and hopes to get more folks involved in the interesting work of artificial intelligence. This is a gentle introduction to neural networks and gives a base level understanding of how they work.\n\nPrerequisites:\n\n*   A laptop with a web dev environment, including an editor and a local server\n    \n*   Some proficiency in JavaScript\n    \n*   A cheerful and inquisitive attitude\n    \n*   An appetite (for knowledge and for pizza --- Thanks to Kira for sponsoring the food as well as the space!!)\n    \n\nThe speakers codes on the projector, and everyone in the room copies that code into their own laptops. You'll go home with an exciting new program, and if there's time left over at the end you'll do something cool with it and show a demo to everyone. Fun!\n\nTimetable:\n\n6:30 - doors open, eat pizza\n\n7:00 - workshop code-along\n\n8:30 - extend the codebase\n\n9:00 - everyone goes home"
+	"title": "JS Workshop",
+	"hosts": [
+		"Matthew M."
+	],
+	"startDate": "2019-08-13T18:30:00-04:00",
+	"endDate": "2019-08-13T18:30:00-04:00",
+	"status": "active",
+	"locationType": "in-person",
+	"image": null,
+	"tags": [
+		"Events in Toronto, ON"
+	],
+	"details": "Details\n-------\n\nWelcome to the JS Workshop! This is a place for intermediate and advanced JavaScript developers to learn new skills, experiment with interesting technologies and have tons of fun.\n\nWe're BACK! After several months of having trouble finding space, we have a great new sponsor, Kira!\n\nThis month Matthew Mihok (or just \"Mihok\" as most folks know him) will be revisiting a workshop that was done earlier in the year for a second helping of building neural networks in JavaScript from SCRATCH (no framework, just JavaScript). Mihok spent the month of March in Japan with MIT and the University of Tokyo apart of the Future of work, AI, robotics and tech program and hopes to get more folks involved in the interesting work of artificial intelligence. This is a gentle introduction to neural networks and gives a base level understanding of how they work.\n\nPrerequisites:\n\n*   A laptop with a web dev environment, including an editor and a local server\n    \n*   Some proficiency in JavaScript\n    \n*   A cheerful and inquisitive attitude\n    \n*   An appetite (for knowledge and for pizza --- Thanks to Kira for sponsoring the food as well as the space!!)\n    \n\nThe speakers codes on the projector, and everyone in the room copies that code into their own laptops. You'll go home with an exciting new program, and if there's time left over at the end you'll do something cool with it and show a demo to everyone. Fun!\n\nTimetable:\n\n6:30 - doors open, eat pizza\n\n7:00 - workshop code-along\n\n8:30 - extend the codebase\n\n9:00 - everyone goes home"
 }

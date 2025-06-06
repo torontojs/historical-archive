@@ -1,20 +1,20 @@
 {
-  "title": "JS Technical Interview Prep",
-  "hosts": [
-    "Adam N."
-  ],
-  "startDate": "2023-07-27T18:30:00-04:00",
-  "endDate": "2023-07-27T18:30:00-04:00",
-  "status": "active",
-  "locationType": "virtual",
-  "image": "./images/600_513480731.webp",
-  "tags": [
-    "Events in",
-    "JavaScript",
-    "JavaScript Applications",
-    "JavaScript Frameworks",
-    "JavaScript Libraries",
-    "Web Technology"
-  ],
-  "details": "Details\n-------\n\nJoin us for an exciting series of online events focused on Data Structures and Algorithms (DSA) basics, specifically designed for aspiring junior developers! In these interactive sessions, we will delve into fundamental DSA concepts and tackle introductory interview questions that frequently come up in technical interviews. In each session, we will go over one basic concept, see how it applies to interviews, and solve 1-2 easy questions mostly on Leetcode. Don't miss out on this opportunity to enhance your skills and knowledge of technical interviews for your job search.\n\nThis session's topic: Strings\n\n**Code of conduct is enforced at all TorontoJS events**  \n**[https://torontojs.com/p/code\\_of\\_conduct](https://torontojs.com/p/code_of_conduct)**"
+	"title": "JS Technical Interview Prep",
+	"hosts": [
+		"Adam N."
+	],
+	"startDate": "2023-07-27T18:30:00-04:00",
+	"endDate": "2023-07-27T18:30:00-04:00",
+	"status": "active",
+	"locationType": "virtual",
+	"image": "./images/600_513480731.webp",
+	"tags": [
+		"Events in",
+		"JavaScript",
+		"JavaScript Applications",
+		"JavaScript Frameworks",
+		"JavaScript Libraries",
+		"Web Technology"
+	],
+	"details": "Details\n-------\n\nJoin us for an exciting series of online events focused on Data Structures and Algorithms (DSA) basics, specifically designed for aspiring junior developers! In these interactive sessions, we will delve into fundamental DSA concepts and tackle introductory interview questions that frequently come up in technical interviews. In each session, we will go over one basic concept, see how it applies to interviews, and solve 1-2 easy questions mostly on Leetcode. Don't miss out on this opportunity to enhance your skills and knowledge of technical interviews for your job search.\n\nThis session's topic: Strings\n\n**Code of conduct is enforced at all TorontoJS events**  \n**[https://torontojs.com/p/code\\_of\\_conduct](https://torontojs.com/p/code_of_conduct)**"
 }

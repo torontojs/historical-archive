@@ -1,15 +1,15 @@
 {
-  "title": "Toronto JS and Capital One present: A beginner's guide to Webpack and React",
-  "hosts": [
-    "dann"
-  ],
-  "startDate": "2017-06-14T18:00:00-04:00",
-  "endDate": "2017-06-14T18:00:00-04:00",
-  "status": "active",
-  "locationType": "in-person",
-  "image": null,
-  "tags": [
-    "Events in Toronto, ON"
-  ],
-  "details": "Details\n-------\n\nGetting started with modern web application development can seem like a monumental challenge, and it's easy to spend weeks lost in a configuration and component nightmare. Even expert developers are left wandering around in the twisty passages of webpack without a clear roadmap, and the proper mental models for using React efficiently are not easy to come by.\n\nJoin us for an evening of enlightenment, with a pair of workshops designed to lift you out of the quagmire and set your feet on solid ground.\n\nWebpack 2 with Rohan Nair\n\nIn this workshop we will learn the basics of setting up Webpack 2 for a React project for development and for deployment to production. We will cover Hot Module Reloading, bundles, and optimizing builds.  \nRohan is currently the Head of Engineering at Pungle Payments, a Fintech startup using React, Redux, Elixir and Docker. He wrote the Webpack React HMR guide, and often forgets that he did.\n\nReact State with Kalpana Arivazhagan\n\nIntroduction to React’s state. Talk about the differences between Component state and Application State; know when and when not to use them.\n\nKalpana is a Full Stack Software Engineer interested in learning new technologies and building proof of concepts to keep herself up-to-date. For the past few years, she has been doing front-end development using AngularJs; most recently with React.\n\nAgenda:\n\n6:00 Doors open, eat food, talk to nice people  \n6:30 Welcome message and announcements  \n6:40 Webpack workshop  \n7:40 Break, talk to more nice people  \n8:00 React workshop  \n9:00 Continue talking to nice people somewhere else"
+	"title": "Toronto JS and Capital One present: A beginner's guide to Webpack and React",
+	"hosts": [
+		"dann"
+	],
+	"startDate": "2017-06-14T18:00:00-04:00",
+	"endDate": "2017-06-14T18:00:00-04:00",
+	"status": "active",
+	"locationType": "in-person",
+	"image": null,
+	"tags": [
+		"Events in Toronto, ON"
+	],
+	"details": "Details\n-------\n\nGetting started with modern web application development can seem like a monumental challenge, and it's easy to spend weeks lost in a configuration and component nightmare. Even expert developers are left wandering around in the twisty passages of webpack without a clear roadmap, and the proper mental models for using React efficiently are not easy to come by.\n\nJoin us for an evening of enlightenment, with a pair of workshops designed to lift you out of the quagmire and set your feet on solid ground.\n\nWebpack 2 with Rohan Nair\n\nIn this workshop we will learn the basics of setting up Webpack 2 for a React project for development and for deployment to production. We will cover Hot Module Reloading, bundles, and optimizing builds.  \nRohan is currently the Head of Engineering at Pungle Payments, a Fintech startup using React, Redux, Elixir and Docker. He wrote the Webpack React HMR guide, and often forgets that he did.\n\nReact State with Kalpana Arivazhagan\n\nIntroduction to React’s state. Talk about the differences between Component state and Application State; know when and when not to use them.\n\nKalpana is a Full Stack Software Engineer interested in learning new technologies and building proof of concepts to keep herself up-to-date. For the past few years, she has been doing front-end development using AngularJs; most recently with React.\n\nAgenda:\n\n6:00 Doors open, eat food, talk to nice people  \n6:30 Welcome message and announcements  \n6:40 Webpack workshop  \n7:40 Break, talk to more nice people  \n8:00 React workshop  \n9:00 Continue talking to nice people somewhere else"
 }

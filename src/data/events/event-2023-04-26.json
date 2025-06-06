@@ -1,21 +1,21 @@
 {
-  "title": "JS Social: Online",
-  "hosts": [
-    "Matthew M.",
-    "2 others"
-  ],
-  "startDate": "2023-04-26T18:00:00-04:00",
-  "endDate": "2023-04-26T18:00:00-04:00",
-  "status": "active",
-  "locationType": "virtual",
-  "image": "./images/600_510478248.webp",
-  "tags": [
-    "Events in",
-    "JavaScript",
-    "JavaScript Applications",
-    "JavaScript Frameworks",
-    "JavaScript Libraries",
-    "Web Technology"
-  ],
-  "details": "Details\n-------\n\nWelcome, if you're new here! We've made **JS Social: Online** a regular online social event now.\n\nFriends + Code = LOVE!\n\nTorontoJS Social is our lightest event where like minds get together, have a snack or drink, and talk javascript/coding. Feel free to bring your project and questions, but there is no specific programming/talk portion to the event.\n\nWe'll be **Online** for the last Wednesday of the month! Come talk JavaScript, Development, and Community!\n\nThis event is open to all skill levels.  \nCode of conduct is enforced at all TorontoJS events [https://torontojs.com/p/code\\_of\\_conduct](https://torontojs.com/p/code_of_conduct)\n\n**Guild Trial**  \nWe're also trialing a new platform for Events & Presentations - Guild!  \nPlease register for this event on Guild by following the link below, in order to assist us with the trial. Thank you!  \n[https://beta.guild.host/events/js-social-f70z5p](https://beta.guild.host/events/js-social-f70z5p)"
+	"title": "JS Social: Online",
+	"hosts": [
+		"Matthew M.",
+		"2 others"
+	],
+	"startDate": "2023-04-26T18:00:00-04:00",
+	"endDate": "2023-04-26T18:00:00-04:00",
+	"status": "active",
+	"locationType": "virtual",
+	"image": "./images/600_510478248.webp",
+	"tags": [
+		"Events in",
+		"JavaScript",
+		"JavaScript Applications",
+		"JavaScript Frameworks",
+		"JavaScript Libraries",
+		"Web Technology"
+	],
+	"details": "Details\n-------\n\nWelcome, if you're new here! We've made **JS Social: Online** a regular online social event now.\n\nFriends + Code = LOVE!\n\nTorontoJS Social is our lightest event where like minds get together, have a snack or drink, and talk javascript/coding. Feel free to bring your project and questions, but there is no specific programming/talk portion to the event.\n\nWe'll be **Online** for the last Wednesday of the month! Come talk JavaScript, Development, and Community!\n\nThis event is open to all skill levels.  \nCode of conduct is enforced at all TorontoJS events [https://torontojs.com/p/code\\_of\\_conduct](https://torontojs.com/p/code_of_conduct)\n\n**Guild Trial**  \nWe're also trialing a new platform for Events & Presentations - Guild!  \nPlease register for this event on Guild by following the link below, in order to assist us with the trial. Thank you!  \n[https://beta.guild.host/events/js-social-f70z5p](https://beta.guild.host/events/js-social-f70z5p)"
 }

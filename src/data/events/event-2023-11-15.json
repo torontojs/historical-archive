@@ -1,18 +1,18 @@
 {
-  "title": "Toronto JS Social - in person(RSVP Link in description!)",
-  "hosts": [],
-  "startDate": "2023-11-15T18:00:00-05:00",
-  "endDate": "2023-11-15T18:00:00-05:00",
-  "status": "active",
-  "locationType": "in-person",
-  "image": "./images/600_516957577.webp",
-  "tags": [
-    "Events in Toronto, ON",
-    "JavaScript",
-    "Software Development",
-    "JavaScript Applications",
-    "Web Development",
-    "Web Technology"
-  ],
-  "details": "Details\n-------\n\nYour favorite in-person event is back!\n\nJoin us in this chill social event happening on Wednesday, November 15th!\n\nTorontoJS Social is our lightest event where like minds get together, have a snack or drink, and talk Javascript/coding.\n\nCome meet other developers in the area, talk about development and community, make friends, and let's do something away from the screens!\n\nThis event is open to all skill levels, and there's no agenda here other than just catching up with other devs in the community and networking!\n\nHope to see you all there!\n\nCode of conduct is enforced at all TorontoJS events [https://torontojs.com/p/code\\_of\\_conduct](https://torontojs.com/p/code_of_conduct)\n\n**Attendees must register on Guild** [https://guild.host/events/toronto-js-social-in-27ewzx](https://guild.host/events/toronto-js-social-in-27ewzx) to reserve their spot"
+	"title": "Toronto JS Social - in person(RSVP Link in description!)",
+	"hosts": [],
+	"startDate": "2023-11-15T18:00:00-05:00",
+	"endDate": "2023-11-15T18:00:00-05:00",
+	"status": "active",
+	"locationType": "in-person",
+	"image": "./images/600_516957577.webp",
+	"tags": [
+		"Events in Toronto, ON",
+		"JavaScript",
+		"Software Development",
+		"JavaScript Applications",
+		"Web Development",
+		"Web Technology"
+	],
+	"details": "Details\n-------\n\nYour favorite in-person event is back!\n\nJoin us in this chill social event happening on Wednesday, November 15th!\n\nTorontoJS Social is our lightest event where like minds get together, have a snack or drink, and talk Javascript/coding.\n\nCome meet other developers in the area, talk about development and community, make friends, and let's do something away from the screens!\n\nThis event is open to all skill levels, and there's no agenda here other than just catching up with other devs in the community and networking!\n\nHope to see you all there!\n\nCode of conduct is enforced at all TorontoJS events [https://torontojs.com/p/code\\_of\\_conduct](https://torontojs.com/p/code_of_conduct)\n\n**Attendees must register on Guild** [https://guild.host/events/toronto-js-social-in-27ewzx](https://guild.host/events/toronto-js-social-in-27ewzx) to reserve their spot"
 }

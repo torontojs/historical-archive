@@ -1,16 +1,16 @@
 {
-  "title": "JS Workshop",
-  "hosts": [
-    "Matthew M.",
-    "Simon S."
-  ],
-  "startDate": "2021-03-31T18:30:00-04:00",
-  "endDate": "2021-03-31T18:30:00-04:00",
-  "status": "canceled",
-  "locationType": "in-person",
-  "image": null,
-  "tags": [
-    "Events in"
-  ],
-  "details": "Details\n-------\n\nWelcome to the JS Workshop! This is a place for intermediate and advanced JavaScript developers to learn new skills, experiment with interesting technologies and have tons of fun.\n\nPrerequisites:\n\n*   A laptop with a web dev environment, including an editor and a local server\n    \n*   Some proficiency in JavaScript\n    \n*   A cheerful and inquisitive attitude\n    \n*   An appetite (for knowledge and for pizza -- thanks to New Relic for sponsoring us!)\n    \n\nThe speakers codes on the projector, and everyone in the room copies that code into their own laptops. You'll go home with an exciting new program, and if there's time left over at the end you'll do something cool with it and show a demo to everyone. Fun!\n\nTimetable:\n\n6:30 - doors open, eat pizza\n\n7:00 - workshop code-along\n\n8:30 - extend the codebase\n\n9:00 - everyone goes home"
+	"title": "JS Workshop",
+	"hosts": [
+		"Matthew M.",
+		"Simon S."
+	],
+	"startDate": "2021-03-31T18:30:00-04:00",
+	"endDate": "2021-03-31T18:30:00-04:00",
+	"status": "canceled",
+	"locationType": "in-person",
+	"image": null,
+	"tags": [
+		"Events in"
+	],
+	"details": "Details\n-------\n\nWelcome to the JS Workshop! This is a place for intermediate and advanced JavaScript developers to learn new skills, experiment with interesting technologies and have tons of fun.\n\nPrerequisites:\n\n*   A laptop with a web dev environment, including an editor and a local server\n    \n*   Some proficiency in JavaScript\n    \n*   A cheerful and inquisitive attitude\n    \n*   An appetite (for knowledge and for pizza -- thanks to New Relic for sponsoring us!)\n    \n\nThe speakers codes on the projector, and everyone in the room copies that code into their own laptops. You'll go home with an exciting new program, and if there's time left over at the end you'll do something cool with it and show a demo to everyone. Fun!\n\nTimetable:\n\n6:30 - doors open, eat pizza\n\n7:00 - workshop code-along\n\n8:30 - extend the codebase\n\n9:00 - everyone goes home"
 }

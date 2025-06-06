@@ -1,15 +1,15 @@
 {
-  "title": "JS Workshop: ClojureScript!",
-  "hosts": [
-    "dann"
-  ],
-  "startDate": "2017-07-11T18:30:00-04:00",
-  "endDate": "2017-07-11T18:30:00-04:00",
-  "status": "active",
-  "locationType": "in-person",
-  "image": null,
-  "tags": [
-    "Events in Toronto, ON"
-  ],
-  "details": "Details\n-------\n\nWelcome to the JS Workshop! This is a place for intermediate and advanced JavaScript developers to learn new skills, experiment with interesting technologies and have tons of fun.\n\nThis month we have Dmitri Sotnikov showing us the ropes of doing live coding with ClojureScript! It's going to be super duper exciting.\n\nYou'll want to install a couple things:\n\n1.  JVM. Use this openjdk, it's probably the easiest to setup: [http://www.azul.com/downloads/zulu/](http://www.azul.com/downloads/zulu/)\n    \n2.  Leiningen. Follow these instructions: [https://leiningen.org/#install](https://leiningen.org/#install)\n    \n\nIf for some reason you can't install those, then we'll use this as a fallback: [http://nightcoders.net/](http://nightcoders.net/)\n\nAtom and Light Table both have good default support for ClojureScript, so if you don't have a preference then install one of those. Otherwise you can install ClojureScript support for almost any editor, but it might take a little more work.\n\nPrerequisites:\n\n*   A laptop with a web dev environment, including an editor and a local server\n    \n*   Some proficiency in JavaScript\n    \n*   A cheerful and inquisitive attitude\n    \n*   An appetite (for knowledge and for pizza -- thanks to New Relic for sponsoring us!)\n    \n\nThe evening revolves around two main pieces: the code-along and the group work. The first hour has the speaker coding on the projector, while the attendees copy that code into their own laptops. During the second hour we'll break into groups to extend that common code in new and exciting ways.\n\nTimetable:\n\n6:30 - doors open, eat pizza\n\n7:00 - workshop code-along\n\n8:00 - break for ideas and more pizza\n\n8:15 - extend the codebase in groups\n\n9:15 - demo round\n\n9:30 - everyone goes home"
+	"title": "JS Workshop: ClojureScript!",
+	"hosts": [
+		"dann"
+	],
+	"startDate": "2017-07-11T18:30:00-04:00",
+	"endDate": "2017-07-11T18:30:00-04:00",
+	"status": "active",
+	"locationType": "in-person",
+	"image": null,
+	"tags": [
+		"Events in Toronto, ON"
+	],
+	"details": "Details\n-------\n\nWelcome to the JS Workshop! This is a place for intermediate and advanced JavaScript developers to learn new skills, experiment with interesting technologies and have tons of fun.\n\nThis month we have Dmitri Sotnikov showing us the ropes of doing live coding with ClojureScript! It's going to be super duper exciting.\n\nYou'll want to install a couple things:\n\n1.  JVM. Use this openjdk, it's probably the easiest to setup: [http://www.azul.com/downloads/zulu/](http://www.azul.com/downloads/zulu/)\n    \n2.  Leiningen. Follow these instructions: [https://leiningen.org/#install](https://leiningen.org/#install)\n    \n\nIf for some reason you can't install those, then we'll use this as a fallback: [http://nightcoders.net/](http://nightcoders.net/)\n\nAtom and Light Table both have good default support for ClojureScript, so if you don't have a preference then install one of those. Otherwise you can install ClojureScript support for almost any editor, but it might take a little more work.\n\nPrerequisites:\n\n*   A laptop with a web dev environment, including an editor and a local server\n    \n*   Some proficiency in JavaScript\n    \n*   A cheerful and inquisitive attitude\n    \n*   An appetite (for knowledge and for pizza -- thanks to New Relic for sponsoring us!)\n    \n\nThe evening revolves around two main pieces: the code-along and the group work. The first hour has the speaker coding on the projector, while the attendees copy that code into their own laptops. During the second hour we'll break into groups to extend that common code in new and exciting ways.\n\nTimetable:\n\n6:30 - doors open, eat pizza\n\n7:00 - workshop code-along\n\n8:00 - break for ideas and more pizza\n\n8:15 - extend the codebase in groups\n\n9:15 - demo round\n\n9:30 - everyone goes home"
 }

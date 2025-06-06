@@ -1,21 +1,21 @@
 {
-  "title": "JS Tech Talk [In-Person] - Filesystems, and QwikJS",
-  "hosts": [
-    "Aman A.",
-    "sami x."
-  ],
-  "startDate": "2024-02-27T18:00:00-05:00",
-  "endDate": "2024-02-27T18:00:00-05:00",
-  "status": "active",
-  "locationType": "in-person",
-  "image": "./images/600_510821777.webp",
-  "tags": [
-    "Events in Toronto, ON",
-    "JavaScript",
-    "JavaScript Applications",
-    "JavaScript Frameworks",
-    "JavaScript Libraries",
-    "Web Technology"
-  ],
-  "details": "Details\n-------\n\n**🙌 Welcome back to our first meetup of 2024!**\n\nWe welcome you to our February 2024 In-Person Tech Talk Meetup at **[Super.com](http://Super.com)**! 👋\n\nCome out and join us for a special event with our members who are coming together to share their knowledge with the community.\n\n**NOTE:** RSVP on our Guild page: [https://guild.host/events/js-tech-talk-inperson-z5zmjq](https://guild.host/events/js-tech-talk-inperson-z5zmjq)\n\n**Schedule:**  \n**6:00 pm** - Doors Open\n\n**6:20 pm** - Welcome notes from TorontoJS\n\n**6:30 pm** - Welcome from our hosts - Super.com\n\n**6:35 pm** - **Introduction to QwikJS : build blazing fast web apps at the Edge** - by Brandon Cha  \nAbout Brandon: \"_Brandon Cha (he/him) is a Software Developer who loves exploring different cultures through food, travel, and experiences. He previously worked in development as a B2B and B2C solutions consultant primarily within the media and entertainment industry, he likes to discover and find creative solutions to solve the next challenge in web and application development from frontend to the backend. In this talk, Brandon will be sharing with us how the QwikJS framework is easy to use and setup, and why its envious Edge-optimized loading time shows us a glimpse of the future in how frontend development is built and deployed._\"\n\n**7:05 pm** - **Introductions to File Systems** - by Evert Pot  \nAbout Evert: \"_Evert Pot has been building web applications for 20 years and is currently CTO at Sprout Family. Check out his blog: [https://evertpot.com](https://evertpot.com)_\"\n\n**7:35 pm** - Networking\n\n**9:00 pm** - Doors Close\n\n(Note: All times in the schedule are an approximation.)\n\n**Many thanks to [Super.com](http://Super.com) for hosting us!**\n\n\\----\n\nWe're looking for sponsors for events like these. If you or your company would like to support TorontoJS and get a message out to our community, please get in touch with [organizers@torontojs.com](http://organizers@torontojs.com)\n\nThe [Code of Conduct](https://torontojs.com/p/code_of_conduct) is enforced at all TorontoJS events and spaces - online or in-person.\n\nGendered toilets and a single occupancy accessible toilet are available.  \nTorontoJS is a volunteer-led not-for-profit organization. Please help us with tidying up; otherwise, the venue staff and volunteers have to pick up after you.\n\n**IMPORTANT:** Attendees must RSVP on Guild: [https://guild.host/events/js-tech-talk-inperson-z5zmjq](https://guild.host/events/js-tech-talk-inperson-z5zmjq)"
+	"title": "JS Tech Talk [In-Person] - Filesystems, and QwikJS",
+	"hosts": [
+		"Aman A.",
+		"sami x."
+	],
+	"startDate": "2024-02-27T18:00:00-05:00",
+	"endDate": "2024-02-27T18:00:00-05:00",
+	"status": "active",
+	"locationType": "in-person",
+	"image": "./images/600_510821777.webp",
+	"tags": [
+		"Events in Toronto, ON",
+		"JavaScript",
+		"JavaScript Applications",
+		"JavaScript Frameworks",
+		"JavaScript Libraries",
+		"Web Technology"
+	],
+	"details": "Details\n-------\n\n**🙌 Welcome back to our first meetup of 2024!**\n\nWe welcome you to our February 2024 In-Person Tech Talk Meetup at **[Super.com](http://Super.com)**! 👋\n\nCome out and join us for a special event with our members who are coming together to share their knowledge with the community.\n\n**NOTE:** RSVP on our Guild page: [https://guild.host/events/js-tech-talk-inperson-z5zmjq](https://guild.host/events/js-tech-talk-inperson-z5zmjq)\n\n**Schedule:**  \n**6:00 pm** - Doors Open\n\n**6:20 pm** - Welcome notes from TorontoJS\n\n**6:30 pm** - Welcome from our hosts - Super.com\n\n**6:35 pm** - **Introduction to QwikJS : build blazing fast web apps at the Edge** - by Brandon Cha  \nAbout Brandon: \"_Brandon Cha (he/him) is a Software Developer who loves exploring different cultures through food, travel, and experiences. He previously worked in development as a B2B and B2C solutions consultant primarily within the media and entertainment industry, he likes to discover and find creative solutions to solve the next challenge in web and application development from frontend to the backend. In this talk, Brandon will be sharing with us how the QwikJS framework is easy to use and setup, and why its envious Edge-optimized loading time shows us a glimpse of the future in how frontend development is built and deployed._\"\n\n**7:05 pm** - **Introductions to File Systems** - by Evert Pot  \nAbout Evert: \"_Evert Pot has been building web applications for 20 years and is currently CTO at Sprout Family. Check out his blog: [https://evertpot.com](https://evertpot.com)_\"\n\n**7:35 pm** - Networking\n\n**9:00 pm** - Doors Close\n\n(Note: All times in the schedule are an approximation.)\n\n**Many thanks to [Super.com](http://Super.com) for hosting us!**\n\n\\----\n\nWe're looking for sponsors for events like these. If you or your company would like to support TorontoJS and get a message out to our community, please get in touch with [organizers@torontojs.com](http://organizers@torontojs.com)\n\nThe [Code of Conduct](https://torontojs.com/p/code_of_conduct) is enforced at all TorontoJS events and spaces - online or in-person.\n\nGendered toilets and a single occupancy accessible toilet are available.  \nTorontoJS is a volunteer-led not-for-profit organization. Please help us with tidying up; otherwise, the venue staff and volunteers have to pick up after you.\n\n**IMPORTANT:** Attendees must RSVP on Guild: [https://guild.host/events/js-tech-talk-inperson-z5zmjq](https://guild.host/events/js-tech-talk-inperson-z5zmjq)"
 }
