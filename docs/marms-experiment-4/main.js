@@ -1,3 +1,5 @@
+const BASE_URL = 'https://raw.githubusercontent.com/torontojs/historical-archive/main/src/data/'
+
 const el = document.getElementById.bind(document)
 const events = []
 const renderAll = throttle(renderEvents)
@@ -27,7 +29,7 @@ function eventTemplate(event) {
       <summary><span class="date">${new Date(event.startDate).toLocaleString('en-CA', {year: 'numeric', month: 'short', day: '2-digit'})}</span> :: ${event.title}</summary>
       <p class="tags">Tags: ${event.tags.join(', ')}</p>
       <p class="hosts">Hosts: ${event.hosts.join(', ')}</p>
-      <p class="image">${event.image ? `<img src="${event.image}">` : ''}</p>
+      <p class="image">${event.image ? `<img src="${new URL(event.image, new URL('./events/', BASE_URL)).toString()}">` : ''}</p>
       <div class="event_details">${event.details.replace(/\n/g, '<br>')}</div>
     </details>`
 }
@@ -45,8 +47,7 @@ function fetchAll(data) {
 }
 
 function fetchJSON(srcPath, callback) {
-  const prefix = 'https://raw.githubusercontent.com/torontojs/historical-archive/main/src/data/'
-  fetch(prefix + srcPath)
+  fetch(new URL(srcPath, BASE_URL))
   .then(resp => resp.json())
   .then(data => callback(data))
   .catch(err => console.error('Fetch went awry', err, srcPath, callback))
