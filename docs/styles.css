@@ -1,0 +1,66 @@
+:root {
+	font-family: 'Comic Sans MS', 'Segoe Print', 'Bradley Hand', Chilanka, TSCu_Comic, casual, cursive;
+	font-size: 1.2rem;
+	accent-color: tomato;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+body {
+	margin: 1rem;
+	background-color: #1c1c1c;
+	color: whitesmoke;
+}
+
+a { color: orchid; }
+
+h1 {
+	text-align: center;
+	color: transparent;
+	background: linear-gradient(45deg, firebrick, orangered, yellow, seagreen, teal, royalblue, blueviolet);
+	background-clip: text;
+	width: fit-content;
+	margin-inline: auto;
+}
+
+dl {
+	width: 100%;
+	max-width: 100ch;
+	margin-inline: auto;
+	padding-inline: 1rem;
+
+	columns: 2;
+	column-gap: 2rem;
+
+	@media (width < 700px) { columns: 1; }
+
+	p { margin: 0.2rem; }
+
+	dt {
+		font-weight: bold;
+		margin-block-start: 1rem;
+		font-size: 1.3em;
+
+		break-after: avoid;
+		break-inside: avoid;
+		break-before: auto;
+
+		a { color: inherit; }
+
+		&:nth-of-type(1n) { color: firebrick; }
+		&:nth-of-type(2n) { color: orangered; }
+		&:nth-of-type(3n) { color: yellow; }
+		&:nth-of-type(4n) { color: seagreen; }
+		&:nth-of-type(5n) { color: teal; }
+		&:nth-of-type(6n) { color: royalblue; }
+		&:nth-of-type(7n) { color: blueviolet; }
+	}
+
+	dd {
+		margin-inline-start: 1.5rem;
+
+		break-inside: avoid;
+		break-before: avoid;
+		break-after: auto;
+	}
+}

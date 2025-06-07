@@ -1,14 +1,16 @@
+const BASE_URL = 'https://raw.githubusercontent.com/torontojs/historical-archive/main/src/data/';
+
 const el = document.getElementById.bind(document);
 
 // Function to render the timeline from the fetched data
 function renderTimeline(data) {
   let str = '';
-  
+
   // Loop through the data and build HTML for each event
   for (let i = 0; i < data.length; i++) {
     const event = data[i];
     const srcPath = `events/${event.file}`;
-    
+
     // Check if event.tags exists and is an array, else default to an empty array
     const tags = Array.isArray(event.tags) ? event.tags : [];
 
@@ -24,7 +26,7 @@ function renderTimeline(data) {
       </li>
     `;
   }
-  
+
   // Insert the HTML into the timeline container
   el('timeline').innerHTML = str;
 }
@@ -58,11 +60,11 @@ function showEvent(srcPath) {
       <p><strong>Status:</strong> ${eventData.status}</p>
       <p><strong>Location:</strong> ${eventData.locationType}</p>
       <div class="event-image">
-        ${eventData.image ? `<img src="${eventData.image}" alt="${eventData.title}" />` : ''}
+        ${eventData.image ? `<img src="${new URL(eventData.image, new URL('./events/', BASE_URL)).toString()}" alt="${eventData.title}" />` : ''}
       </div>
       <div class="event-details">${formattedDetailsWithParagraphs}</div>
     `;
-    
+
     // Insert the event details HTML into the event container
     el('event').innerHTML = eventHtml;
   });
@@ -70,8 +72,7 @@ function showEvent(srcPath) {
 
 // Function to fetch JSON data
 function fetchJSON(srcPath, callback) {
-  const prefix = 'https://raw.githubusercontent.com/torontojs/historical-archive/main/src/data/';
-  fetch(prefix + srcPath)
+  fetch(new URL(srcPath, BASE_URL))
     .then(resp => resp.json())
     .then(data => callback(data))
     .catch(err => console.error('Fetch went awry', err, srcPath, callback));
